@@ -2,7 +2,7 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
@@ -252,4 +252,15 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+/* Custom CSS Values */
+h3 .glyphicon {
+  font-size: 20px;
+}
+.help-block {
+  font-size: 12px;
+}
+form {
+  font-size: 14px;
 }
