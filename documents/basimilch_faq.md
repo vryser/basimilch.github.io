@@ -13,7 +13,7 @@ FAQ basimilch Abo
 
 - [Wie gross ist das wöchentliche Milchprodukte-Abo?](#wie-gross-ist-das-wöchentliche-milchprodukte-abo)
 
-- [Was tun, wenn mir dieses Abo zu gross / zu klein ist?](#was-tun,-wenn-mir-dieses-abo-zu-gross--zu-klein-ist)
+- [Was tun, wenn mir dieses Abo zu gross oder zu klein ist?](#was-tun,-wenn-mir-dieses-abo-zu-gross-oder-zu-klein-ist)
 
 - [Welche Produkte sind im Milchprodukteabo enthalten?](#welche-produkte-sind-im-milchprodukteabo-enthalten)
 
@@ -94,7 +94,7 @@ Ein Liter verarbeitete Milch entspricht etwa: 1 Liter Trinkmilch, oder
 1 kg Joghurt, oder 300 g Quark, oder 100 g Käse, oder 1dl Rahm etc.
 
 
-## Was tun, wenn mir dieses Abo zu gross / zu klein ist?
+## Was tun, wenn mir dieses Abo zu gross oder zu klein ist?
 
 Ist das Abo zu klein, kann dieses mit bis zu 3 Zusatzabos à jeweils
 zwei Liter ergänzt werden.
