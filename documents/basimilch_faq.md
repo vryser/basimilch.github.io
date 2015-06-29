@@ -13,7 +13,7 @@ FAQ basimilch Abo
 
 - [Wie gross ist das wöchentliche Milchprodukte-Abo?](#wie-gross-ist-das-wöchentliche-milchprodukte-abo)
 
-- [Was tun, wenn mir dieses Abo zu gross oder zu klein ist?](#was-tun,-wenn-mir-dieses-abo-zu-gross-oder-zu-klein-ist)
+- [Was tun, wenn mir dieses Abo zu gross oder zu klein ist?](#was-tun-wenn-mir-dieses-abo-zu-gross-oder-zu-klein-ist)
 
 - [Welche Produkte sind im Milchprodukteabo enthalten?](#welche-produkte-sind-im-milchprodukteabo-enthalten)
 
