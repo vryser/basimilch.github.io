@@ -1,5 +1,5 @@
-FAQ basimilch Abo
-=================
+FAQ basimilch
+=============
 
 - [Woher stammt die Milch für die Milchprodukte der Genossenschaft basimlich?](#woher-stammt-die-milch-für-die-milchprodukte-der-genossenschaft-basimlich)
 
@@ -15,9 +15,9 @@ FAQ basimilch Abo
 
 - [Was tun, wenn mir dieses Abo zu gross oder zu klein ist?](#was-tun-wenn-mir-dieses-abo-zu-gross-oder-zu-klein-ist)
 
-- [Welche Produkte sind im Milchprodukteabo enthalten?](#welche-produkte-sind-im-milchprodukteabo-enthalten)
+- [Welche Produkte sind im Milchprodukte-Abo enthalten?](#welche-produkte-sind-im-milchprodukteabo-enthalten)
 
-- [Erhalten alle das selbe Abo?](#erhalten-alle-das-selbe-abo)
+- [Erhalten alle das gleiche Abo?](#erhalten-alle-das-selbe-abo)
 
 - [Auf welche saisonalen Spezialitäten darf ich mich freuen?](#auf-welche-saisonalen-spezialitäten-darf-ich-mich-freuen)
 
@@ -103,19 +103,19 @@ Ist das Abo zu gross, so empfehlen wir, dieses z.B. mit Nachbarn oder
 Freunden zu teilen.
 
 
-## Welche Produkte sind im Milchprodukteabo enthalten?
+## Welche Produkte sind im Milchprodukte-Abo enthalten?
 
 Das Abo-Sortiment enthält Trinkmilch, Joghurt, Quark, Rahm, Frisch-,
 Weich-, Halbhart- und Hartkäse. Weitere Produkte wie Ricotta, Molke-
 Drink, etc können das Abo ergänzen.
 
 
-## Erhalten alle das selbe Abo?
+## Erhalten alle das gleiche Abo?
 
 Nein bzw. nur teilweise. Die Hälfte des Abos (4 Liter) kann
 individuell gewählt werden. Dieser Anteil deckt den regelmässigen,
 persönlichen Bedarf an Milchprodukten ab und wiederholt sich
-wöchentlich (z.B. jede Woche 2L Trinkmilch, 500g Joghurt, 500g Quark).
+wöchentlich (z.B. jede Woche 2l Trinkmilch, 500g Joghurt, 500g Quark).
 Das gewählte Produkte-Verhältnis kann halbjährlich geändert werden.
 
 Die andere Hälfte des Abos (auch 4 Liter) ist für alle gleich,
@@ -133,7 +133,7 @@ Käser_innenteam und lassen uns überraschen, mit welchen saisonalen
 Spezialitäten sie uns beglücken werden. z.B. mit
 Sommerkräuterstreichkäse, Bärlauchformaggini, Beerenrahmroghurt,
 Heublumennkäse, geräucherter Ricotta, Molke-Drinks, Raclettekäse und
-evt. Fonduemischungen.
+evtl. Fonduemischungen.
 
 
 ## Erhalte ich mein Abo das ganze Jahr?
@@ -152,7 +152,7 @@ freuen.
 
 ## Wie viel kostet ein Milchprodukte-Abo?
 
-Ein Grundabo, bestehend aus acht Litern verarbeiteter Milch, kostet
+Ein Grundabo, bestehend aus acht Liter verarbeiteter Milch, kostet
 jährlich voraussichtlich 1100 Franken. Das entspricht etwa 21 Franken
 pro Woche.
 
@@ -165,10 +165,10 @@ Kühlschränken gelagert. Grundsätzlich werden die Depots dort
 eingerichtet, wo unsere Abonent_innen sie einfach und schnell
 erreichen. Geplant sind ca. 10 Depos in der Stadt Zürich und Oerlikon,
 sowie eines auf dem Hof Im Basi in Dietikon. Es braucht ca. 10 Abos,
-deren Genossenschafter in der Nähe von einander wohnen oder arbeiten,
-um ein Depot zu realisieren. Einige Standorte werden, wenn möglich,
-mit schon bestehenden Gemüsedepots oder genossenschaftlichem Wohnen
-gekoppelt. Diese Depos sind im Gespräch:
+deren Genossenschafter_innen in der Nähe von einander wohnen oder
+arbeiten, um ein Depot zu realisieren. Einige Standorte werden, wenn
+möglich, mit schon bestehenden Gemüsedepots oder genossenschaftlichem
+Wohnen gekoppelt. Diese Depos sind im Gespräch:
 
 - Foodcoop Tor14, Bäckerstrasse 54, 8004 Zürich
 - Baugenossenschaft mehr als wohnen, Hagenholzstr. 104b, 8050 Zürich
@@ -197,7 +197,7 @@ Ein weiterer Vorteil dieser Genossenschaft ist, dass die
 Abonennt_innen, wo möglich, im Betrieb mitarbeiten dürfen bzw. müssen.
 Konkret wird erwartet, dass Genossenschafter_innen mit einer Abogrösse
 von acht Liter mindestens vier Einsätze, bzw. vier Halbtage, pro Jahr
-leisten. Für jeden Zusatzabo von zwei Liter wird einen zusätzlichen
+leisten. Für jedes Zusatzabo von zwei Liter wird einen zusätzlichen
 Einsatz von den Abonennt_innen erwartet. Wer sich öfter beteiligen
 möchte, ist herzlich willkommen!
 
@@ -209,7 +209,7 @@ können die Genossenschafter_innen nicht überall mitwirken. Deswegen
 wird sich die Mitarbeit voraussichtlich auf das Abpacken und die
 Verteilung der Milchprodukte begrenzen. In Zukunft möchten wir die
 Möglichkeiten der Mitarbeit ausbauen und Minipraktikas anbieten (z.B.
-fürs Käseschmieren, Joghurt- und Quarkproduktion,... ).
+fürs Käseschmieren, die Joghurt- und Quarkproduktion, etc. ).
 
 
 ## Wie verbindlich ist meine Anmeldung für ein Abo in der Beitrittserklärung?
@@ -236,6 +236,6 @@ diese Milch auch konsumiert wird, keine Überproduktion stattfindet,
 die Arbeit bezahlt ist, alle Kosten gedeckt und genug Pflege und
 Sorgfalt in den ganzen Betrieb gesteckt werden kann, wird nach
 regionaler Vertragslandwirschaftsmanier im Voraus bezahlt. Etwa zu
-Vergleichen mit dem GA, wo der ganze Betrieb, der dahinter steckt,
-gewährleistet werden und bezahlt werden muss.
+Vergleichen mit dem GA der SBB, wo der ganze Betrieb, der dahinter
+steckt, gewährleistet werden und bezahlt werden muss.
 
