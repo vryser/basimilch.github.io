@@ -32,20 +32,20 @@ Die Milchprodukte werden wöchentlich verteilt, von Januar bis Ende
 Juni sowie von Mitte August bis Ende Dezember. In den
 Schulsommerferien pausiert das Abo. Ein Milchprodukte-Abo besteht aus
 total ca. 8 Liter verarbeitete Milch pro Woche (1 Liter verarbeitete
-Milch entspricht: 1Liter Trinkmilch, 1kg Joghurt, 300g Quark, 100g
-Käse, 1dl Rahm oder 40g Butter etc). Das Abo wird aufgeteilt in einen
+Milch entspricht: 1 Liter Trinkmilch, 1kg Joghurt, 300g Quark, 100g
+Käse, 1dl Rahm oder 40g Butter, etc.). Das Abo wird aufgeteilt in einen
 individuellen und einen saisonalen Anteil zu je 4 Liter.
 
 Der individuelle Anteil ist in seiner Zusammensetzung für jedes Abo
 frei wählbar. Dieser Anteil deckt den regelmässigen, persönlichen
 Bedarf an Milchprodukten ab und wiederholt sich wöchentlich (z.B. jede
-Woche 2L Trinkmilch, 500g Joghurt, 500g Quark). Änderungen im
+Woche 2l Trinkmilch, 500g Joghurt, 500g Quark). Änderungen im
 individuellen Anteil sind halbjährlich möglich (bis Ende Mai für
 Änderungen ab August, bis Ende Oktober für Änderungen ab Januar).
 
 Der saisonale Anteil ist für alle Abos gleich, variiert aber von Woche
 zu Woche. In diesem Anteil sind tendenziell verschiedene Käsesorten
-(jeweils bis ca 400g), vereinzelt aber auch Frischmilchprodukte
+(jeweils bis ca. 400g), vereinzelt aber auch Frischmilchprodukte
 enthalten. Dieser saisonale Teil bringt Abwechslung (z.B. Raclette im
 Winter, Bärlauch-Frischkäse im Frühling, Beerijoghurt im Sommer, etc.)
 und bietet dem/der Käser_in die Möglichkeit zu Innovation und
@@ -54,11 +54,11 @@ Eigenkreationen.
 ### b. Zusatzabo
 
 Wem das generelle Abo zu klein ist, aber ein zweites Abo zuviel wäre,
-kann ein Zusatzabo lösen. In Schritten à jeweils 2L verarbeitete Milch
+kann ein Zusatzabo lösen. In Schritten à jeweils 2l verarbeitete Milch
 können bis zu drei Zusatzabos gelöst werden. Die Produkte der
 Zusatzabos sind frei wählbar. Es gelten die selbe terminliche Regelung
 wie für den individuellen Anteil im Punkt 2.a. und 2.f.: halbjährliche
-Anderungen der Zusammensetzung und Kündigung auf Ende Jahr.
+Änderungen der Zusammensetzung und Kündigung auf Ende Jahr.
 
 ### c. Abonnent_in
 
@@ -132,7 +132,7 @@ Möglichkeiten gemeinsam zum Gelingen des Betriebes beizutragen.
 Als Abonnent_in ist man berechtigt den vereinbarten Anteil der
 Milchprodukte zu beziehen. Als Abonnent_in verpflichtet man sich zur
 Mitarbeit (vgl. Abschnitt Mitarbeit) und bezahlt den jährlichen
-Betriebsbeitrag pro Abo im voraus.
+Betriebsbeitrag pro Abo im Voraus.
 
 ### b. Rechte und Pflichten der Betriebsgruppe
 
