@@ -1,12 +1,13 @@
+# Build settings
+markdown: kramdown
+permalink: pretty
+debug-mode: false
+
 # Site settings
 title: basimilch
 description: Genossenschaft basimilch - Die kooperative Käserei in Dietikon
 baseurl: ""
 url: "http://basimil.ch"
-
-# Build settings
-markdown: kramdown
-permalink: pretty
 
 info:
     name: Genossenschaft basimilch

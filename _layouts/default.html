@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
     <meta name="Description" content="{{ site.description }}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -24,10 +24,10 @@
         margin-right: auto;
       }
 
-      .page-faq h1 {
-        font-size: 14px;
+/*      .page-faq h1 {
+        font-size: 24px;
       }
-    </style>
+*/    </style>
   </head>
   <body class="{{ page.permalink | replace:'/',''  | prepend: 'page-'}}">
     <div class="wrapper">
@@ -53,6 +53,26 @@
 
       </header>
       <section>
+          <!-- Breadcrumbs code from: http://stackoverflow.com/a/14512451 -->
+          <ul class="breadcrumb">
+              <li><a href="/">home</a> </li>
+              {% assign breadcrumbs = page.url | split: '/' %}
+              {% for crumb in breadcrumbs offset:1 %}
+                  {% unless crumb == 'index.html' %}
+                      <li> {{ crumb | remove: '.html' }} </li>
+                  {% endunless %}
+              {% endfor %}
+          </ul>
+          {{ site.debug-mode }}
+          <div {% if site.debug-mode == "true" %}{{ class="hidden" }}{% endif %}>
+            <strong>page.url:</strong> {{ page.url }}
+            <br>
+            <strong>breadcrumbs:</strong> {{ breadcrumbs }}
+            <br>
+            <strong>permalink:</strong> {{ page.permalink }}
+          </div>
+      </section>
+      <section>
         <a href="/">
           <img class="page-header-image" src="/images/{% if page.header-image %}{{ page.header-image }}{% else %}unsere_liebe_kuehe.jpg{% endif %}">
         </a>
@@ -60,15 +80,6 @@
       <section>
         <div class="page-content">
           <div class="wrap">
-                permalink: {{ page.permalink | replace:'/',''  | prepend: "page-"}}
-                <br>
-                permalink: {{ page.permalink }}
-                <br>
-                1blah {{ page.url }}
-                <br>
-                2blah {{ page.id }}
-                <br>
-
             {{ content }}
           </div>
         </div>
@@ -89,7 +100,9 @@
         </small>
       </footer>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+
+    <script src="/javascripts/scale.fix.js"></script>
+    <script src="/external/jquery-2.1.4.min.js"></script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -100,5 +113,25 @@
       ga('send', 'pageview');
 
     </script>
+
+
+    <style>
+    .section-title-link{font-size:0.6em;margin-left: 6px;}
+    </style>
+
+    <script>
+    $("h1[id],h2[id],h3[id],h4[id]").hover(
+      function(){
+        var $this = $(this);
+        if ( $this.data("section-title-link-already-added") ) {
+          $this.find(".section-title-link").toggleClass("hidden");
+        } else {
+          var faqLinkHTML = "<a class='section-title-link' href='#" + $this.attr("id") + "'>[link]</span></a>";
+          $this.append(faqLinkHTML);
+          $this.data("section-title-link-already-added", true);
+        }
+      });
+    </script>
+
   </body>
 </html>
