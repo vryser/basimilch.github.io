@@ -1,4 +1,40 @@
+
+/*
+Following fonts are added from the following import:;
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+.ttf font files are downloaded from the original url: https://fonts.gstatic.com/s/lato/v11/[font-file-name].ttf;
+*/
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  /*src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v11/0DeoTBMnW4sOpD0Zb8OQSALUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');*/
+  src: local('Lato Light'), local('Lato-Light'), url(/external/fonts/0DeoTBMnW4sOpD0Zb8OQSALUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  /*src: local('Lato Bold'), local('Lato-Bold'), url(https://fonts.gstatic.com/s/lato/v11/MZ1aViPqjfvZwVD_tzjjkwLUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');*/
+  src: local('Lato Bold'), local('Lato-Bold'), url(/external/fonts/MZ1aViPqjfvZwVD_tzjjkwLUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  /*src: local('Lato Light Italic'), local('Lato-LightItalic'), url(https://fonts.gstatic.com/s/lato/v11/2HG_tEPiQ4Z6795cGfdivCZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');*/
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(/external/fonts/2HG_tEPiQ4Z6795cGfdivCZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  /*src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(https://fonts.gstatic.com/s/lato/v11/HkF_qI1x_noxlxhrhMQYECZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');*/
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(/external/fonts/HkF_qI1x_noxlxhrhMQYECZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
+}
+
+/* End of fonts import */
 
 body {
   padding:50px;
