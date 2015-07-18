@@ -1,7 +1,7 @@
 # Build settings
 markdown: kramdown
 permalink: pretty
-debug-mode: false
+# debugmode: true
 
 # Site settings
 title: basimilch
