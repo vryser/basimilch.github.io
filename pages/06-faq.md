@@ -40,6 +40,7 @@ Als Mitglied der Genossenschaft ist man nicht automatisch Abonnent_in.
 Das Milchprodukte-Abo muss zusätzlich bestellt werden und benötigt
 zwei Anteilsscheine als Basis.
 
+
 # Wie kann ich ein Abo als Genossenschafter_in bestellen?
 
 Die Anmeldung fürs Abo kann entweder direkt mit der Beitrittserklärung
