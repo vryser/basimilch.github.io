@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="Description" content="{{ site.description }}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <link rel="stylesheet" href="/external/bootstrap-3.3.2-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/basimilch.css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <style>
+      .page-header-image {
+        width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .page-faq h1 {
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body class="{{ page.permalink | replace:'/',''  | prepend: 'page-'}}">
+    <div class="wrapper">
+      <header>
+        <a href="/"><img src="/images/logo_horizontal_380x130.png" alt="basimilch"></a>
+        <hr>
+        <ul>
+            {% for section in site.sections.main %}
+              <li>
+                <a class="section-link" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
+              </li>
+            {% endfor %}
+        </ul>
+
+        <ul>
+            {% for section in site.sections.secondary %}
+              <li>
+                <a class="section-link" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
+              </li>
+            {% endfor %}
+        </ul>
+
+
+      </header>
+      <section>
+        <a href="/">
+          <img class="page-header-image" src="/images/{% if page.header-image %}{{ page.header-image }}{% else %}unsere_liebe_kuehe.jpg{% endif %}">
+        </a>
+      </section>
+      <section>
+        <div class="page-content">
+          <div class="wrap">
+                permalink: {{ page.permalink | replace:'/',''  | prepend: "page-"}}
+                <br>
+                permalink: {{ page.permalink }}
+                <br>
+                1blah {{ page.url }}
+                <br>
+                2blah {{ page.id }}
+                <br>
+
+            {{ content }}
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <small>
+        <p>
+          {{ site.info.name }}<br>
+          {{ site.info.address.street }}<br>
+          {{ site.info.address.plz }} {{ site.info.address.city }}
+        </p>
+        <p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This site</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+        Hosted on <a href="https://github.com/basimilch/basimilch.github.io" target="_blank">GitHub Pages</a>.
+        Based on 'minimal' theme by <a href="https://github.com/orderedlist" target="_blank">orderedlist</a>
+        </p>
+        </small>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60241074-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,48 @@
+# Site settings
+title: basimilch
+description: Genossenschaft basimilch - Die kooperative Käserei in Dietikon
+baseurl: ""
+url: "http://basimil.ch"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+info:
+    name: Genossenschaft basimilch
+    subtitle: Die kooperative Käserei in Dietikon
+    email: info@basimil.ch
+    address:
+        street: Alte Kindhauserstrasse 3
+        plz: 8953
+        city: Dietikon ZH
+
+
+# Site sections
+sections:
+    main:
+        -
+            title:  Die Genossenschaft
+            url:    /genossenschaft
+        -
+            title:  Das Abo
+            url:    /abo
+    secondary:
+        -
+            title:  Aktuelles
+            url:    /aktuelles
+        -
+            title:  Bilder
+            url:    /bilder
+        -
+            title:  Presse
+            url:    /presse
+        -
+            title:  FAQ
+            url:    /faq
+        -
+            title:  Kontakt
+            url:    /kontakt
+        -
+            title:  Freunde
+            url:    /freunde
