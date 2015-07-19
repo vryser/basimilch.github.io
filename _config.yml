@@ -1,7 +1,7 @@
 # Build settings
 markdown: kramdown
 permalink: pretty
-# debugmode: true
+debugmode: true
 
 # Site settings
 title: basimilch
@@ -19,6 +19,10 @@ info:
         city: Dietikon ZH
         url: https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
 
+github:
+    repo:
+        branch: as-jekyll
+        url: https://github.com/basimilch/basimilch.github.io
 
 # Site sections
 sections:
