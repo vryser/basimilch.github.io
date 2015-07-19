@@ -24,6 +24,4 @@ Noch hat es freie Abos und wir freuen uns über motivierte Genossenschafter_inne
   - [Beitrittserklärung und Anmeldung für ein Abo](/documents/basimilch_beitrittserklaerung_A5.pdf)
   - [Medienmittteilung vom 9. Juni 2015](/documents/basimilch_medienmitteilung_20150609.pdf)
 
-Bei weiteren Fragen kannst du uns über {% include info_email_link.html %} kontaktieren.
-
 {% include newsletter_form.html %}
