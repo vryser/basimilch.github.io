@@ -32,10 +32,6 @@
         font-size: 22px;
       }
 
-/*      .page-faq h1 {
-        font-size: 24px;
-      }
-*/
   </style>
   </head>
   <body class="{{ page.permalink | replace:'/',''  | prepend: 'page-'}}">
@@ -97,6 +93,9 @@
         </div>
       </section>
 
+      {% unless page.url == "/" %}
+        {% include kontakt-footer.html %}
+      {% endunless %}
       <footer>
         <small>
         <p>
