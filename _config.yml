@@ -29,26 +29,26 @@ sections:
     main:
         -
             title:  Die Genossenschaft
-            url:    /genossenschaft
+            url:    /genossenschaft/
         -
             title:  Das Abo
-            url:    /abo
+            url:    /abo/
     secondary:
         -
             title:  Aktuelles
-            url:    /aktuelles
+            url:    /aktuelles/
         -
             title:  Bilder
-            url:    /bilder
+            url:    /bilder/
         -
             title:  Presse
-            url:    /presse
+            url:    /presse/
         -
             title:  FAQ
-            url:    /faq
+            url:    /faq/
         -
             title:  Kontakt
-            url:    /kontakt
+            url:    /kontakt/
         -
             title:  Freunde
-            url:    /freunde
+            url:    /freunde/

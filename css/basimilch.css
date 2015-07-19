@@ -67,9 +67,17 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#4DA7DB;
   font-weight:400;
   text-decoration:none;
+}
+a:hover {
+  text-decoration: none;
+  background-color: #E9F8FF;
+}
+a:active {
+  background-color: #4DA7DB;
+  color: white;
 }
 
 a small {
@@ -130,7 +138,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:220px;
   float:left;
   position:fixed;
 }
@@ -157,9 +165,9 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:575px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:2%;
 }
 
 small {
@@ -174,7 +182,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:220px;
   float:left;
   position:fixed;
   bottom:2%;

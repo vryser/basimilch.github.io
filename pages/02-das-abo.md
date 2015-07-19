@@ -5,7 +5,7 @@ header-image: unsere_liebe_kuehe.jpg
 permalink: /abo/
 ---
 
-# Das Abo
+# Beschreibung
 
 Das Milchprodukteabo besteht aus 8 Liter verarbeiteter Milch
 (ungefährer Wochenkonsum von zwei erwachsenen Menschen). Die

@@ -37,20 +37,42 @@
   <body class="{{ page.permalink | replace:'/',''  | prepend: 'page-'}}">
     <div class="wrapper">
       <header>
+        <style>
+          .section-links-group {
+            padding-left: 0;
+          }
+          .section-link {
+            width: 100%;
+            list-style-type: none;
+          }
+          .section-link a {
+            padding: 5px;
+            padding-left: 10px;
+            display: block;
+          }
+          .section-link a:hover {
+            text-decoration: none;
+            background-color: #E9F8FF;
+          }
+          .section-link a.active {
+            background-color: #4DA7DB;
+            color: white;
+          }
+        </style>
         <a href="/"><img src="/images/logo_horizontal_380x130.png" alt="basimilch"></a>
         <hr>
-        <ul>
+        <ul class="section-links-group">
             {% for section in site.sections.main %}
-              <li>
-                <a class="section-link" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
+              <li class="section-link">
+                <a {% if section.url == page.url %}class="active"{% endif %} href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
               </li>
             {% endfor %}
         </ul>
 
-        <ul>
+        <ul class="section-links-group">
             {% for section in site.sections.secondary %}
-              <li>
-                <a class="section-link" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
+              <li class="section-link">
+                <a {% if section.url == page.url %}class="active"{% endif %} href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
               </li>
             {% endfor %}
         </ul>
@@ -83,7 +105,27 @@
           </div>
         </section>
       {% endif %}
-      <section>
+      {% if page.title %}
+        <style>
+          .page-title {
+            font-size: 36px;
+            padding: 10px;
+            padding-left: 20px;
+            margin-bottom: 0;
+            background-color: #4DA7DB;
+            color: white;
+          }
+        </style>
+        <section class="page-title">
+          {{ page.title }}
+        </section>
+      {% endif %}
+      <style>
+        .page-image {
+          margin-bottom: 25px;
+        }
+      </style>
+      <section class="page-image">
         <a href="/">
           <img class="page-header-image" src="/images/{% if page.header-image %}{{ page.header-image }}{% else %}unsere_liebe_kuehe.jpg{% endif %}">
         </a>
