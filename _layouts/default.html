@@ -59,7 +59,7 @@
             color: white;
           }
         </style>
-        <a href="/"><img src="/images/logo_horizontal_380x130.png" alt="basimilch"></a>
+        <a class="home-link" href="/"><img src="/images/logo_horizontal_380x130.png" alt="basimilch"></a>
         <hr>
         <ul class="sections-menu-group">
             {% for section in site.sections.main %}
@@ -126,9 +126,7 @@
         }
       </style>
       <section class="page-image">
-        <a href="/">
-          <img class="page-header-image" src="/images/{% if page.header-image %}{{ page.header-image }}{% else %}unsere_liebe_kuehe.jpg{% endif %}">
-        </a>
+        <img class="page-header-image" src="/images/{% if page.header-image %}{{ page.header-image }}{% else %}unsere_liebe_kuehe.jpg{% endif %}">
       </section>
       <section>
         <div class="page-content">
@@ -173,6 +171,10 @@
     </style>
 
     <script>
+    // Make all non-local links open in new tab
+    $("a[href]").not("[href^='/']").not("[href^='mailto:']").attr("target", "_blank");
+
+    // Add direct links on hover over section titles
     $("h1[id],h2[id],h3[id],h4[id]").hover(
       function(){
         var $this = $(this);

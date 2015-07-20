@@ -87,8 +87,29 @@ a small {
   display:block;
 }
 
-a[role=button]:after{
-  content: '';
+a[target='_blank']:hover::after {
+  font-family: 'Glyphicons Halflings';
+  content: "\e095";
+  color: lightgray;
+  color: rgba(0, 0, 0, .2);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: lighter;
+  display: inline-block;
+  text-decoration: none;
+  position: fixed;
+  right: 200px;
+  bottom: 20px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a[target='_blank']:empty::after {
+  content: "";
+}
+
+a[role=button]:hover::after{
+  content: "";
 }
 
 .button-container {
