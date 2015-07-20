@@ -16,6 +16,8 @@ permalink: /presse/
 
 # Medienmitteilung
 
+Medienmittteilung vom 9. Juni 2015
+
 [Inhalt einfügen...]
 
 {% include button-press-release-pdf-download.html %}
