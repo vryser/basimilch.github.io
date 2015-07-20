@@ -58,6 +58,9 @@
         <hr>
         <ul class="sections-menu-group">
             {% for section in site.sections.main %}
+              {% if section.draft %}
+                {% continue %}
+              {% endif %}
               {% if page.url contains section.url %}
                 {% assign activesection = true %}
               {% else %}
@@ -85,6 +88,9 @@
 
         <ul class="sections-menu-group">
             {% for section in site.sections.secondary %}
+              {% if section.draft %}
+                {% continue %}
+              {% endif %}
               {% if page.url contains section.url %}
                 {% assign activesection = true %}
               {% else %}

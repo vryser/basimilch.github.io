@@ -41,12 +41,14 @@ sections:
             title:  Das Abo
             url:    /abo/
     secondary:
-        # -
-        #     title:  Aktuelles
-        #     url:    /aktuelles/
-        # -
-        #     title:  Bilder
-        #     url:    /bilder/
+        -
+            title:  Aktuelles
+            url:    /aktuelles/
+            draft:  true
+        -
+            title:  Bilder
+            url:    /bilder/
+            draft:  true
         -
             title:  Presse
             url:    /presse/
