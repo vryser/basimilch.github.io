@@ -18,7 +18,6 @@ verteilt. Der Abostart ist auf Januar 2016 geplant.
 
 Noch hat es freie Abos und wir freuen uns über motivierte Genossenschafter_innen.
 
-  - [Infoblatt](/documents/basimilch_infoblatt.pdf)
   - [FAQs](/documents/basimilch_faq.pdf)
   - [Statuten](/statuten)
   - [Betriebsreglement](/documents/basimilch_betriebsreglement.pdf)

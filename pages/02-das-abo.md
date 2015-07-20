@@ -42,3 +42,10 @@ Heublumennkäse, evt. Fonduemischung)
 - **Betriebsbeitrag pro Jahr:** (Abo) 1'100.- Fr.
 - **Mitarbeit pro Abo und Jahr:** mind. 4 Einsätze (à ca. 1/2 Tag)
 - **Start:** Januar 2016
+
+# Infoblatt
+
+Wir haben diese Information als PDF zum herunterladen und ausdrucken
+parat:
+
+{% include button-info-pdf-download.html %}
