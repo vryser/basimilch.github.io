@@ -30,6 +30,13 @@ sections:
         -
             title:  Die Genossenschaft
             url:    /genossenschaft/
+            subsections:
+                -
+                    title:  Statuten
+                    url:    statuten/
+                -
+                    title:  Betriebsreglement
+                    url:    betriebsreglement/
         -
             title:  Das Abo
             url:    /abo/

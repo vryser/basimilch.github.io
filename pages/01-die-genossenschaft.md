@@ -33,8 +33,8 @@ vorbeibringen, und gleichzeitig uns und die lieben Kühe kennenlernen!
 
 Weil sich sehr oft Interessierte zur Zweit anmelden, haben wir
 gleichzeitig zwei Mal die Beitrittserklärung nebeneinander kopiert.
-Sollte dies bei dir nicht der Fall sein, kannst du sicher einer
-Bekanntschaft einen tollen Vorschlag machen! :)
+Sollte dies bei dir nicht dein Fall sein, kannst du sicher einer Bekanntschaft
+einen tollen Vorschlag machen! :)
 
 ## Und bestelle ein Abo
 

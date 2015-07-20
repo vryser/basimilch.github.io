@@ -41,9 +41,12 @@
           .sections-menu-group {
             padding-left: 0;
           }
+          .sections-menu-group,
+          .subsections-menu-group {
+            list-style-type: none;
+          }
           .section-menu-item {
             width: 100%;
-            list-style-type: none;
           }
           .section-menu-item a {
             padding: 5px;
@@ -55,23 +58,47 @@
         <hr>
         <ul class="sections-menu-group">
             {% for section in site.sections.main %}
+              {% if page.url contains section.url %}
+                {% assign activesection = true %}
+              {% else %}
+                {% assign activesection = false %}
+              {% endif %}
               <li class="section-menu-item">
-                <a class="section-menu-link {% if section.url == page.url %}active{% endif %}" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
+                <a class="section-menu-link {% if activesection %}active{% endif %}" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
+                {% if activesection and section.subsections %}
+                  <ul class="subsections-menu-group">
+                      {% for subsection in section.subsections %}
+                        {% if page.url contains subsection.url %}
+                          {% assign activesection = true %}
+                        {% else %}
+                          {% assign activesection = false %}
+                        {% endif %}
+                        <li class="subsection-menu-item">
+                          <a class="subsection-menu-link {% if activesection %}active{% endif %}" href="{{ subsection.url | prepend: section.url | prepend: site.baseurl }}">{{ subsection.title }}</a>
+                        </li>
+                      {% endfor %}
+                  </ul>
+                {% endif %}
               </li>
             {% endfor %}
         </ul>
 
         <ul class="sections-menu-group">
             {% for section in site.sections.secondary %}
+              {% if page.url contains section.url %}
+                {% assign activesection = true %}
+              {% else %}
+                {% assign activesection = false %}
+              {% endif %}
               <li class="section-menu-item">
-                <a class="section-menu-link {% if section.url == page.url %}active{% endif %}" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
+                <a class="section-menu-link {% if activesection %}active{% endif %}" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
               </li>
             {% endfor %}
         </ul>
 
 
       </header>
-      {% if site.debugmode == true %}
+      {% if site.debugmode %}
         <section>
           <!-- Breadcrumbs code from: http://stackoverflow.com/a/14512451 -->
           <ul class="breadcrumb">
