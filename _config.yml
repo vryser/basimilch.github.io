@@ -37,9 +37,9 @@ sections:
         -
             title:  Aktuelles
             url:    /aktuelles/
-        -
-            title:  Bilder
-            url:    /bilder/
+        # -
+        #     title:  Bilder
+        #     url:    /bilder/
         -
             title:  Presse
             url:    /presse/
