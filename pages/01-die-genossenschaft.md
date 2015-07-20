@@ -16,3 +16,36 @@ Produzent_innen, die eine partizipative und demokratische
 Wirtschaftsform realisiert.
 
 Ökologisch, fair und transparent.
+
+# Genosschenschafter_innen werden
+
+_(Sektion nach GoogleDocs Dokument, noch mit Vera zu beschprechen)_
+
+Um Genosschenschafter_innen zu werden, drucke bitte die
+Beitrittserklärung aus und schicke sie uns ausgefüllt und
+unterschrieben an _{{site.info.name}}, {{site.info.address.street}},
+{{site.info.address.plz}} {{site.info.address.city}}_.
+
+Wenn du magst, kannst du sie natürlich jederzeit auf dem Hof
+vorbeibringen, und gleichzeitig uns und die lieben Kühe kennenlernen!
+
+{% include button-signup-form-pdf-download.html %}
+
+Weil sich sehr oft Interessierte zur Zweit anmelden, haben wir
+gleichzeitig zwei Mal die Beitrittserklärung nebeneinander kopiert.
+Sollte dies bei dir nicht der Fall sein, kannst du sicher einer
+Bekanntschaft einen tollen Vorschlag machen! :)
+
+## Und bestelle ein Abo
+
+[Inhalt einfügen...]
+
+# Wie kann ich sonst helfen?
+
+## Werde Göner
+
+[Inhalt einfügen...]
+
+## Werbe uns!
+
+[Inhalt einfügen...]

@@ -73,9 +73,10 @@ a {
 }
 a:hover {
   text-decoration: none;
-  background-color: #E9F8FF;
+  background-color: #F3FAFE;
 }
-a:active {
+a:active,
+a.active {
   background-color: #4DA7DB;
   color: white;
 }

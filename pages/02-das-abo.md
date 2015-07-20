@@ -43,6 +43,8 @@ Heublumennkäse, evt. Fonduemischung)
 - **Mitarbeit pro Abo und Jahr:** mind. 4 Einsätze (à ca. 1/2 Tag)
 - **Start:** Januar 2016
 
+{% include button-signup.html %}
+
 # Infoblatt
 
 Wir haben diese Information als PDF zum herunterladen und ausdrucken
