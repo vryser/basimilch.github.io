@@ -87,6 +87,15 @@ a small {
   display:block;
 }
 
+a[role=button]:after{
+  content: '';
+}
+
+.button-container {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
