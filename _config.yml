@@ -34,9 +34,9 @@ sections:
             title:  Das Abo
             url:    /abo/
     secondary:
-        -
-            title:  Aktuelles
-            url:    /aktuelles/
+        # -
+        #     title:  Aktuelles
+        #     url:    /aktuelles/
         # -
         #     title:  Bilder
         #     url:    /bilder/
