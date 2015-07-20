@@ -20,9 +20,4 @@ Noch hat es freie Abos und wir freuen uns über motivierte Genossenschafter_inne
 
 {% include button-signup.html %}
 
-  - [FAQs](/documents/basimilch_faq.pdf)
-  - [Statuten](/statuten)
-  - [Betriebsreglement](/documents/basimilch_betriebsreglement.pdf)
-  - [Medienmittteilung vom 9. Juni 2015](/documents/basimilch_medienmitteilung_20150609.pdf)
-
 {% include newsletter_form.html %}
