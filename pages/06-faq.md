@@ -33,6 +33,7 @@ und der Zeichnung von Anteilscheinen aufgenommen, womit die Statuten
 und das Betriebsreglement anerkannt werden. Ein Anteilschein kostet
 300.- Franken.
 
+{% include button-signup.html %}
 
 # Erhalte ich als Genossenschafter_in automatisch ein Abo?
 
@@ -45,7 +46,7 @@ zwei Anteilsscheine als Basis.
 
 Die Anmeldung fürs Abo kann entweder direkt mit der Beitrittserklärung
 erfolgen. Oder wer sich später für ein Abo entscheidet, sendet eine
-Email an info@basimil.ch.
+Email an {% include info_email_link.html %}.
 
 
 # Wie gross ist das wöchentliche Milchprodukte-Abo?
