@@ -54,7 +54,11 @@
             display: block;
           }
         </style>
-        <a class="home-link" href="/"><img src="/images/logo_horizontal_380x130.png" alt="basimilch"></a>
+        {% if page.url == "/" %}
+          <a class="home-link" href="/"><img src="/images/logo_blau_512px.png" alt="basimilch"></a>
+        {% else %}
+          <a class="home-link" href="/"><img src="/images/logo_weiss_512px.png" alt="basimilch"></a>
+        {% endif %}
         <hr>
         <ul class="sections-menu-group">
             {% for section in site.sections.main %}
