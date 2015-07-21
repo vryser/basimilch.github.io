@@ -21,8 +21,11 @@ Wirtschaftsform realisiert.
 
 _(Sektion nach GoogleDocs Dokument, noch mit Vera zu beschprechen)_
 
-Um Genosschenschafter_innen zu werden, drucke bitte die
-Beitrittserklärung aus und schicke sie uns ausgefüllt und
+Um Genosschenschafter_innen zu werden, musst du mit den
+[**Statuten**](statuten) und dem
+[**Betriebsreglement**](betriebsreglement) einverstanden sein und
+anerkannt haben. Wenn es der Fall ist, drucke bitte die
+**Beitrittserklärung** aus und schicke sie uns ausgefüllt und
 unterschrieben an _{{site.info.name}}, {{site.info.address.street}},
 {{site.info.address.plz}} {{site.info.address.city}}_.
 
