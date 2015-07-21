@@ -10,7 +10,7 @@ Betriebsreglement der Genossenschaft
 
 _basimilch – die kooperative Käserei in Dietikon_
 
-## Inhalt
+### Inhalt
 
 1. [Standort](#1-standort)
 1. [Milchprodukteabo](#2-milchprodukteabo)
@@ -20,7 +20,8 @@ _basimilch – die kooperative Käserei in Dietikon_
 1. [Finanzen](#6-finanzen)
 
 
-## 1. Standort
+1\. Standort
+------------
 
 Der Betrieb der Genossenschaft basimilch findet auf dem Hof Im Basi in
 Dietikon statt. Die Hofeigentümer_innen und -bewirtschafter_innen
@@ -29,8 +30,8 @@ legen ihre betriebsbezogene Zusammenarbeit in einem separaten Vertrag
 fest.
 
 
-2. Milchprodukteabo
--------------------
+2\. Milchprodukteabo
+--------------------
 
 ### a. Abo
 
@@ -91,8 +92,8 @@ Spätester Kündigungstermin für das Folgejahr ist der 30. August des
 jeweils laufenden Jahres.
 
 
-3. Verteilung
--------------
+3\. Verteilung
+--------------
 
 ### a. Fahrer_innen
 
@@ -116,8 +117,8 @@ Genossenschafter_innen betreut und sollten leicht zugänglich, aber
 trotzdem nicht öffentlich ausgestellt sein.
 
 
-4. Rechte und Pflichten
------------------------
+4\. Rechte und Pflichten
+------------------------
 
 ### a. Rechte und Pflichten der Genossenschafter_innen
 
@@ -166,8 +167,8 @@ Zudem ist die Mitarbeit in der Betriebsgruppe Teil ihrer Anstellung
 als Käser_in. Diese wird monetär über ihren Lohn entschädigt.
 
 
-5. Mitarbeit
-------------
+5\. Mitarbeit
+-------------
 
 ### a. Wer
 
@@ -229,8 +230,8 @@ Käser_innen ein Hygienekonzept erstellt. Dieses muss von allen
 Beteiligten eingehalten werden.
 
 
-6. Finanzen
------------
+6\. Finanzen
+------------
 
 ### a. Anteilscheine
 
