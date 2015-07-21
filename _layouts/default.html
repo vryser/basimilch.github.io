@@ -47,12 +47,16 @@
     <div class="wrapper">
       <header>
         <style>
-          .sections-menu-group {
-            padding-left: 0;
-          }
           .sections-menu-group,
           .subsections-menu-group {
             list-style-type: none;
+          }
+          .sections-menu-group {
+            padding-left: 0;
+          }
+          .subsections-menu-group {
+            font-size: 0.85em;
+            margin-bottom: 15px;
           }
           .section-menu-item {
             width: 100%;
@@ -64,7 +68,7 @@
           }
         </style>
         {% if page.url == "/" %}
-          <a class="home-link" href="/"><img src="/images/logo_blau_512px.png" alt="basimilch"></a>
+          <a class="home-link active" href="/"><img src="/images/logo_blau_512px.png" alt="basimilch"></a>
         {% else %}
           <a class="home-link" href="/"><img src="/images/logo_weiss_512px.png" alt="basimilch"></a>
         {% endif %}
