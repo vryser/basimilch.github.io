@@ -67,7 +67,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#4DA7DB;
+  color:#749BC4;
   font-weight:400;
   text-decoration:none;
 }
@@ -77,7 +77,7 @@ a:hover {
 }
 a:active,
 a.active {
-  background-color: #4DA7DB;
+  background-color: #749BC4;
   color: white;
 }
 
@@ -91,7 +91,7 @@ a small {
 a[target='_blank']:hover::after {
   font-family: 'Glyphicons Halflings';
   content: "\e095";
-  color: #4DA7DB;
+  color: #749BC4;
   font-size: 30px;
   font-style: normal;
   font-weight: lighter;
