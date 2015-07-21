@@ -44,6 +44,9 @@
   </style>
   </head>
   <body class="{{ page.permalink | replace:'/',''  | prepend: 'page-'}}">
+    <div class="top-link">
+      <span class="glyphicon glyphicon-chevron-up"></span>
+    </div>
     <div class="wrapper">
       <header>
         <style>
@@ -53,6 +56,7 @@
           }
           .sections-menu-group {
             padding-left: 0;
+            margin-bottom: 30px;
           }
           .subsections-menu-group {
             font-size: 0.85em;
@@ -218,6 +222,23 @@
           $this.data("section-title-link-already-added", true);
         }
       });
+
+    var topThreshold = 300,
+        topLinkShown = false,
+        $topLink     = $(".top-link");
+    $(window).scroll(function(){
+      if ( this.scrollY > topThreshold && ! topLinkShown ) {
+        topLinkShown = true;
+        $topLink.stop().fadeIn("fast");
+      } else if ( this.scrollY < topThreshold && topLinkShown ) {
+        topLinkShown = false;
+        $topLink.stop().fadeOut("fast");
+      }
+    });
+    $topLink.click(function(){
+      $("body").animate({scrollTop : 0},"fast");
+      return false;
+    });
     </script>
 
   </body>

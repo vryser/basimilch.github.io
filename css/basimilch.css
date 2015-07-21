@@ -84,6 +84,15 @@ a.active img,
   color: white;
   border-color: transparent;
 }
+.top-link {
+  display: none;
+  cursor: pointer;
+  color: #509BC9;
+  position: fixed;
+  right: 200px;
+  top: 3%;
+  font-size: 30px;
+}
 .page-title {
   font-size: 36px;
   padding: 12px;
@@ -93,6 +102,9 @@ a.active img,
 
 .btn-info:hover {
   background-color: #3183B4;
+}
+.top-link:hover {
+  color: #3183B4;
 }
 
 a small {
