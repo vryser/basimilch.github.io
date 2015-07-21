@@ -28,10 +28,10 @@ direkt nach dem Melken ermöglicht.
 # Wie werde ich Genossenschafter_in?
 
 Genossenschafter_innen werden von der Betriebsgruppe mit einer
-unterzeichneten [Beitrittserklärung](http://basimil.ch/documents/basimilch_beitrittserklaerung_A5.pdf)
-und der Zeichnung von Anteilscheinen aufgenommen, womit die Statuten
-und das Betriebsreglement anerkannt werden. Ein Anteilschein kostet
-300.- Franken.
+unterzeichneten Beitrittserklärung und der Zeichnung von
+Anteilscheinen aufgenommen, womit die Statuten und das
+Betriebsreglement anerkannt werden. Ein Anteilschein kostet 300.-
+Franken.
 
 {% include button-signup.html %}
 
