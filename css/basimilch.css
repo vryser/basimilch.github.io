@@ -67,7 +67,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#749BC4;
+  color:#509BC9;
   font-weight:400;
   text-decoration:none;
 }
@@ -76,9 +76,22 @@ a:hover {
   background-color: #F3FAFE;
 }
 a:active,
-a.active {
-  background-color: #749BC4;
+a.active,
+.btn-info,
+.page-title {
+  background-color: #509BC9;
   color: white;
+  border-color: transparent;
+}
+.page-title {
+  font-size: 36px;
+  padding: 10px;
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+
+.btn-info:hover {
+  background-color: #3183B4;
 }
 
 a small {
@@ -91,7 +104,7 @@ a small {
 a[target='_blank']:hover::after {
   font-family: 'Glyphicons Halflings';
   content: "\e095";
-  color: #749BC4;
+  color: #509BC9;
   font-size: 30px;
   font-style: normal;
   font-weight: lighter;
