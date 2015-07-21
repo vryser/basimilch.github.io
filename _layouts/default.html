@@ -197,7 +197,7 @@
 
     <script>
     // Make all non-local links open in new tab
-    $("a[href]").not("[href^='/']").not("[href^='mailto:']").attr("target", "_blank");
+    $("a[href]").not("[href^='/']").not("[href^='#']").not("[href^='mailto:']").attr("target", "_blank");
 
     // Add direct links on hover over section titles
     $("h1[id],h2[id],h3[id],h4[id]").hover(
