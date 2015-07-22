@@ -1,7 +1,6 @@
 ---
 title: Betriebsreglement
 layout: legal
-header-image: unsere_liebe_kuehe.jpg
 permalink: /genossenschaft/betriebsreglement/
 ---
 

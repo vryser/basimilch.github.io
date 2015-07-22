@@ -3,6 +3,13 @@ markdown: kramdown
 permalink: pretty
 # debugmode: true
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
 # Site settings
 title: basimilch
 description: Genossenschaft basimilch - Die kooperative Käserei in Dietikon

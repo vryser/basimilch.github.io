@@ -1,7 +1,6 @@
 ---
 title: Statuten
 layout: legal
-header-image: unsere_liebe_kuehe.jpg
 permalink: /genossenschaft/statuten/
 ---
 
