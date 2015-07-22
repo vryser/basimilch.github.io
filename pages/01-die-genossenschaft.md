@@ -1,5 +1,6 @@
 ---
 title: Die Genossenschaft
+description: Allgemeine Informationen über die Genossenschaft und wie man Genossenschafter_innen werden kann
 section-group: main
 permalink: /genossenschaft/
 ---

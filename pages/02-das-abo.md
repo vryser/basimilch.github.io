@@ -1,5 +1,6 @@
 ---
 title: Das Abo
+description: Informationen über das wöchentliche Milchprodukte-Abo
 section-group: main
 permalink: /abo/
 ---

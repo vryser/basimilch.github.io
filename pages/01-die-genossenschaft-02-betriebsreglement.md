@@ -1,6 +1,6 @@
 ---
 title: Betriebsreglement
-layout: legal
+description: Betriebsreglement der Genossenschaft
 permalink: /genossenschaft/betriebsreglement/
 ---
 

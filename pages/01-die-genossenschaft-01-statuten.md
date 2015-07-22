@@ -1,6 +1,6 @@
 ---
 title: Statuten
-layout: legal
+description: Statuten der Genossenschaft
 permalink: /genossenschaft/statuten/
 ---
 

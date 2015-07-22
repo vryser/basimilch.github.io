@@ -1,5 +1,6 @@
 ---
 title: FAQ
+description: Häufig gestellte Fragen zum Abo und zur Genossenschaft
 permalink: /faq/
 ---
 

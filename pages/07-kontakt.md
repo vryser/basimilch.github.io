@@ -1,5 +1,6 @@
 ---
 title: Kontakt
+description: Adresse und Ortsplan
 permalink: /kontakt/
 ---
 

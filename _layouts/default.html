@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-    <meta name="Description" content="{{ site.description }}">
+    <meta name="Description" content="{% if page.description %}{{ page.description }} | {% endif %}{{ site.description }}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
