@@ -1,5 +1,6 @@
 ---
 title: Das Abo
+section-group: main
 permalink: /abo/
 ---
 

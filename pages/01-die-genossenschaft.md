@@ -1,5 +1,6 @@
 ---
 title: Die Genossenschaft
+section-group: main
 permalink: /genossenschaft/
 ---
 

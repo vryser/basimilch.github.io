@@ -3,11 +3,14 @@ markdown: kramdown
 permalink: pretty
 # debugmode: true
 
+exclude: ["git-untracked"]
+
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
     values:
+      section-group: "secondary"
       layout: "default"
 
 # Site settings
@@ -30,41 +33,3 @@ github:
     repo:
         branch: as-jekyll
         url: https://github.com/basimilch/basimilch.github.io
-
-# Site sections
-sections:
-    main:
-        -
-            title:  Die Genossenschaft
-            url:    /genossenschaft/
-            subsections:
-                -
-                    title:  Statuten
-                    url:    statuten/
-                -
-                    title:  Betriebsreglement
-                    url:    betriebsreglement/
-        -
-            title:  Das Abo
-            url:    /abo/
-    secondary:
-        -
-            title:  Aktuelles
-            url:    /aktuelles/
-            draft:  true
-        -
-            title:  Bilder
-            url:    /bilder/
-            draft:  true
-        -
-            title:  Presse
-            url:    /presse/
-        -
-            title:  FAQ
-            url:    /faq/
-        -
-            title:  Kontakt
-            url:    /kontakt/
-        -
-            title:  Freunde
-            url:    /freunde/
