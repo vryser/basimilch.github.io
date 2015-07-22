@@ -162,7 +162,9 @@
         }
       </style>
       <section class="page-image">
-        <img class="page-header-image" src="/images/{% if page.header-image %}{{ page.header-image }}{% else %}unsere_liebe_kuehe.jpg{% endif %}">
+        {{ site.files }}
+        <img class="page-header-image" src="/images/{{ page.path | replace: '.md', '.jpg' }}">
+        <!-- <img class="page-header-image" src="/images/{% if page.header-image %}{{ page.header-image }}{% else %}unsere_liebe_kuehe.jpg{% endif %}"> -->
       </section>
       <section>
         <div class="page-content">
