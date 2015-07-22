@@ -46,7 +46,6 @@ Heublumennkäse, evt. Fonduemischung)
 
 # Infoblatt
 
-Wir haben diese Information als PDF zum herunterladen und ausdrucken
-parat:
+Die wichtigsten Informationen zum Abo und zur Genossenschaft als PDF:
 
 {% include button-info-pdf-download.html %}
