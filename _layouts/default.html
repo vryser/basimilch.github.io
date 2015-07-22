@@ -32,8 +32,10 @@
         margin-left: auto;
         margin-right: auto;
       }
+      h1,h2,h3,h4,h5,h6 {
+        padding-top: 20px;
+      }
       h1 {
-        padding-top: 15px;
         padding-bottom: 10px;
         border-bottom: 1px solid #777;
       }
@@ -255,7 +257,10 @@
       }
     });
     $topLink.click(function(){
-      $("body").animate({scrollTop : topThreshold - 5},"fast");
+      var topElemPosition = $("#inhalt").parent().find("h1:first-of-type").position(),
+          scrollTopPosition = topElemPosition ? topElemPosition.top : 0;
+          scrollTopPosition = (window.scrollY > scrollTopPosition) ? scrollTopPosition : 0;
+      $("body").animate({scrollTop : scrollTopPosition},"fast");
       return false;
     });
     </script>
