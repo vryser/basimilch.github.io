@@ -1,6 +1,6 @@
 ---
 title: Betriebsreglement
-layout: default
+layout: legal
 header-image: unsere_liebe_kuehe.jpg
 permalink: /genossenschaft/betriebsreglement/
 ---
@@ -10,14 +10,15 @@ Betriebsreglement der Genossenschaft
 
 _basimilch – die kooperative Käserei in Dietikon_
 
-### Inhalt
+Inhalt
+------
 
-1. [Standort](#1-standort)
-1. [Milchprodukteabo](#2-milchprodukteabo)
-1. [Verteilung](#3-verteilung)
-1. [Rechte und Pflichten](#4-rechte-und-pflichten)
-1. [Mitarbeit](#5-mitarbeit)
-1. [Finanzen](#6-finanzen)
+1. [Standort](#standort)
+1. [Milchprodukteabo](#milchprodukteabo)
+1. [Verteilung](#verteilung)
+1. [Rechte und Pflichten](#rechte-und-pflichten)
+1. [Mitarbeit](#mitarbeit)
+1. [Finanzen](#finanzen)
 
 
 1\. Standort
