@@ -223,7 +223,7 @@
         }
       });
 
-    var topThreshold = 300,
+    var topThreshold = 325,
         topLinkShown = false,
         $topLink     = $(".top-link");
     $(window).scroll(function(){
@@ -236,7 +236,7 @@
       }
     });
     $topLink.click(function(){
-      $("body").animate({scrollTop : 0},"fast");
+      $("body").animate({scrollTop : topThreshold - 5},"fast");
       return false;
     });
     </script>
