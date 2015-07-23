@@ -24,8 +24,3 @@ Medienmittteilung vom 9. Juni 2015:
 Die wichtigsten Informationen zum Abo und zur Genossenschaft als PDF:
 
 {% include button-info-pdf-download.html %}
-
-
-# Info-Kit
-
-[Inhalt einfügen...]
