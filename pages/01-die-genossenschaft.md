@@ -1,6 +1,6 @@
 ---
 title: Die Genossenschaft
-description: Allgemeine Informationen über die Genossenschaft und wie man Genossenschafter_inn werden kann
+description: Allgemeine Informationen über die Genossenschaft und wie man Genossenschafter_in werden kann
 section-group: main
 permalink: /genossenschaft/
 ---
@@ -17,11 +17,9 @@ Wirtschaftsform realisiert.
 
 - Ökologisch, fair und transparent.
 
-# Genosschenschafter_innen werden
+# Genosschenschafter_in werden
 
-_(Sektion nach GoogleDocs Dokument, noch mit Vera zu beschprechen)_
-
-Um Genosschenschafter_innen zu werden, musst du dich mit den
+Um Genosschenschafter_in zu werden, musst du dich mit den
 [**Statuten**](statuten) und dem
 [**Betriebsreglement**](betriebsreglement) einverstanden erklären. 
 Zur Anmeldung kannst du die 
