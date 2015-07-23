@@ -14,8 +14,9 @@ hofeigenen Käserei zu Käse, Joghurt, Quark, Rahm, Butter, Rohmilch
 etc. verarbeitet und im wöchentlichen Abo in der Region Zürich
 verteilt. Der Abostart ist auf **Januar 2016** geplant.
 
-Noch hat es freie Abos und wir freuen uns über motivierte Genossenschafter_innen.
-
 {% include button-signup.html %}
+
+Noch hat es freie Abos und wir freuen uns über motivierte
+Genossenschafter_innen.
 
 {% include newsletter_form.html %}
