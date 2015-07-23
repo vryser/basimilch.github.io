@@ -121,10 +121,11 @@ des Betriebes bei. Es macht sich immer wieder eigene Gedanken zum
 Betrieb, nimmt an der Generalversammlung teil und beteiligt sich aktiv
 an den anfallenden Arbeiten (z.B. Abpacken, Verteilung,
 Administration, evtl. Produktion, Käsepflege, in einer Projektgruppe
-oder in der Betriebsgruppe, d.h. Verwaltung - siehe Artikel 6 und 9).
-Die Mitarbeit ist nötig für das Funktionieren der Genossenschaft und
-wird von den Genossenschafter_innen erwartet. Die genaue Mindestzahl
-an Arbeitseinsätzen ist im Betriebsreglement bestimmt.
+oder in der Betriebsgruppe, d.h. Verwaltung - siehe Artikel
+[6](#verwaltung-betriebsgruppe) und [9](#projektgruppen)). Die
+Mitarbeit ist nötig für das Funktionieren der Genossenschaft und wird
+von den Genossenschafter_innen erwartet. Die genaue Mindestzahl an
+Arbeitseinsätzen ist im Betriebsreglement bestimmt.
 
 ### b.
 
@@ -176,7 +177,8 @@ Die Generalversammlung hat folgende Kompetenzen:
 
 #### i.
 
-Die Festsetzung und Änderung der Statuten mit Zwei-Drittel- Mehrheit der abgegebenen Stimmen
+Die Festsetzung und Änderung der Statuten mit Zwei-Drittel-Mehrheit
+der abgegebenen Stimmen
 
 #### ii.
 
@@ -184,11 +186,14 @@ Genehmigung des Betriebsreglementes
 
 #### iii.
 
-Die Wahl der Betriebsgruppe (mit Ausnahme der Käser_in), der Kontrollstelle sowie der Projektgruppen für die Dauer eines Jahres
+Die Wahl der Betriebsgruppe (mit Ausnahme der Käser_in), der
+Kontrollstelle sowie der Projektgruppen für die Dauer eines Jahres
 
 #### iv.
 
-Die Abnahme der Jahresrechnung, der Bilanz und des Jahresberichts, sowie die Beschlussfassung über die Verwendung des Rechnungsergebnisses
+Die Abnahme der Jahresrechnung, der Bilanz und des Jahresberichts,
+sowie die Beschlussfassung über die Verwendung des
+Rechnungsergebnisses
 
 #### v.
 
@@ -196,7 +201,8 @@ Die Entlastung der Betriebsgruppe
 
 #### vi.
 
-Die Beschlussfassung über weitere Themen, welche der Generalversammlung durch Gesetz oder Statuten vorbehalten sind
+Die Beschlussfassung über weitere Themen, welche der
+Generalversammlung durch Gesetz oder Statuten vorbehalten sind
 
 
 ### d.
@@ -223,7 +229,7 @@ protokolliert.
 Die Verwaltung wird als Betriebsgruppe bezeichnet, ist das
 ausführende Organ der Genossenschaft und besteht aus mindestens
 vier Personen, zusammengesetzt aus den Milchproduzent_innen (vgl.
-Art. 7), aus den Käser_innen (vgl. Art. 8) sowie weiteren
+[Art. 7](#hofbesitzer-milchproduzenten)), aus den Käser_innen (vgl. [Art. 8](#kserin)) sowie weiteren
 Genossenschafter_innen.
 
 ### b.
@@ -239,68 +245,72 @@ Sitzungen werden protokolliert.
 
 Die Betriebsgruppe hat folgende Aufgaben und Kompetenzen:
 
-#### 1.
+#### i.
 
 Die Einberufung der Generalversammlung und die Ausführung ihrer
-    Beschlüsse
+Beschlüsse
 
-#### 2.
+#### ii.
 
 Die Zeichnungsberechtigung kollektiv zu zweien
 
-#### 3.
+#### iii.
 
 Vertretung der Genossenschaft nach Aussen, Kommunikation nach
-    innen und aussen sowie Aufnahme neuer Genossenschaftsmitglieder
+innen und aussen sowie Aufnahme neuer Genossenschaftsmitglieder
 
-#### 4.
+#### iv.
 
-Einstellung und Kündigung von Arbeitskräften, inkl. der
-    Käser_in. Bei einem allfälligen Entscheid über die Kündigung der
-    Käser_in muss diese in den Ausstand treten
+Einstellung und Kündigung von Arbeitskräften, inkl. der Käser_in. Bei
+einem allfälligen Entscheid über die Kündigung der Käser_in muss diese
+in den Ausstand treten
 
-#### 5.
+#### v.
 
 Koordination der eigenen Tätigkeiten
 
-#### 6.
+#### vi.
 
 Führung resp. Koordination der Kasse und der Buchhaltung
 
-#### 7.
+#### vii.
 
-Nachhaltige Planung der Genossenschaftsfinanzen sowie Erstellen
-    der Jahresrechnung und des Budgets
+Nachhaltige Planung der Genossenschaftsfinanzen sowie Erstellen der
+Jahresrechnung und des Budgets
 
-#### 8.
+#### viii.
 
 Sicherstellung der kontinuierlichen Herstellung der Milch und
-    Milchprodukte
+Milchprodukte
 
-#### 9.
+#### ix.
 
 Bei Bedarf Sicherstellung einer Stellvertretung der Käser_in
 
-    10. Aufgebot, Koordination und Organisation der mitarbeitenden
-    Genossenschafter_innen
+#### x.
 
-#### 11.
+Aufgebot, Koordination und Organisation der mitarbeitenden
+Genossenschafter_innen
 
-Sicherstellung einer zuverlässigen Verteilung der Produkte
-    durch die Genossenschafter_innen
+#### xi.
 
-#### 12.
+Sicherstellung einer zuverlässigen Verteilung der Produkte durch die
+Genossenschafter_innen
+
+#### xii.
 
 Anlaufstelle bei internen Konflikten
 
-#### 13.
+#### xiii.
 
-Alle weiteren Aufgaben, welche für den funktionierenden
-    Betrieb der Genossenschaft anfallen
+Alle weiteren Aufgaben, welche für den funktionierenden Betrieb der
+Genossenschaft anfallen
+
 
 ### d.
 
-Mit Ausnahme der Arbeit der Käser_in sowie Sondereinsätzen werden die Tätigkeiten der Betriebsgruppe nicht monetär abgegolten.
+Mit Ausnahme der Arbeit der Käser_in sowie Sondereinsätzen werden die
+Tätigkeiten der Betriebsgruppe nicht monetär abgegolten.
 
 
 7\. Hofbesitzer/ Milchproduzenten
@@ -310,25 +320,29 @@ Mit Ausnahme der Arbeit der Käser_in sowie Sondereinsätzen werden die Tätigke
 
 Die Milchproduzenten haben folgende Aufgaben und Kompetenzen:
 
-#### 1.
+#### i.
 
-Milchproduktion in Absprache mit der Käser_in und der Betriebsgruppe in vereinbarter Menge und Qualität
+Milchproduktion in Absprache mit der Käser_in und der Betriebsgruppe
+in vereinbarter Menge und Qualität
 
-#### 2.
+#### ii.
 
-Mitarbeit in der Betriebsgruppe gemäss Art. 6
+Mitarbeit in der Betriebsgruppe gemäss [Art. 6](#verwaltung-betriebsgruppe)
 
-#### 3.
+#### iii.
 
-Ausgabenentscheide im Rahmen des normalen Betriebsbedarfes und innerhalb des von der GV genehmigten Budgets treffen
+Ausgabenentscheide im Rahmen des normalen Betriebsbedarfes und
+innerhalb des von der GV genehmigten Budgets treffen
 
-#### 4.
+#### iv.
 
-Das Bereitstellen der im Rahmen der Milchverarbeitung und Käsepflege benötigten Infrastruktur
+Das Bereitstellen der im Rahmen der Milchverarbeitung und Käsepflege
+benötigten Infrastruktur
 
-#### 5.
+#### v.
 
-Bereitstellen eines Aufenthaltsraumes für die Genossenschaft und die Käser_in.
+Bereitstellen eines Aufenthaltsraumes für die Genossenschaft und die
+Käser_in
 
 
 8\. Käser_in
@@ -338,39 +352,28 @@ Bereitstellen eines Aufenthaltsraumes für die Genossenschaft und die Käser_in.
 
 Die Käsereistelle wird von einer oder mehreren erfahrenen Käser_innen besetzt, die Mitglieder der Genossenschaft sind. Zu ihrem Verantwortungsbereich gehören folgende Aufgaben:
 
-#### 1.
+#### i.
 
-Mitarbeit in der Betriebsgruppe gemäss Art. 6
+Mitarbeit in der Betriebsgruppe gemäss [Art. 6](#verwaltung-betriebsgruppe).
 
-#### 2.
+#### ii.
 
 Führung des Milchverarbeitungsbetriebs:
 
-#### 1.
+1. Erarbeitung des Produktionsplans gemäss der vereinbarten Abo-
+Zusammenstellung
 
-Erarbeitung des Produktionsplans gemäss der vereinbarten Abo-Zusammenstellung
+2. Kontinuierliche Herstellung von Milchprodukten gemäss Produktionsplan
 
-#### 2.
+3. Ausarbeitung und Umsetzung des Hygienekonzeptes
 
-Kontinuierliche Herstellung von Milchprodukten gemäss Produktionsplan
+4. Ausgabenentscheide treffen, im Rahmen des normalen Betriebsbedarfes und innerhalb des von der GV genehmigten Budgets
 
-#### 3.
+5. Pflege und Instandhaltung der Werkzeuge und Gerätschaften
 
-Ausarbeitung und Umsetzung des Hygienekonzeptes
+6. Sämtliche weitere notwendinge Tätigkeiten
 
-#### 4.
-
-Ausgabenentscheide treffen, im Rahmen des normalen Betriebsbedarfes und innerhalb des von der GV genehmigten Budgets
-
-#### 5.
-
-Pflege und Instandhaltung der Werkzeuge und Gerätschaften
-
-#### 6.
-
-Sämtliche weitere notwendinge Tätigkeiten
-
-#### 1.
+#### iii.
 
 Planung und Betreuung der Mitarbeit durch die Genossenschafter_innen
 
@@ -380,7 +383,11 @@ Planung und Betreuung der Mitarbeit durch die Genossenschafter_innen
 
 ### a.
 
-Projektgruppen widmen sich einem spezifischen Thema wie zum Beispiel Erweiterung des Käsesortiments, Anschaffung einer neuen Maschine, Mitgliederwerbung, Organisation Genossenschaftsfest etc. Sie werden von der GV für die Dauer des jeweiligen Projektes oder auf ein Jahr gewählt resp. bestätigt.
+Projektgruppen widmen sich einem spezifischen Thema wie zum Beispiel
+Erweiterung des Käsesortiments, Anschaffung einer neuen Maschine,
+Mitgliederwerbung, Organisation Genossenschaftsfest etc. Sie werden
+von der GV für die Dauer des jeweiligen Projektes oder auf ein Jahr
+gewählt resp. bestätigt.
 
 
 10\. Kontrollstelle
@@ -388,7 +395,12 @@ Projektgruppen widmen sich einem spezifischen Thema wie zum Beispiel Erweiterung
 
 ### a.
 
-Im Rahmen des Gesetzes verzichtet die Genossenschaft auf die eingeschränkte Revision. Die Kontrollstelle besteht aus mindestens zwei Personen und wird von der Generalversammlung gewählt. Sie überprüft die Jahresrechnung sowie die Arbeit der Betriebsgruppe und erstattet der Generalversammlung Bericht darüber. Die Kontrollstelle darf nicht der Verwaltung bzw. der Betriebsgruppe angehören.
+Im Rahmen des Gesetzes verzichtet die Genossenschaft auf die
+eingeschränkte Revision. Die Kontrollstelle besteht aus mindestens
+zwei Personen und wird von der Generalversammlung gewählt. Sie
+überprüft die Jahresrechnung sowie die Arbeit der Betriebsgruppe und
+erstattet der Generalversammlung Bericht darüber. Die Kontrollstelle
+darf nicht der Verwaltung bzw. der Betriebsgruppe angehören.
 
 
 11\. Finanzen
@@ -398,28 +410,33 @@ Im Rahmen des Gesetzes verzichtet die Genossenschaft auf die eingeschränkte Rev
 
 Die finanziellen Mittel der Genossenschaft bestehen aus:
 
-#### 1.
+#### i.
 
-dem Anteilscheinkapital, eingeteilt in Anteilscheine von je CHF 300.-, auf den jeweiligen Namen lautend
+dem Anteilscheinkapital, eingeteilt in Anteilscheine von je CHF 300.-,
+auf den jeweiligen Namen lautend
 
-#### 2.
+#### ii.
 
 Betriebsbeiträgen der Genossenschafter_innen
 
-#### 3.
+#### iii.
 
 Darlehen und Schenkungen
 
-#### 1.
+### b.
 
 JedeR GenossenschafterIn hat mindestens einen Anteilschein von CHF 300.- zu übernehmen. Pro Milchprodukteabo müssen mindestens 2 Anteilscheine übernommen werden.
 
-#### 2.
+### c.
 
 Für die Verbindlichkeiten der Genossenschaft haftet das Genossenschaftsvermögen. Jede persönliche Haftung der Genossenschafter_innen ist ausgeschlossen.
-   3. Über die Verwendung des Reinertrages entscheidet die Generalversammlung.
 
-#### 4.
+### d.
+
+Über die Verwendung des Reinertrages entscheidet die
+ÜGeneralversammlung.
+
+### e.
 
 Das Geschäftsjahr beginnt am 1. Januar und endet am 31. Dezember.
 
@@ -429,7 +446,8 @@ Das Geschäftsjahr beginnt am 1. Januar und endet am 31. Dezember.
 
 ### a.
 
-Publikationsorgane der Genossenschaft sind das Amtsblatt des Kantons Zürich sowie das schweizerische Handelsamtsblatt.
+Publikationsorgane der Genossenschaft sind das Amtsblatt des Kantons
+Zürich sowie das schweizerische Handelsamtsblatt.
 
 
 13\. Auflösung
@@ -437,7 +455,15 @@ Publikationsorgane der Genossenschaft sind das Amtsblatt des Kantons Zürich sow
 
 ### a.
 
-Die Genossenschaft ist aufzulösen, wenn dies von der Generalversammlung mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen beschlossen wird. Die Liquidation der Genossenschaft wird durch die Betriebsgruppe besorgt, sofern die Generalversammlung nicht andere Personen damit beauftragt. Das Vermögen der Genossenschaft wird nach Tilgung ihrer Schulden in erster Linie zur Rückzahlung der Anteilscheine zum Nominalwert verwendet. Die konkrete Verwendung eines allfällig verbleibenden Überschusses wird an der Generalversammlung bestimmt.
+Die Genossenschaft ist aufzulösen, wenn dies von der
+Generalversammlung mit einer Mehrheit von zwei Dritteln der
+abgegebenen Stimmen beschlossen wird. Die Liquidation der
+Genossenschaft wird durch die Betriebsgruppe besorgt, sofern die
+Generalversammlung nicht andere Personen damit beauftragt. Das
+Vermögen der Genossenschaft wird nach Tilgung ihrer Schulden in erster
+Linie zur Rückzahlung der Anteilscheine zum Nominalwert verwendet. Die
+konkrete Verwendung eines allfällig verbleibenden Überschusses wird an
+der Generalversammlung bestimmt.
 
 
 14\. Inkrafttreten
@@ -445,6 +471,7 @@ Die Genossenschaft ist aufzulösen, wenn dies von der Generalversammlung mit ein
 
 ### a.
 
-Diese Statuten wurden an der Genossenschaftsversammlung vom 17. Februar 2015 verabschiedet und treten ab sofort in Kraft.
+Diese Statuten wurden an der Genossenschaftsversammlung vom 17.
+Februar 2015 verabschiedet und treten ab sofort in Kraft.
 
 _Dietikon, den 17. Februar 2015_
