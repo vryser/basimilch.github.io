@@ -19,5 +19,3 @@ Noch hat es freie Abos und wir freuen uns über motivierte Genossenschafter_inne
 {% include button-signup.html %}
 
 {% include newsletter_form.html %}
-
-Das ist ein Test.
