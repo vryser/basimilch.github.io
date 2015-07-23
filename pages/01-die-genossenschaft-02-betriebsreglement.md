@@ -20,14 +20,18 @@ Inhalt
 1. [Finanzen](#finanzen)
 
 
+
 1\. Standort
 ------------
+
+### a. Standort
 
 Der Betrieb der Genossenschaft basimilch findet auf dem Hof Im Basi in
 Dietikon statt. Die Hofeigentümer_innen und -bewirtschafter_innen
 Anita Triaca und Fabian Brandenberger und die Genossenschaft basimilch
 legen ihre betriebsbezogene Zusammenarbeit in einem separaten Vertrag
 fest.
+
 
 
 2\. Milchprodukteabo
@@ -58,6 +62,7 @@ Winter, Bärlauch-Frischkäse im Frühling, Beerijoghurt im Sommer, etc.)
 und bietet dem/der Käser_in die Möglichkeit zu Innovation und
 Eigenkreationen.
 
+
 ### b. Zusatzabo
 
 Wem das generelle Abo zu klein ist, aber ein zweites Abo zuviel wäre,
@@ -67,10 +72,12 @@ Zusatzabos sind frei wählbar. Es gelten die selbe terminliche Regelung
 wie für den individuellen Anteil im Punkt 2.a. und 2.f.: halbjährliche
 Änderungen der Zusammensetzung und Kündigung auf Ende Jahr.
 
+
 ### c. Abonnent_in
 
 Als Mitglied der Genossenschaft ist man nicht automatisch Abonnent_in.
 Das Milchprodukte-Abo muss zusätzlich bestellt werden.
+
 
 ### d. Ferien und Feiertagsregelungen
 
@@ -80,9 +87,11 @@ Verfügung stellen. Kühe kennen keine Feiertage. Die Milchprodukte
 werden auch dann verteilt, wenn der Liefertag auf einen Feiertag
 fällt.
 
+
 ### e. Aboverlängerung
 
 Das Abo verlängert sich bis auf Wiederruf automatisch um ein Jahr.
+
 
 ### f. Abokündigung
 
@@ -90,6 +99,7 @@ Das Milchprodukteabo kann unter Einhaltung einer viermonatigen
 Kündigungsfrist auf Ende eines Geschäftsjahres gekündigt werden.
 Spätester Kündigungstermin für das Folgejahr ist der 30. August des
 jeweils laufenden Jahres.
+
 
 
 3\. Verteilung
@@ -117,6 +127,7 @@ Genossenschafter_innen betreut und sollten leicht zugänglich, aber
 trotzdem nicht öffentlich ausgestellt sein.
 
 
+
 4\. Rechte und Pflichten
 ------------------------
 
@@ -141,6 +152,7 @@ Milchprodukte zu beziehen. Als Abonnent_in verpflichtet man sich zur
 Mitarbeit (vgl. Abschnitt Mitarbeit) und bezahlt den jährlichen
 Betriebsbeitrag pro Abo im Voraus.
 
+
 ### b. Rechte und Pflichten der Betriebsgruppe
 
 Die Rechte und Pflichten der Betriebsgruppe sind in den Statuten klar
@@ -152,6 +164,7 @@ einem Milchprodukteabo honoriert.
 Die Käser_innen sind Teil der Betriebsgruppe. So kann der notwendige
 Informationsfluss zwischen den Produktions- und
 Administrationsbereichen regelmässig und unkompliziert stattfinden.
+
 
 ### c. Rechte und Pflichten der Käser_innen (und Praktikant_innen)
 
@@ -167,6 +180,7 @@ Zudem ist die Mitarbeit in der Betriebsgruppe Teil ihrer Anstellung
 als Käser_in. Diese wird monetär über ihren Lohn entschädigt.
 
 
+
 5\. Mitarbeit
 -------------
 
@@ -174,6 +188,7 @@ als Käser_in. Diese wird monetär über ihren Lohn entschädigt.
 
 Für die anfallende Mitarbeit stellen sich Abonnent_innen im Rahmen
 ihrer Mitarbeitspflicht zur Verfügung.
+
 
 ### b. Was
 
@@ -186,6 +201,7 @@ Verpacken, Abfüllen und Käse-Schneiden, Ausliefern der Milchprodukte
 in die Depots, Depot-Betreuung, Wartung der Infrastruktur sowie
 Administration oder Gestaltung resp. Mitarbeit in einer Projektgruppe.
 
+
 ### c. Wie oft
 
 Die jährliche Mindestleistung besteht aus vier Einsätzen im Betrieb
@@ -193,12 +209,14 @@ pro Abo, resp. ein Einsatz mehr pro Zusatzabo. Ein Einsatz dauert
 circa einen halben Tag. Zusätzliches Engagement ist herzlich
 willkommen.
 
+
 ### d. Wann
 
 Der Zeitpunkt der Mitarbeit wird je nach Art der anfallenden
 Tätigkeiten  von den Käser_innen und/oder von der Betriebsgruppe
 koordiniert. Die Einsatzplanung erfolgt über den Mitgliederbereich der
 basimilch-Website.
+
 
 ### e. Konditionen
 
@@ -223,11 +241,12 @@ Genossenschafter_innen und möglichen weiteren Beteiligten eingehalten
 werden müssen, solange sie sich auf dem Hof aufhalten. Für das
 Vorgehen bei Regelverstössen ist die Betriebsgruppe zuständig.
 
-#### vi. Hygiene
+#### iv. Hygiene
 
 Für die Käserei, den Käsekeller und den Abpackraum wird von den
 Käser_innen ein Hygienekonzept erstellt. Dieses muss von allen
 Beteiligten eingehalten werden.
+
 
 
 6\. Finanzen
@@ -250,10 +269,12 @@ auf die einzelnen Personen im Haushalt zu verteilen.
 Der Austritt oder Ausschluss aus der Genossenschaft richtet sich nach
 Gesetz und Statuten und muss schriftlich erfolgen.
 
+
 ### b. Betriebsbeiträge
 
 Die Höhe der Betriebsbeiträge wird von der Generalversammlung der
 Genossenschaft festgelegt.
+
 
 ### c. Buchhaltung
 
@@ -262,6 +283,7 @@ beauftragt. Jede_r Genossenschafter_in hat das Recht, sämtliche Belege
 und Unterlagen einzusehen, sofern diese Einsicht keine
 Persönlichkeitsrechte (z.B. der Käser_innen) oder andere übergeordnete
 Bestimmungen verletzt.
+
 
 ### d. Ausgaben-Rückvergütung
 
@@ -272,7 +294,7 @@ diese vorgängig mit mindestens einem Mitglied der Betriebsgruppe
 abgesprochen hat, erhält sie grundsätzlich rückvergütet. Dasselbe gilt
 auch für die Mitglieder der Betriebsgruppe. Die
 Benzinkostenrückvergütung für die Fahrten zwecks Aboverteilung in die
-Depots ist in Artikel 3.a. geregelt.
+Depots ist in [Artikel 3.a](#a-fahrerinnen). geregelt.
 
 #### ii. Verfall
 
