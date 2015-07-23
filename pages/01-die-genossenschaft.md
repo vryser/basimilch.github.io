@@ -52,4 +52,4 @@ Nachbarn und Arbeitskollegen von uns erzählen.
 
 ## Werde Gönner_in
 
-Falls dir unser Projekt gefällt, kannst du es gerene auch als Gönner_in unterstützten. 
+Falls dir unser Projekt gefällt, kannst du es gerne auch als Gönner_in unterstützten. 
