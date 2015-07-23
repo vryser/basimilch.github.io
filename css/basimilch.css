@@ -339,3 +339,7 @@ h3 .glyphicon {
 form {
   font-size: 14px;
 }
+
+h1 span.glyphicon {
+  font-size: 0.8em;
+}
