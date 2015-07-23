@@ -28,6 +28,7 @@ Inhalt
 1. [Inkrafttreten](#inkrafttreten)
 
 
+
 1\. Name und Sitz
 -----------------
 
@@ -37,6 +38,7 @@ Unter der Firma „Genossenschaft basimilch - Die kooperative Käserei
 in Dietikon“ besteht mit Sitz in Dietikon eine Genossenschaft gemäss
 den vorliegenden Statuten und den Vorschriften der Art. 828 ff. des
 Schweizerischen Obligationenrechts.
+
 
 
 2\. Zweck
@@ -50,6 +52,7 @@ regionaler Vertragslandwirtschaft Milchproduktion, -verarbeitung und
 -verteilung mit hoher Rücksicht auf die ökologische, soziale und
 ökonomische Nachhaltigkeit selber gestalten und verwalten, um den
 Grundbedarf der Genossenschafter_innen an Milchprodukten zu decken.
+
 
 
 3\. Leitsätze
@@ -107,6 +110,7 @@ bleiben und wirtschaftliche Tätigkeiten in lokale Netzwerke und
 soziale Werte eingebettet werden.
 
 
+
 4\. Genossenschafter_innen
 --------------------------
 
@@ -127,12 +131,14 @@ Mitarbeit ist nötig für das Funktionieren der Genossenschaft und wird
 von den Genossenschafter_innen erwartet. Die genaue Mindestzahl an
 Arbeitseinsätzen ist im Betriebsreglement bestimmt.
 
+
 ### b.
 
 Genossenschafter_innen werden von der Betriebsgruppe mit einer
 unterzeichneten Beitrittserklärung und der Zeichnung von
 Anteilscheinen aufgenommen, womit die Statuten und das
 Betriebsreglement anerkannt werden.
+
 
 ### c.
 
@@ -148,6 +154,7 @@ Genossenschaft kann ohne Begründung durch die Betriebsgruppe
 ausgesprochen werden.
 
 
+
 5\. Generalversammlung
 ----------------------
 
@@ -160,6 +167,7 @@ ausserordentliche Generalversammlung kann jederzeit stattfinden, wenn
 es das Gesetz, die Betriebsgruppe oder ein Zehntel der
 Genossenschafter_innen verlangt.
 
+
 ### b.
 
 Mindestens zehn Tage vor der Generalversammlung erhalten alle
@@ -170,6 +178,7 @@ Betriebsreglementsänderung wird auch der Text der vorgesehenen
 der Betriebsgruppe eine Kopie der Jahresrechnung und der Bilanz mit
 dem Revisionsbericht zu verlangen oder am Sitz der Genossenschaft
 sämtliche Belege einzusehen.
+
 
 ### c.
 
@@ -210,15 +219,18 @@ Generalversammlung durch Gesetz oder Statuten vorbehalten sind
 Die Generalversammlung fasst ihre Beschlüsse mit Zwei-Drittel-Mehr
 der abgegebenen Stimmen.
 
+
 ### e.
 
 Stimmberechtigt sind alle Genossenschafter_innen. Jede_r
 Genossenschafter_in hat eine Stimme.
 
+
 ### f.
 
 Die Generalversammlung wird von der Betriebsgruppe geleitet und
 protokolliert.
+
 
 
 6\. Verwaltung („Betriebsgruppe“)
@@ -232,6 +244,7 @@ vier Personen, zusammengesetzt aus den Milchproduzent_innen (vgl.
 [Art. 7](#hofbesitzer-milchproduzenten)), aus den Käser_innen (vgl. [Art. 8](#kserin)) sowie weiteren
 Genossenschafter_innen.
 
+
 ### b.
 
 Die Betriebsgruppe konstituiert sich selbst und gemäss dem
@@ -240,6 +253,7 @@ Sie ist beschlussfähig, wenn mindestens zwei Drittel ihrer
 Mitglieder anwesend sind, davon mindestens eine Milchproduzent_in.
 Ihre Beschlüsse werden durch Konsensentscheid gefasst, die
 Sitzungen werden protokolliert.
+
 
 ### c.
 
@@ -313,6 +327,7 @@ Mit Ausnahme der Arbeit der Käser_in sowie Sondereinsätzen werden die
 Tätigkeiten der Betriebsgruppe nicht monetär abgegolten.
 
 
+
 7\. Hofbesitzer/ Milchproduzenten
 ---------------------------------
 
@@ -345,12 +360,15 @@ Bereitstellen eines Aufenthaltsraumes für die Genossenschaft und die
 Käser_in
 
 
+
 8\. Käser_in
 ------------
 
 ### a.
 
-Die Käsereistelle wird von einer oder mehreren erfahrenen Käser_innen besetzt, die Mitglieder der Genossenschaft sind. Zu ihrem Verantwortungsbereich gehören folgende Aufgaben:
+Die Käsereistelle wird von einer oder mehreren erfahrenen Käser_innen
+besetzt, die Mitglieder der Genossenschaft sind. Zu ihrem
+Verantwortungsbereich gehören folgende Aufgaben:
 
 #### i.
 
@@ -363,11 +381,13 @@ Führung des Milchverarbeitungsbetriebs:
 1. Erarbeitung des Produktionsplans gemäss der vereinbarten Abo-
 Zusammenstellung
 
-2. Kontinuierliche Herstellung von Milchprodukten gemäss Produktionsplan
+2. Kontinuierliche Herstellung von Milchprodukten gemäss
+Produktionsplan
 
 3. Ausarbeitung und Umsetzung des Hygienekonzeptes
 
-4. Ausgabenentscheide treffen, im Rahmen des normalen Betriebsbedarfes und innerhalb des von der GV genehmigten Budgets
+4. Ausgabenentscheide treffen, im Rahmen des normalen Betriebsbedarfes
+und innerhalb des von der GV genehmigten Budgets
 
 5. Pflege und Instandhaltung der Werkzeuge und Gerätschaften
 
@@ -376,6 +396,7 @@ Zusammenstellung
 #### iii.
 
 Planung und Betreuung der Mitarbeit durch die Genossenschafter_innen
+
 
 
 9\. Projektgruppen
@@ -390,6 +411,7 @@ von der GV für die Dauer des jeweiligen Projektes oder auf ein Jahr
 gewählt resp. bestätigt.
 
 
+
 10\. Kontrollstelle
 -------------------
 
@@ -401,6 +423,7 @@ zwei Personen und wird von der Generalversammlung gewählt. Sie
 überprüft die Jahresrechnung sowie die Arbeit der Betriebsgruppe und
 erstattet der Generalversammlung Bericht darüber. Die Kontrollstelle
 darf nicht der Verwaltung bzw. der Betriebsgruppe angehören.
+
 
 
 11\. Finanzen
@@ -423,22 +446,31 @@ Betriebsbeiträgen der Genossenschafter_innen
 
 Darlehen und Schenkungen
 
+
 ### b.
 
-JedeR GenossenschafterIn hat mindestens einen Anteilschein von CHF 300.- zu übernehmen. Pro Milchprodukteabo müssen mindestens 2 Anteilscheine übernommen werden.
+JedeR GenossenschafterIn hat mindestens einen Anteilschein von CHF
+300.- zu übernehmen. Pro Milchprodukteabo müssen mindestens 2
+Anteilscheine übernommen werden.
+
 
 ### c.
 
-Für die Verbindlichkeiten der Genossenschaft haftet das Genossenschaftsvermögen. Jede persönliche Haftung der Genossenschafter_innen ist ausgeschlossen.
+Für die Verbindlichkeiten der Genossenschaft haftet das
+Genossenschaftsvermögen. Jede persönliche Haftung der
+Genossenschafter_innen ist ausgeschlossen.
+
 
 ### d.
 
 Über die Verwendung des Reinertrages entscheidet die
-ÜGeneralversammlung.
+Generalversammlung.
+
 
 ### e.
 
 Das Geschäftsjahr beginnt am 1. Januar und endet am 31. Dezember.
+
 
 
 12\. Publikationsorgan
@@ -448,6 +480,7 @@ Das Geschäftsjahr beginnt am 1. Januar und endet am 31. Dezember.
 
 Publikationsorgane der Genossenschaft sind das Amtsblatt des Kantons
 Zürich sowie das schweizerische Handelsamtsblatt.
+
 
 
 13\. Auflösung
@@ -464,6 +497,7 @@ Vermögen der Genossenschaft wird nach Tilgung ihrer Schulden in erster
 Linie zur Rückzahlung der Anteilscheine zum Nominalwert verwendet. Die
 konkrete Verwendung eines allfällig verbleibenden Überschusses wird an
 der Generalversammlung bestimmt.
+
 
 
 14\. Inkrafttreten
