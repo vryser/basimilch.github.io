@@ -37,7 +37,7 @@ Weil sich oft zwei Personen gemeinsam für ein Abo anmelden, sind im
 im PDF gleich zwei Beitrittserklärungen enthalten. Natürlich kann man
 sich aber auch alleine anmelden.
 
-## Und bestelle ein Abo
+## Ein Abo bestellen
 
 Um ein Abo zu bestellen musst du Genossenschafter_in bei basimilch
 werden. Bitte fülle dazu die obige Beitritterklärung aus und kreuze
@@ -45,14 +45,12 @@ das Feld "ich möchte ein wöchentliches Abo beziehen" an.
 
 # Wie kann ich sonst helfen?
 
-## Bewerbe uns!
+## Mache Werbung für uns!
 
-Wir sind in der heissen Phase des Aufbaus und suchen
-Neugenossenschafter_innen und Abonnent_innen. Gerne darfst du deinem
-Freundes- und Bekanntenkreis, deinen Nachbarn und Arbeitskollegen von
+Wir sind in der heissen Phase des Aufbaus und suchen noch  Abonnent_innen. Gerne darfst du deinem Freundes- und Bekanntenkreis, deinen Nachbarn und Arbeitskollegen von
 uns erzählen.
 
 ## Werde Gönner_in
 
-Falls dir unser Projekt gefällt, kannst du es gerne auch als Gönner_in
-unterstützten.
+Falls dir unser Projekt gefällt, kannst du es gerne auch mit einer Spende unterstützen: 
+
