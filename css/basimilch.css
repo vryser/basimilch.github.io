@@ -112,7 +112,7 @@ a.active img,
   cursor: pointer;
   color: #509BC9;
   position: fixed;
-  right: 200px;
+  right: 5%;
   top: 3%;
   font-size: 30px;
 }
@@ -147,8 +147,8 @@ a[target='_blank']:hover::after {
   display: inline-block;
   text-decoration: none;
   position: fixed;
-  right: 200px;
-  bottom: 20px;
+  right: 5%;
+  bottom: 3%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
