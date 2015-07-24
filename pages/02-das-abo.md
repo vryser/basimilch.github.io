@@ -50,12 +50,12 @@ arbeiten, um ein Depot zu realisieren. Einige Standorte werden, wenn
 möglich, mit schon bestehenden Gemüsedepots oder genossenschaftlichem
 Wohnen gekoppelt. Diese Depos sind im Gespräch:
 
-- Foodcoop Tor14, Bäckerstrasse 54, 8004 Zürich
-- Baugenossenschaft mehr als wohnen, Hagenholzstr. 104b, 8050 Zürich
-- Genossenschaft Kalkbreite, Kalkbreitestr. 2, 8003 Zürich
-- Bau- und Wohngenossenschaft Kraftwerk1, Hardturmstr. und
-  Regensdorferstr., Zürich
-- Hof Im Basi, Alte Kindhauserstr. 3, 8953 Dietikon
+- Foodcoop Tor14, [Bäckerstrasse 54, 8004 Zürich](https://www.google.ch/maps/place/Bäckerstrasse+54+8004+Zürich+Switzerland)
+- Baugenossenschaft mehr als wohnen, [Hagenholzstr. 104b, 8050 Zürich](https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland)
+- Genossenschaft Kalkbreite, [Kalkbreitestr. 2, 8003 Zürich](https://www.google.ch/maps/place/Kalkbreitestrasse+2+8003+Zürich+Switzerland)
+- Bau- und Wohngenossenschaft Kraftwerk1,
+  [Hardturmstr. 269](https://www.google.ch/maps/place/Kraftwerk1+Hardturmstrasse+269+8005+Zürich+Switzerland) und [Regensdorferstr. 190](https://www.google.ch/maps/place/Regensdorferstrasse+190+8049+Zürich+Switzerland), Zürich
+- Hof Im Basi, [Alte Kindhauserstr. 3, 8953 Dietikon](https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland)
 - ortoloco-Depots (Verschiedene Depots in der Stadt Zürich, Dietikon
   und Oerlikon)
 
