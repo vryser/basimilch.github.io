@@ -141,7 +141,7 @@ Wohnen gekoppelt. Diese Depos sind im Gespräch:
 - ortoloco-Depots (Verschiedene Depots in der Stadt Zürich, Dietikon und Oerlikon)
 
 Zudem kann weiterhin eine Auswahl der Produkte im Hofladen von Anita
-Triaca und Fabian Brandenberger auf dem [Hof Im Basi](/freunde/#hofkserei-im-basi) in Dietikon gekauft werden.
+Triaca und Fabian Brandenberger auf dem Hof Im Basi in Dietikon gekauft werden.
 
 
 # Darf ich als Genossenschafter_in im Betrieb mitreden?
