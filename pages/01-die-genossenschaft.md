@@ -5,7 +5,7 @@ section-group: main
 permalink: /genossenschaft/
 ---
 
-# Was ist basimilch?
+# Was ist {{site.info.shortname}}?
 
 - Eine Genossenschaft, die naturbelassene Milchprodukte handwerklich
 herstellt und diese in wöchentlichen Milchabos in der Region Zürich an
@@ -39,9 +39,10 @@ sich aber auch alleine anmelden.
 
 ## Ein Abo bestellen
 
-Um ein Abo zu bestellen musst du Genossenschafter_in bei basimilch
-werden. Bitte fülle dazu die obige Beitritterklärung aus und kreuze
-das Feld "ich möchte ein wöchentliches Abo beziehen" an.
+Um ein Abo zu bestellen musst du Genossenschafter_in bei
+{{site.info.shortname}} werden. Bitte fülle dazu die obige
+Beitritterklärung aus und kreuze das Feld "ich möchte ein
+wöchentliches Abo beziehen" an.
 
 # Wie kann ich sonst helfen?
 

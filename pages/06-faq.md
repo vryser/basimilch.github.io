@@ -122,12 +122,12 @@ pro Woche.
 
 # Wo kann ich die Milchprodukte beziehen? Wo werden die Depots zur Abholung der wöchentlichen Milchabos stehen?
 
-Die Milchprodukte werden von den Genossenschafter_innen von basimilch
-als wöchentliches Abo in Depots verteilt. Grundsätzlich werden die
-Depots dort eingerichtet, wo unsere Abonent_innen sie einfach und
-schnell erreichen. Geplannt sind Depots in der Stadt Zürich und
-Oerlikon, sowie eines auf dem Hof Im Basi in Dietikon. [Mehr
-lesen...](/abo/#depots)
+Die Milchprodukte werden von den Genossenschafter_innen von
+{{site.info.shortname}} als wöchentliches Abo in Depots verteilt.
+Grundsätzlich werden die Depots dort eingerichtet, wo unsere
+Abonent_innen sie einfach und schnell erreichen. Geplannt sind Depots
+in der Stadt Zürich und Oerlikon, sowie eines auf dem Hof Im Basi in
+Dietikon. [Mehr lesen...](/abo/#depots)
 
 Zudem kann weiterhin eine Auswahl der Produkte im Hofladen von Anita
 Triaca und Fabian Brandenberger auf dem Hof Im Basi in Dietikon

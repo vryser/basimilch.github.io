@@ -39,8 +39,8 @@ Heublumennkäse, evt. Fonduemischung)
 
 ## Depots
 
-Die Milchprodukte werden von den Genossenschafter_innen von basimilch
-als wöchentliches Abo verteilt. Die Produkte werden in Depots in
+Die Milchprodukte werden von den Genossenschafter_innen als
+wöchentliches Abo verteilt. Die Produkte werden in Depots in
 Kühlschränken gelagert. Grundsätzlich werden die Depots dort
 eingerichtet, wo unsere Abonent_innen sie einfach und schnell
 erreichen. Geplant sind ca. 10 Depos in der Stadt Zürich und Oerlikon,

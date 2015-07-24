@@ -6,8 +6,8 @@ permalink: /freunde/
 
 # ortoloco
 
-Die Grundidee für basimilch stammt von ortoloco, der selbstverwalteten
-Gemüsekooperative auch aus Dietikon.
+Die Grundidee für {{site.info.shortname}} stammt von ortoloco, der
+selbstverwalteten Gemüsekooperative auch aus Dietikon.
 
 <http://ortoloco.ch>
 
