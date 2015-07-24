@@ -44,8 +44,8 @@ zwei Anteilsscheine als Basis.
 # Wie kann ich ein Abo als Genossenschafter_in bestellen?
 
 Die Anmeldung fürs Abo kann entweder direkt mit der Beitrittserklärung
-erfolgen. Oder wer sich später für ein Abo entscheidet, sendet eine
-Email an {% include info_email_link.html %}.
+erfolgen oder später per Email an {% include info_email_link.html %}.
+[Mehr lesen...](/genossenschaft/#ein-abo-bestellen)
 
 
 # Wie gross ist das wöchentliche Milchprodukte-Abo?
