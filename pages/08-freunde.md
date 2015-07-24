@@ -4,18 +4,9 @@ description: Verwandte Projekte der Genossenschaft
 permalink: /freunde/
 ---
 
-# Hofkäserei Im Basi
-
-Anita und Fabian und ihre lieben Kühe sind unsere Milchproduzenten.
-Sie bewirtschaften ihren Milch- und Ackerbaubetrieb nach Bio-Suisse
-Richtlinien. Die Milchprodukte sind in ihrem Hofladen zu finden.
-
-<http://www.hofkaeserei-imbasi.ch>
-
-
 # ortoloco
 
-Die Grundidee für {{ site.info.shortname }} stammt von ortoloco, der selbstverwalteten Gemüsekooperative auch aus Dietikon.
+Die Grundidee für basimilch stammt von ortoloco, der selbstverwalteten Gemüsekooperative auch aus Dietikon.
 
 <http://ortoloco.ch>
 
@@ -38,6 +29,13 @@ Unsere Freunde aus der Baugenossenschaft mehr als wohnen in Oerlikon werden eben
 
 # Rubin AG
 
-Unsere Käserei wurde mit der Hilfe von Rubin aufgerüstet.
+Unsere Käserei wird mit der Hilfe der Rubin AG aufgerüstet.
 
 <http://rubinag.ch/kaesereianlagen.html>
+
+
+# Pflanzplatz Dunkelhölzli
+
+Die Anbaugemeinschaft für eigenes Gemüse aus städtischem Boden in Zürich. 
+
+<http://www.dunkelhoelzli.ch/>
