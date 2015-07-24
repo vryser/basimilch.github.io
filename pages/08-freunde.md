@@ -6,7 +6,8 @@ permalink: /freunde/
 
 # ortoloco
 
-Die Grundidee für basimilch stammt von ortoloco, der selbstverwalteten Gemüsekooperative auch aus Dietikon.
+Die Grundidee für basimilch stammt von ortoloco, der selbstverwalteten
+Gemüsekooperative auch aus Dietikon.
 
 <http://ortoloco.ch>
 
@@ -22,7 +23,8 @@ qualitätsbewussten Konsumentinnen und Konsumenten. Sie werden ein
 
 # mehr als wohnen
 
-Unsere Freunde aus der Baugenossenschaft mehr als wohnen in Oerlikon werden ebenfalls ein {{ site.info.shortname }}-Depot betreuen.
+Unsere Freunde aus der Baugenossenschaft mehr als wohnen in Oerlikon
+werden ebenfalls ein {{ site.info.shortname }}-Depot betreuen.
 
 <http://mehralswohnen.ch>
 
@@ -36,6 +38,7 @@ Unsere Käserei wird mit der Hilfe der Rubin AG aufgerüstet.
 
 # Pflanzplatz Dunkelhölzli
 
-Die Anbaugemeinschaft für eigenes Gemüse aus städtischem Boden in Zürich. 
+Die Anbaugemeinschaft für eigenes Gemüse aus städtischem Boden in
+Zürich.
 
 <http://www.dunkelhoelzli.ch/>

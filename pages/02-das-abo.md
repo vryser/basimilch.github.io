@@ -23,7 +23,8 @@ werden.
 
 ## Beispiel eines Abos
 
-- **4 l individuell wählbar:** 1l Milch, 1 dl Rahm, 500 g Jogurt, 500 g Quark
+- **4 l individuell wählbar:** 1l Milch, 1 dl Rahm, 500 g Jogurt, 500
+g Quark
 - **4 l von Käser_innen bestimmt:** 200g Weichkäse, 200g rezenter
 Käse (je nach Saison).
 
@@ -36,16 +37,27 @@ Spezialitäten und spontane Ideen unseres Käser_innenteams (z.B.
 Bärlauchformaggini, Sommerkräuter- streichkäse, Beerenrahmroghurt,
 Heublumennkäse, evt. Fonduemischung)
 
-## Depots 
+## Depots
 
-Die Milchprodukte werden von den Genossenschafter_innen von basimilch als wöchentliches Abo verteilt. Die Produkte werden in Depots in Kühlschränken gelagert. Grundsätzlich werden die Depots dort eingerichtet, wo unsere Abonent_innen sie einfach und schnell erreichen. Geplant sind ca. 10 Depos in der Stadt Zürich und Oerlikon, sowie eines auf dem Hof Im Basi in Dietikon. Es braucht ca. 10 Abos, deren Genossenschafter_innen in der Nähe von einander wohnen oder arbeiten, um ein Depot zu realisieren. Einige Standorte werden, wenn möglich, mit schon bestehenden Gemüsedepots oder genossenschaftlichem Wohnen gekoppelt. Diese Depos sind im Gespräch:
+Die Milchprodukte werden von den Genossenschafter_innen von basimilch
+als wöchentliches Abo verteilt. Die Produkte werden in Depots in
+Kühlschränken gelagert. Grundsätzlich werden die Depots dort
+eingerichtet, wo unsere Abonent_innen sie einfach und schnell
+erreichen. Geplant sind ca. 10 Depos in der Stadt Zürich und Oerlikon,
+sowie eines auf dem Hof Im Basi in Dietikon. Es braucht ca. 10 Abos,
+deren Genossenschafter_innen in der Nähe von einander wohnen oder
+arbeiten, um ein Depot zu realisieren. Einige Standorte werden, wenn
+möglich, mit schon bestehenden Gemüsedepots oder genossenschaftlichem
+Wohnen gekoppelt. Diese Depos sind im Gespräch:
 
 - Foodcoop Tor14, Bäckerstrasse 54, 8004 Zürich
 - Baugenossenschaft mehr als wohnen, Hagenholzstr. 104b, 8050 Zürich
 - Genossenschaft Kalkbreite, Kalkbreitestr. 2, 8003 Zürich
-- Bau- und Wohngenossenschaft Kraftwerk1, Hardturmstr. und Regensdorferstr., Zürich
+- Bau- und Wohngenossenschaft Kraftwerk1, Hardturmstr. und
+  Regensdorferstr., Zürich
 - Hof Im Basi, Alte Kindhauserstr. 3, 8953 Dietikon
-- ortoloco-Depots (Verschiedene Depots in der Stadt Zürich, Dietikon und Oerlikon)
+- ortoloco-Depots (Verschiedene Depots in der Stadt Zürich, Dietikon
+  und Oerlikon)
 
 # Finanzierung, Mitarbeit und Start
 

@@ -47,10 +47,11 @@ das Feld "ich möchte ein wöchentliches Abo beziehen" an.
 
 ## Mache Werbung für uns!
 
-Wir sind in der heissen Phase des Aufbaus und suchen noch  Abonnent_innen. Gerne darfst du deinem Freundes- und Bekanntenkreis, deinen Nachbarn und Arbeitskollegen von
-uns erzählen.
+Wir sind in der heissen Phase des Aufbaus und suchen noch
+Abonnent_innen. Gerne darfst du deinem Freundes- und Bekanntenkreis,
+deinen Nachbarn und Arbeitskollegen von uns erzählen.
 
 ## Werde Gönner_in
 
-Falls dir unser Projekt gefällt, kannst du es gerne auch mit einer Spende unterstützen: 
-
+Falls dir unser Projekt gefällt, kannst du es gerne auch mit einer
+Spende unterstützen:
