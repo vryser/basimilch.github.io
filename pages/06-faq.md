@@ -123,25 +123,15 @@ pro Woche.
 # Wo kann ich die Milchprodukte beziehen? Wo werden die Depots zur Abholung der wöchentlichen Milchabos stehen?
 
 Die Milchprodukte werden von den Genossenschafter_innen von basimilch
-als wöchentliches Abo verteilt. Die Produkte werden in Depots in
-Kühlschränken gelagert. Grundsätzlich werden die Depots dort
-eingerichtet, wo unsere Abonent_innen sie einfach und schnell
-erreichen. Geplant sind ca. 10 Depos in der Stadt Zürich und Oerlikon,
-sowie eines auf dem Hof Im Basi in Dietikon. Es braucht ca. 10 Abos,
-deren Genossenschafter_innen in der Nähe von einander wohnen oder
-arbeiten, um ein Depot zu realisieren. Einige Standorte werden, wenn
-möglich, mit schon bestehenden Gemüsedepots oder genossenschaftlichem
-Wohnen gekoppelt. Diese Depos sind im Gespräch:
-
-- Foodcoop Tor14, Bäckerstrasse 54, 8004 Zürich
-- Baugenossenschaft mehr als wohnen, Hagenholzstr. 104b, 8050 Zürich
-- Genossenschaft Kalkbreite, Kalkbreitestr. 2, 8003 Zürich
-- Bau- und Wohngenossenschaft Kraftwerk1, Hardturmstr. und Regensdorferstr., Zürich
-- Hof im Basi, Alte Kindhauserstrasse 3, 8953 Dietikon
-- ortoloco-Depots (Verschiedene Depots in der Stadt Zürich, Dietikon und Oerlikon)
+als wöchentliches Abo in Depots verteilt. Grundsätzlich werden die
+Depots dort eingerichtet, wo unsere Abonent_innen sie einfach und
+schnell erreichen. Geplannt sind Depots in der Stadt Zürich und
+Oerlikon, sowie eines auf dem Hof Im Basi in Dietikon. [Mehr
+lesen...](/abo/#depots)
 
 Zudem kann weiterhin eine Auswahl der Produkte im Hofladen von Anita
-Triaca und Fabian Brandenberger auf dem Hof Im Basi in Dietikon gekauft werden.
+Triaca und Fabian Brandenberger auf dem Hof Im Basi in Dietikon
+gekauft werden.
 
 
 # Darf ich als Genossenschafter_in im Betrieb mitreden?
