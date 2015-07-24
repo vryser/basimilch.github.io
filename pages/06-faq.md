@@ -137,6 +137,7 @@ Wohnen gekoppelt. Diese Depos sind im Gespräch:
 - Baugenossenschaft mehr als wohnen, Hagenholzstr. 104b, 8050 Zürich
 - Genossenschaft Kalkbreite, Kalkbreitestr. 2, 8003 Zürich
 - Bau- und Wohngenossenschaft Kraftwerk1, Hardturmstr. und Regensdorferstr., Zürich
+- Hof im Basi, Alte Kindhauserstrasse 3, 8953 Dietikon
 - ortoloco-Depots (Verschiedene Depots in der Stadt Zürich, Dietikon und Oerlikon)
 
 Zudem kann weiterhin eine Auswahl der Produkte im Hofladen von Anita
