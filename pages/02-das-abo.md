@@ -23,8 +23,8 @@ werden.
 
 ## Beispiel eines Abos
 
-- **4 l individuell wählbar:** 1l Milch, 1 dl Rahm, 500 g Jogurt, 500 g
-- **Quark 4 l von Käser_innen bestimmt:** 200g Weichkäse, 200g rezenter
+- **4 l individuell wählbar:** 1l Milch, 1 dl Rahm, 500 g Jogurt, 500 g Quark
+- **4 l von Käser_innen bestimmt:** 200g Weichkäse, 200g rezenter
 Käse (je nach Saison).
 
 ## basimilch Produkte
