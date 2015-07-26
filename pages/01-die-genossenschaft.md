@@ -22,8 +22,8 @@ Wirtschaftsform realisiert.
 Um Genosschenschafter_in zu werden, musst du dich mit den
 [**Statuten**](statuten) und dem
 [**Betriebsreglement**](betriebsreglement) einverstanden erklären.
-Zur Anmeldung kannst du die Beitrittserklärung ausdrucken und
-ausgefüllt und unterschrieben an uns senden: [_{{site.info.name}},
+Zur Anmeldung kannst du die Beitrittserklärung ausdrucken,
+ausfüllen und unterschrieben an uns senden: [_{{site.info.name}},
 {{site.info.address.street}}, {{site.info.address.plz}}
 {{site.info.address.city}}_](/kontakt).
 
