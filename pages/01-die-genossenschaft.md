@@ -43,8 +43,9 @@ Um ein Abo zu bestellen, musst du Genossenschafter_in bei
 {{site.info.shortname}} werden und mindestens ​zwei Anteilscheine (pro
 Abo) erwerben. Bitte fülle dazu die obige Beitritterklärung aus und
 kreuze das Feld `[] Ich möchte bei Betriebsstart ein wöchentliches Abo
-beziehen` an. Wenn du dich später für ein Abo entscheidest, sende eine
-Email an {% include info_email_link.html %}.
+beziehen` an. Wenn du dich später bzw. nach dem Genossenschafterwerden
+für ein Abo entscheidest, sende eine Email an
+{% include info_email_link.html %}.
 
 # Wie kann ich sonst helfen?
 
