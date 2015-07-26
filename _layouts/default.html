@@ -285,9 +285,9 @@
     });
     $topLink.click(function(){
       var topElemPosition = $("#inhalt").parent().find("h1:first-of-type").position(),
-          scrollTopPosition = topElemPosition ? topElemPosition.top : 0;
+          scrollTopPosition = topElemPosition ? topElemPosition.top : 0,
           scrollTopPosition = (window.scrollY > scrollTopPosition) ? scrollTopPosition : 0;
-      $("body").animate({scrollTop : scrollTopPosition},"fast");
+      $("html,body").animate({scrollTop : scrollTopPosition},"fast");
       return false;
     });
     </script>
