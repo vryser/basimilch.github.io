@@ -34,8 +34,8 @@ Mutschli, Basitaler, Camembert, Raclette, Älpler,
 Kümmelkäse, Formaggini, Trinkmilch, Joghurt (Natur, Kirsche,
 Zwetschge, Himbeer, Heidelbeer, Vanille), Quark Natur, saisonale
 Spezialitäten und spontane Ideen unseres Käser_innenteams (z.B.
-Bärlauchformaggini, Sommerkräuter- streichkäse, Beerenrahmroghurt,
-Heublumennkäse, evt. Fonduemischung)
+Bärlauchformaggini, Sommerkräuter- streichkäse, Beerenrahmjoghurt,
+Heublumenkäse, evt. Fonduemischung)
 
 ## Depots
 

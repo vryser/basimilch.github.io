@@ -93,10 +93,10 @@ und Eigenkreationen.
 
 Grundsätzlich freuen wir uns auf die kreativen Einfälle von unserem
 Käser_innenteam und lassen uns überraschen, mit welchen saisonalen
-Spezialitäten sie uns beglücken werden. z.B. mit
-Sommerkräuterstreichkäse, Bärlauchformaggini, Beerenrahmroghurt,
-Heublumennkäse, geräucherter Ricotta, Molke-Drinks, Raclettekäse und
-evtl. Fonduemischungen.
+Spezialitäten sie uns beglücken werden, wie z.B.
+Sommerkräuterstreichkäse, Bärlauchformaggini, Beerenrahmjoghurt,
+Heublumenkäse, geräucherter Ricotta, Molke-Drinks, Raclettekäse und
+evtl. Fonduemischungen. [Mehr lesen...](/abo/#produkte)
 
 
 # Erhalte ich mein Abo das ganze Jahr?
