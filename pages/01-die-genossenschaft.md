@@ -34,7 +34,7 @@ kennenzulernen.
 {% include button-signup-form-pdf-download.html %}
 
 Weil sich oft zwei Personen gemeinsam für ein Abo anmelden, sind im
-im PDF gleich zwei Beitrittserklärungen enthalten. Natürlich kann man
+PDF gleich zwei Beitrittserklärungen enthalten. Natürlich kann man
 sich aber auch alleine anmelden.
 
 ## Ein Abo bestellen
