@@ -1,0 +1,27 @@
+<style>
+    .content-footer {
+      margin-top: 20px;
+      text-align: center;
+      font-size: small;
+    }
+</style>
+
+<section class="content-footer">
+    <hr>
+    <p>
+        Bei weiteren Fragen kontaktiere uns über {% include info_email_link.html %},
+        <br>
+        registriere dich für unseren <a href="/#newsletter-form">newsletter</a>, um auf dem Laufenden zu bleiben,
+        <br>
+        oder schlage eine Änderung <a href="{{ site.github.repo.url }}/edit/{{ site.github.repo.branch }}/{{ page.path }}" target="_blank">dieser Seite</a> vor.
+    </p>
+    <small>
+        <p>
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />
+            Hosted on <a href="{{ site.github.repo.url }}" target="_blank">GitHub Pages</a>.
+            Based on 'minimal' theme by <a href="https://github.com/orderedlist" target="_blank">orderedlist</a>
+            <br>
+            Site built with jekyll on {{ site.time }}
+        </p>
+    </small>
+</section>

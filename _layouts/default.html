@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="de-CH">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+    <meta name="Description" content="{% if page.description %}{{ page.description }} | {% endif %}{{ site.description }}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <link rel="stylesheet" href="/external/bootstrap-3.3.2-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/basimilch.css">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Generated with http://realfavicongenerator.net -->
+    <!-- http://realfavicongenerator.net/favicon?file_id=p19qrfuva8hi31iuh1v981vsb1dai6#.Va_fP2D5ecM -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/images/favicons/manifest.json">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="basimilch">
+    <meta name="application-name" content="basimilch">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <style>
+/*
+      body {
+        text-align: justify;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+      }
+*/
+      .page-header-image {
+        width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      h1,h2,h3,h4,h5,h6 {
+        padding-top: 20px;
+      }
+      h1 {
+        padding-bottom: 10px;
+        border-bottom: 1px solid #777;
+      }
+      h2 {
+        font-size: 22px;
+      }
+
+  </style>
+  </head>
+  <body class="{{ page.permalink | replace:'/',''  | prepend: 'page-'}}">
+    <div class="top-link">
+      <span class="glyphicon glyphicon-chevron-up"></span>
+    </div>
+    <div class="wrapper">
+      <header>
+        <style>
+          .sections-menu-group,
+          .subsections-menu-group {
+            list-style-type: none;
+          }
+          .sections-menu-group {
+            padding-left: 0;
+            margin-bottom: 30px;
+          }
+          .subsections-menu-group {
+            font-size: 0.85em;
+            /*margin-bottom: 0;*/
+          }
+          .subsection-menu-item:last-child {
+            margin-bottom: 15px;
+          }
+          .section-menu-item {
+            width: 100%;
+          }
+          .section-menu-item a {
+            padding: 5px;
+            padding-left: 10px;
+            display: block;
+          }
+        </style>
+        {% if page.url == "/" %}
+          <a class="home-link active" href="/"><img src="/images/logo_blau_512px.png" alt="basimilch"></a>
+        {% else %}
+          <a class="home-link" href="/"><img src="/images/logo_weiss_512px.png" alt="basimilch"></a>
+        {% endif %}
+        <hr>
+
+          {% assign sectionGroups = "main,secondary" | split: "," %}
+          {% for sectionGroup in sectionGroups %}
+            <ul class="sections-menu-group">
+                {% for section in site.html_pages %}
+                  {% assign urlSegments = section.permalink | split: "/" %}
+                  {% assign urlSegmentsCount = urlSegments | size %}
+                  {% if section.draft or section.hidden or section.section-group != sectionGroup or urlSegmentsCount != 2 %}
+                    {% continue %}
+                  {% endif %}
+                  {% if  section.section-group != sectionGroup %}
+                    {% continue %}
+                  {% endif %}
+                  {% if page.url contains section.url %}
+                    {% assign activesection = true %}
+                  {% else %}
+                    {% assign activesection = false %}
+                  {% endif %}
+                  <li class="section-menu-item">
+                    <a class="section-menu-link {% if activesection %}active{% endif %}" href="{{ section.permalink | prepend: site.baseurl }}">{{ section.title }}</a>
+                    {% if activesection %}
+                      <ul class="subsections-menu-group">
+                        {% for subsection in site.html_pages %}
+                          {% assign urlSubsectionSegments = subsection.permalink | split: "/" %}
+                          {% assign urlSubsectionSegmentsCount = urlSubsectionSegments | size %}
+                          {% if subsection.draft or section.hidden or urlSubsectionSegmentsCount != 3 %}
+                            {% continue %}
+                          {% endif %}
+                          {% unless subsection.permalink contains section.permalink %}
+                            {% continue %}
+                          {% endunless %}
+                          {% if page.url contains subsection.url %}
+                            {% assign activesection = true %}
+                          {% else %}
+                            {% assign activesection = false %}
+                          {% endif %}
+                          <li class="subsection-menu-item">
+                            <a class="subsection-menu-link {% if activesection %}active{% endif %}" href="{{ subsection.permalink | prepend: site.baseurl }}">{{ subsection.title }}</a>
+                          </li>
+                        {% endfor %}
+                    </ul> <!-- .subsections-menu-group -->
+                    {% endif %}
+                  </li>
+                {% endfor %}
+            </ul>
+          {% endfor %}
+
+      </header>
+      {% if site.debugmode %}
+        <section>
+          <!-- Breadcrumbs code from: http://stackoverflow.com/a/14512451 -->
+          <ul class="breadcrumb">
+              <li><a href="/">home</a> </li>
+              {% assign breadcrumbs = page.url | split: '/' %}
+              {% for crumb in breadcrumbs offset:1 %}
+                  {% unless crumb == 'index.html' %}
+                      <li> {{ crumb | remove: '.html' }} </li>
+                  {% endunless %}
+              {% endfor %}
+          </ul>
+          <div>
+            <strong>debugmode:</strong> {{ site.debugmode }}
+            <br>
+            <strong>page.url:</strong> {{ page.url }}
+            <br>
+            <strong>breadcrumbs:</strong> {{ breadcrumbs }}
+            <br>
+            <strong>permalink:</strong> {{ page.permalink }}
+            <br>
+            <strong>file path:</strong> {{ page.path }}
+            <br>
+          </div>
+        </section>
+      {% endif %}
+      {% if page.title %}
+        <section class="page-title">
+          {{ page.title }}
+        </section>
+      {% endif %}
+      <style>
+        .page-header-image {
+          margin-bottom: 25px;
+        }
+      </style>
+      {% assign explicit-page-header-image = page.header-image %}
+      {% if explicit-page-header-image %}
+        {% assign page-header-image = explicit-page-header-image | prepend: '/images/' %}
+      {% else %}
+        {% for f in site.static_files  %}
+          {% assign implicit-page-header-image = page.path | replace: '.md', '.jpg' | prepend: '/images/' %}
+          {% if f.path == implicit-page-header-image %}
+            {% assign page-header-image = implicit-page-header-image %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      <section class="page-header-image-container">
+        {% if page-header-image %}
+          <img class="page-header-image" src="{{ page-header-image }}" alt="{{ page-header-image }}">
+        {% else %}
+          <img class="page-header-image" src="/images/unsere_liebe_kuehe.jpg">
+        {% endif %}
+      </section>
+      <section>
+        <div class="page-content">
+          <div class="wrap">
+            {{ content }}
+          </div>
+        </div>
+      </section>
+      {% include content-footer.html %}
+      <footer>
+        <hr>
+        <small>
+        <p>
+          {{ site.info.name }}<br>
+          <a href="{{ site.info.address.url }}" target="_blank">
+            {{ site.info.address.street }},
+            {{ site.info.address.plz }} {{ site.info.address.city }}
+          </a>
+          <br>
+          {% include info_email_link.html %}
+        </p>
+        </small>
+      </footer>
+    </div>
+
+    <script src="/javascripts/scale.fix.js"></script>
+    <script src="/external/jquery-2.1.4.min.js"></script>
+
+    {% if site.github.repo.branch == "master" %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60241074-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    {% endif %}
+
+    <style>
+    .section-title-link{font-size:0.6em;margin-left: 6px;}
+    </style>
+
+    <script>
+    // Make all non-local links open in new tab
+    $("a[href^=http]").attr("target", "_blank");
+
+    // Add direct links on hover over section titles
+    $("h1[id],h2[id],h3[id],h4[id]").hover(
+      function(){
+        var $this = $(this);
+        if ( $this.data("section-title-link-already-added") ) {
+          $this.find(".section-title-link").toggleClass("hidden");
+        } else {
+          var faqLinkHTML = "<a class='section-title-link' href='#" + $this.attr("id") + "'>[link]</span></a>";
+          $this.append(faqLinkHTML);
+          $this.data("section-title-link-already-added", true);
+        }
+      });
+
+    var topThreshold = 325,
+        topLinkShown = false,
+        $topLink     = $(".top-link");
+    $(window).scroll(function(){
+      if ( this.scrollY > topThreshold && ! topLinkShown ) {
+        topLinkShown = true;
+        $topLink.stop().fadeIn("fast");
+      } else if ( this.scrollY < topThreshold && topLinkShown ) {
+        topLinkShown = false;
+        $topLink.stop().fadeOut("fast");
+      }
+    });
+    $topLink.click(function(){
+      var topElemPosition = $("#inhalt").parent().find("h1:first-of-type").position(),
+          scrollTopPosition = topElemPosition ? topElemPosition.top : 0,
+          scrollTopPosition = (window.scrollY > scrollTopPosition) ? scrollTopPosition : 0;
+      $("html,body").animate({scrollTop : scrollTopPosition},"fast");
+      return false;
+    });
+    </script>
+
+  </body>
+</html>
