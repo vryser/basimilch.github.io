@@ -152,6 +152,9 @@ a[target='_blank']:hover::after {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+a[download]:hover::after {
+  content: "\e025";
+}
 
 a[target='_blank']:empty::after {
   content: "";
