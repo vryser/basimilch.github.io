@@ -156,6 +156,11 @@ a[download]:hover::after {
   content: "\e025";
 }
 
+.subtle {
+  color: transparent;
+  background-color: transparent;
+}
+
 a[target='_blank']:empty::after {
   content: "";
 }

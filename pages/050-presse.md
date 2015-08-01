@@ -8,10 +8,10 @@ permalink: /presse/
 
 - _1. Juli 2015_, Tagesanzeiger: [_"Kleine Biobauern geben Grosskonzern
 Emmi den Laufpass"_](http://www.tagesanzeiger.ch/zuerich/region/Kleine-Biobauern-geben-Grosskonzern-Emmi-den-Laufpass/story/23702880)
-[[PDF]](/downloads/20150701_tagesanzeiger_kleine-biobauern-geben-grosskonzern-emmi-den-laufpass.pdf)
+[[PDF]](/downloads/20150701_tagesanzeiger_kleine-biobauern-geben-grosskonzern-emmi-den-laufpass.pdf){:class="subtle"}
 
 - _12. März 2015_, WOZ: [_"Nicht mehr so radikal"_](http://www.woz.ch/1511/kost-und-logis/nicht-mehr-so-radikal)
-[[PDF]](/downloads/20150312_woz_nicht-mehr-so-radikal.pdf)
+[[PDF]](/downloads/20150312_woz_nicht-mehr-so-radikal.pdf){:class="subtle"}
 
 
 # Medienmitteilung
