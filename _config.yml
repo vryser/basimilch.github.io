@@ -38,3 +38,6 @@ github:
 kramdown:
   # Source for German quote codes: http://symbolcodes.tlt.psu.edu/bylanguage/german.html
   smart_quotes: sbquo,lsquo,bdquo,ldquo
+
+sass:
+    style: compressed
