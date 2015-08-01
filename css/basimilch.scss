@@ -1,6 +1,13 @@
 ---
 ---
 
+$basiblau: #509BC9;
+$basiblau_slightly_darker: #3183B4;
+$basiblau_ultralight: #F3FAFE;
+
+$glyphicon-download-alt:  "\e025";
+$glyphicon-share-alt:     "\e095";
+
 /* Begin of fonts import */
 
 /*
@@ -92,27 +99,27 @@ h4,h5,h6 {
 
 
 a {
-  color:#509BC9;
+  color:$basiblau;
   font-weight:400;
   text-decoration:none;
 }
 a:hover {
   text-decoration: none;
-  background-color: #F3FAFE;
+  background-color: $basiblau_ultralight;
 }
 a:active,
 a.active,
 a.active img,
 .btn-info,
 .page-title {
-  background-color: #509BC9;
+  background-color: $basiblau;
   color: white;
   border-color: transparent;
 }
 .top-link {
   display: none;
   cursor: pointer;
-  color: #509BC9;
+  color: $basiblau;
   position: fixed;
   right: 5%;
   top: 3%;
@@ -126,10 +133,10 @@ a.active img,
 }
 
 .btn-info:hover {
-  background-color: #3183B4;
+  background-color: $basiblau_slightly_darker;
 }
 .top-link:hover {
-  color: #3183B4;
+  color: $basiblau_slightly_darker;
 }
 
 a small {
@@ -141,8 +148,8 @@ a small {
 
 a[target='_blank']:hover::after {
   font-family: 'Glyphicons Halflings';
-  content: "\e095";
-  color: #509BC9;
+  content: $glyphicon-share-alt;
+  color: $basiblau;
   font-size: 30px;
   font-style: normal;
   font-weight: lighter;
@@ -155,7 +162,7 @@ a[target='_blank']:hover::after {
   -moz-osx-font-smoothing: grayscale;
 }
 a[download]:hover::after {
-  content: "\e025";
+  content: $glyphicon-download-alt;
 }
 
 .subtle {
