@@ -34,3 +34,7 @@ github:
     repo:
         branch: master
         url: https://github.com/basimilch/basimilch.github.io
+
+kramdown:
+  # Source for German quote codes: http://symbolcodes.tlt.psu.edu/bylanguage/german.html
+  smart_quotes: sbquo,lsquo,bdquo,ldquo

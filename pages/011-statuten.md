@@ -17,7 +17,7 @@ Inhalt
 1. [Leitsätze](#leitstze)
 1. [Genossenschafter_innen](#genossenschafterinnen)
 1. [Generalversammlung](#generalversammlung)
-1. [Verwaltung („Betriebsgruppe“)](#verwaltung-betriebsgruppe)
+1. [Verwaltung ("Betriebsgruppe")](#verwaltung-betriebsgruppe)
 1. [Hofbesitzer/ Milchproduzenten](#hofbesitzer-milchproduzenten)
 1. [Käser_in](#kserin)
 1. [Projektgruppen](#projektgruppen)
@@ -34,8 +34,8 @@ Inhalt
 
 ### a.
 
-Unter der Firma „Genossenschaft basimilch - Die kooperative Käserei
-in Dietikon“ besteht mit Sitz in Dietikon eine Genossenschaft gemäss
+Unter der Firma "Genossenschaft basimilch - Die kooperative Käserei
+in Dietikon" besteht mit Sitz in Dietikon eine Genossenschaft gemäss
 den vorliegenden Statuten und den Vorschriften der Art. 828 ff. des
 Schweizerischen Obligationenrechts.
 
@@ -60,8 +60,8 @@ Grundbedarf der Genossenschafter_innen an Milchprodukten zu decken.
 
 ### a.
 
-Folgende Leitsätze liegen den Aktivitäten der „Genossenschaft
-basimilch - Die kooperative käserei in dietikon“ zugrunde:
+Folgende Leitsätze liegen den Aktivitäten der "Genossenschaft
+basimilch - Die kooperative käserei in dietikon" zugrunde:
 
 #### i.
 
@@ -233,7 +233,7 @@ protokolliert.
 
 
 
-6\. Verwaltung („Betriebsgruppe“)
+6\. Verwaltung ("Betriebsgruppe")
 ---------------------------------
 
 ### a.
