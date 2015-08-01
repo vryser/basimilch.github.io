@@ -6,8 +6,8 @@ permalink: /presse/
 
 # Medienecho
 
-- _1. Juli 2015_, Tagesanzeiger: [Kleine Biobauern geben Grosskonzern
-Emmi den Laufpass](http://www.tagesanzeiger.ch/zuerich/region/Kleine-Biobauern-geben-Grosskonzern-Emmi-den-Laufpass/story/23702880)
+- _1. Juli 2015_, Tagesanzeiger: [_"Kleine Biobauern geben Grosskonzern
+Emmi den Laufpass"_](http://www.tagesanzeiger.ch/zuerich/region/Kleine-Biobauern-geben-Grosskonzern-Emmi-den-Laufpass/story/23702880)
 [[PDF]](/downloads/20150701_kleine-biobauern-geben-grosskonzern-emmi-den-laufpass_news-zuerich-region-tagesanzeiger.pdf)
 
 
