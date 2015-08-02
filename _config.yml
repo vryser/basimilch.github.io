@@ -1,6 +1,7 @@
 # Build settings
 markdown: kramdown
 permalink: pretty
+safe: true
 # debugmode: true
 
 exclude: ["git-untracked"]
