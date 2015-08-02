@@ -429,3 +429,44 @@ h1 span.glyphicon {
     content: none;
   }
 }
+
+// SVG Basimilch logo
+// original basimilch blue color: rgb(81,161,217); #51A1D9
+
+svg {
+    .background {
+        fill: white;
+    }
+    .foreground {
+        fill: $basiblau;
+    }
+  &:hover {
+    .background {
+        fill: $basiblau_ultralight;
+    }
+    .foreground {
+        fill: $basiblau_slightly_darker;
+    }
+  }
+}
+
+a.home-link {
+  &.active,
+  &:active {
+    background: none;
+    svg {
+      .background {
+          fill: $basiblau;
+      }
+      .foreground {
+          fill: white;
+      }
+      &:hover {
+        .foreground {
+            fill: $basiblau_ultralight
+        }
+      }
+    }
+  }
+}
+
