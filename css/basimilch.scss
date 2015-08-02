@@ -438,17 +438,30 @@ h1 span.glyphicon {
 
 svg {
     .background {
-        fill: white;
+      fill: white;
     }
     .foreground {
-        fill: $basiblau;
+      fill: $basiblau;
+    }
+    .svg-fallback-text {
+      color: $basiblau;
+      background-color: transparent;
+      padding-left: 10px;
+      height: 78px;
+      line-height: 78px;
+      font-size: 36px;
+      font-weight: 900px;
+      &:hover {
+        color: $basiblau_slightly_darker;
+        background-color: $basiblau_ultralight;
+      }
     }
   &:hover {
     .background {
-        fill: $basiblau_ultralight;
+      fill: $basiblau_ultralight;
     }
     .foreground {
-        fill: $basiblau_slightly_darker;
+      fill: $basiblau_slightly_darker;
     }
   }
 }
@@ -459,19 +472,27 @@ a.home-link {
     background: none;
     svg {
       .background {
-          fill: $basiblau;
+        fill: $basiblau;
       }
       .foreground {
-          fill: white;
+        fill: white;
+      }
+      .svg-fallback-text {
+        color: white;
+        background-color: $basiblau;
+        &:hover {
+          color: $basiblau_ultralight
+        }
       }
       &:hover {
         .foreground {
-            fill: $basiblau_ultralight
+          fill: $basiblau_ultralight
         }
       }
     }
   }
 }
+
 
 
 // TOC
