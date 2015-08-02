@@ -224,7 +224,8 @@
       }
     });
     $topLink.click(function(){
-      var topElemPosition = $("#inhalt").parent().find("h1:first-of-type").position(),
+      var topElemPosition = $("#inhalt").parent().find("h1:first-of-type").position() ||
+                            $("#markdown-toc").position(),
           scrollTopPosition = topElemPosition ? topElemPosition.top : 0,
           scrollTopPosition = (window.scrollY > scrollTopPosition) ? scrollTopPosition : 0;
       $("html,body").animate({scrollTop : scrollTopPosition},"fast");

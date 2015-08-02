@@ -473,3 +473,18 @@ a.home-link {
   }
 }
 
+
+// TOC
+
+#markdown-toc {
+  list-style-type: circle;
+  margin: {
+    top:    20px;
+    bottom: 50px;
+  }
+  li {
+    padding: {
+      bottom: 3px;
+    }
+  }
+}
