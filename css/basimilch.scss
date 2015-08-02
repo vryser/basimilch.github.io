@@ -294,7 +294,7 @@ footer {
 
   section {
     border:1px solid #e5e5e5;
-    border-width:1px 0;
+    border-width:0 0 1px 0;
     padding:20px 0;
     margin:0 0 20px;
   }
@@ -359,4 +359,11 @@ form {
 
 h1 span.glyphicon {
   font-size: 0.8em;
+}
+
+@media print {
+  a[href]:after {
+    // Override bootstrap rule to remove href in parenthesis on print
+    content: none;
+  }
 }

@@ -71,11 +71,11 @@
   </style>
   </head>
   <body class="{{ page.permalink | replace:'/',''  | prepend: 'page-'}}">
-    <div class="top-link">
+    <div class="top-link hidden-print">
       <span class="glyphicon glyphicon-chevron-up"></span>
     </div>
     <div class="wrapper">
-      <header>
+      <header class="hidden-print">
         <style>
           .sections-menu-group,
           .subsections-menu-group {
@@ -205,9 +205,9 @@
       {% endif %}
       <section class="page-header-image-container">
         {% if page-header-image %}
-          <img class="page-header-image" src="{{ page-header-image }}" alt="{{ page-header-image }}">
+          <img class="page-header-image hidden-print" src="{{ page-header-image }}" alt="{{ page-header-image }}">
         {% else %}
-          <img class="page-header-image" src="/images/unsere_liebe_kuehe.jpg">
+          <img class="page-header-image hidden-print" src="/images/unsere_liebe_kuehe.jpg">
         {% endif %}
       </section>
       <section>
