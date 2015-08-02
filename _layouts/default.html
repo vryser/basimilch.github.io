@@ -40,35 +40,6 @@
     <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
     <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-
-    <style>
-/*
-      body {
-        text-align: justify;
-        -ms-hyphens: auto;
-        -moz-hyphens: auto;
-        -webkit-hyphens: auto;
-        hyphens: auto;
-      }
-*/
-      .page-header-image {
-        width: 100%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-      }
-      h1,h2,h3,h4,h5,h6 {
-        padding-top: 20px;
-      }
-      h1 {
-        padding-bottom: 10px;
-        border-bottom: 1px solid #777;
-      }
-      h2 {
-        font-size: 22px;
-      }
-
-  </style>
   </head>
   <body class="{{ page.permalink | replace:'/',''  | prepend: 'page-'}}">
     <div class="top-link hidden-print">
@@ -76,31 +47,6 @@
     </div>
     <div class="wrapper">
       <header class="hidden-print">
-        <style>
-          .sections-menu-group,
-          .subsections-menu-group {
-            list-style-type: none;
-          }
-          .sections-menu-group {
-            padding-left: 0;
-            margin-bottom: 30px;
-          }
-          .subsections-menu-group {
-            font-size: 0.85em;
-            /*margin-bottom: 0;*/
-          }
-          .subsection-menu-item:last-child {
-            margin-bottom: 15px;
-          }
-          .section-menu-item {
-            width: 100%;
-          }
-          .section-menu-item a {
-            padding: 5px;
-            padding-left: 10px;
-            display: block;
-          }
-        </style>
         {% if page.url == "/" %}
           <a class="home-link active" href="/"><img src="/images/logo_blau_512px.png" alt="basimilch"></a>
         {% else %}
@@ -186,11 +132,6 @@
           {{ page.title }}
         </section>
       {% endif %}
-      <style>
-        .page-header-image {
-          margin-bottom: 25px;
-        }
-      </style>
       {% assign explicit-page-header-image = page.header-image %}
       {% if explicit-page-header-image %}
         {% assign page-header-image = explicit-page-header-image | prepend: '/images/' %}
@@ -249,10 +190,6 @@
 
     </script>
     {% endif %}
-
-    <style>
-    .section-title-link{font-size:0.6em;margin-left: 6px;}
-    </style>
 
     <script>
     // Make all non-local links open in new tab
