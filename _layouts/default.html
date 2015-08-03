@@ -245,5 +245,15 @@ layout: compress
     });
     </script>
 
+    {% if page.url == '/' %}
+      <!-- Preload header images -->
+      <div class="image-preloading-container" style="display:none;">
+        {% for f in site.static_files  %}
+          {% if f.path contains "/images/pages/" %}
+            <img class="image-preloading" src="{{f.path}}">
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
   </body>
 </html>

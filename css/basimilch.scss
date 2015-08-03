@@ -520,8 +520,17 @@ a.home-link {
   font-size: small;
 }
 
+
 // Address map
 
 .address-map {
   margin-top: 25px;
+}
+
+
+// Hidden image preloading
+
+.image-preloading-container,
+.image-preloading {
+  display: none;
 }
