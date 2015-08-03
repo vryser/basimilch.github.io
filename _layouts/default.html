@@ -161,17 +161,17 @@
       {% include content-footer.html %}
       <footer>
         <hr>
-        <small>
         <p>
-          {{ site.info.name }}<br>
-          <a href="{{ site.info.address.url }}" target="_blank">
-            {{ site.info.address.street }},
-            {{ site.info.address.plz }} {{ site.info.address.city }}
-          </a>
-          <br>
-          {% include info_email_link.html %}
+          <small>
+            {{ site.info.name }}<br>
+            <a href="{{ site.info.address.url }}" target="_blank">
+              {{ site.info.address.street }},
+              {{ site.info.address.plz }} {{ site.info.address.city }}
+            </a>
+            <br>
+            {% include info_email_link.html %}
+          </small>
         </p>
-        </small>
       </footer>
     </div>
 
@@ -192,15 +192,15 @@
     {% endif %}
 
     <script>
-    // Make all non-local links open in new tab
+    /* Make all non-local links open in new tab */
     $("a[href^=http]").attr("target", "_blank");
 
-    // Add download attr to /download links
+    /* Add download attr to /download links */
     $("a[href^='/downloads/']")
       .attr("target", "_blank")
       .attr("download", "");
 
-    // Add direct links on hover over section titles
+    /* Add direct links on hover over section titles */
     $("h1[id],h2[id],h3[id],h4[id]").hover(
       function(){
         var $this = $(this);
