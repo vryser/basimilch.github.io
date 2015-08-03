@@ -42,3 +42,12 @@ kramdown:
 
 sass:
     style: compressed
+
+# Source: https://github.com/penibelst/jekyll-compress-html
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  # profile: true
+  # ignore:
+  #   envs: [local]
