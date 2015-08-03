@@ -250,7 +250,7 @@ layout: compress
       <div class="image-preloading-container" style="display:none;">
         {% for f in site.static_files  %}
           {% if f.path contains "/images/pages/" %}
-            <img class="image-preloading" src="{{f.path}}">
+            <img class="image-preloading" src="{{f.path}}" alt="preloading">
           {% endif %}
         {% endfor %}
       </div>
