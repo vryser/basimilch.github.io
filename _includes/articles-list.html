@@ -1,0 +1,13 @@
+<ul>
+  {% for article in site.data.articles reversed %}
+    <li>
+      <p>
+        <em>{{article.date}}</em>, {{article.origin}}:
+        <a href="{{article.url}}" target="_blank"><em>„{{article.title}}“</em></a>{% if article.author %} von {{article.author}}{% endif %}
+        {% if article.pdf %}
+          <a href="/downloads/{{article.pdf}}" class="subtle" target="_blank" download="">[PDF]</a>
+        {% endif %}
+      </p>
+    </li>
+  {% endfor %}
+</ul>
