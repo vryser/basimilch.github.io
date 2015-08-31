@@ -1,0 +1,14 @@
+<footer>
+  <hr>
+  <p>
+    <small>
+      {{ site.info.name }}<br>
+      <a href="{{ site.info.address.url }}" target="_blank">
+        {{ site.info.address.street }},
+        {{ site.info.address.plz }} {{ site.info.address.city }}
+      </a>
+      <br>
+      {% include info_email_link.html %}
+    </small>
+  </p>
+</footer>

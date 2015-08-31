@@ -1,0 +1,25 @@
+{% if page.title %}
+  <section class="page-title">
+    {{ page.title }}
+  </section>
+{% endif %}
+
+{% assign explicit-page-header-image = page.header-image %}
+{% if explicit-page-header-image %}
+  {% assign page-header-image = explicit-page-header-image | prepend: '/images/' %}
+{% else %}
+  {% for f in site.static_files  %}
+    {% assign implicit-page-header-image = page.path | replace: '.md', '.jpg' | prepend: '/images/' %}
+    {% if f.path == implicit-page-header-image %}
+      {% assign page-header-image = implicit-page-header-image %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+<section class="page-header-image-container">
+  {% if page-header-image %}
+    <img class="page-header-image hidden-print" src="{{ page-header-image }}" alt="{{ page-header-image }}">
+  {% else %}
+    <img class="page-header-image hidden-print" src="/images/unsere_liebe_kuehe.jpg">
+  {% endif %}
+</section>
