@@ -20,7 +20,7 @@ Medienmittteilung vom 9. Juni 2015:
 
 Das basimilch-Logo ist in zwei Versionen verfügbar: blauer Text auf
 transparentem (oder weissem) Hintergrund, und weisser Text auf blauem
-Hintergrund. Beide können in EPS and PNG Format hertuntergeladen
+Hintergrund. Beide können als EPS und PNG Format heruntergeladen
 werden:
 
 {% include button-logos-zip-download.html %}
