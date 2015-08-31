@@ -16,7 +16,7 @@ Medienmittteilung vom 9. Juni 2015:
 {% include button-press-release-pdf-download.html %}
 
 
-# Logos und Identität
+# Logos
 
 Das basimilch-Logo ist in zwei Versionen verfügbar: blauer Text auf
 transparentem (oder weissem) Hintergrund, und weisser Text auf blauem
