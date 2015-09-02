@@ -50,4 +50,11 @@ jQuery( function() { ( function( $$, $, undefined ) {
     return false;
   });
 
+  $("#floating-nav-menu, .navbar-toggle").click(function(){
+    window.scrollTo(0,0);
+    $("body").toggleClass("modal-open");
+    $("#floating-nav-menu").fadeToggle('fast');
+    $("#floating-nav-menu nav").slideToggle();
+  });
+
 }( window.basimilch = window.basimilch || {}, jQuery ));});

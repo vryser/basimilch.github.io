@@ -9,6 +9,17 @@ $basiblau_ultralight: lighten( $basiblau, 36% );
 $glyphicon-download-alt:  "\e025";
 $glyphicon-share-alt:     "\e095";
 
+// Mixins
+
+// SOURCE: http://www.stefanwienert.de/blog/2012/05/18/easy-css-vendor-prefix-mixin-for-sass/
+@mixin vendor-prefix($name, $argument) {
+  -webkit-#{$name}: #{$argument};
+  -ms-#{$name}: #{$argument};
+  -moz-#{$name}: #{$argument};
+  -o-#{$name}: #{$argument};
+  #{$name}: #{$argument};
+}
+
 /* Begin of fonts import */
 
 /*
@@ -49,8 +60,11 @@ body {
   font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
+  &.modal-open {
+      position: fixed;
+      overflow: hidden;
+  }
 }
-
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -104,16 +118,7 @@ h4,h5,h6 {
   margin-left: 6px;
 }
 
-/*
-body {
-  text-align: justify;
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-}
-*/
-.page-header-image {
+.content-header-image {
   width: 100%;
   display: block;
   margin-left: auto;
@@ -132,8 +137,7 @@ h2 {
 
 // Sections
 
-.sections-menu-group,
-.subsections-menu-group {
+nav li {
   list-style-type: none;
 }
 .sections-menu-group {
@@ -142,7 +146,9 @@ h2 {
 }
 .subsections-menu-group {
   font-size: 0.85em;
-  /*margin-bottom: 0;*/
+  #right-hand-nav-menu .inactive & {
+    display: none;
+  }
 }
 .subsection-menu-item:last-child {
   margin-bottom: 15px;
@@ -155,11 +161,6 @@ h2 {
   padding-left: 10px;
   display: block;
 }
-
-.page-header-image {
-  margin-bottom: 25px;
-}
-
 
 a {
   color:$basiblau;
@@ -175,7 +176,7 @@ a:active,
 a.active,
 a.active img,
 .btn-info,
-.page-title {
+.content-header {
   background-color: $basiblau;
   color: white;
   border-color: $basiblau_slightly_darker;
@@ -189,7 +190,8 @@ a.active img,
   top: 3%;
   font-size: 30px;
 }
-.page-title {
+
+.content-title {
   font-size: 36px;
   padding: 12px;
   padding-left: 20px;
@@ -318,7 +320,7 @@ header ul a strong {
 section {
   width:575px;
   float:right;
-  padding-bottom:2%;
+  margin-bottom: 50px;
 }
 
 small {
@@ -358,13 +360,6 @@ footer {
     padding-right:320px;
   }
 
-  section {
-    border:1px solid #e5e5e5;
-    border-width:0 0 1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
-  }
-
   header a small {
     display:inline;
   }
@@ -374,11 +369,10 @@ footer {
     right:50px;
     top:52px;
   }
-}
 
-@media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
+    padding:0;
   }
 
   header {
@@ -392,15 +386,70 @@ footer {
   pre, code {
     word-wrap:normal;
   }
-}
 
-@media print, screen and (max-width: 480px) {
-  body {
-    padding:15px;
+  section {
+    margin-bottom: 25px;
+    &:not(.content-header) {
+      padding:0 15px;
+    }
   }
 
-  header ul {
-    display:none;
+  .content-title {
+    font-size: 28px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 18px;
+  }
+
+  header {
+    height: 66px;
+    .navbar-toggle {
+      border-color: $basiblau;
+      position: relative;
+      top: 15px;
+      right: 15px;
+      margin: 0;
+      .modal-open & {
+        background-color: $basiblau_ultralight;
+      }
+      .icon-bar {
+        background-color: $basiblau;
+      }
+    }
+    svg {
+      height: 60px;
+      margin: 3px;
+      padding-left: 15px;
+    }
+    #floating-nav-menu {
+      display: none;
+      position: fixed;
+      background-color: grey;
+      background-color: rgba(0,0,0,.6);
+      top: 66px;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      nav {
+        display: none;
+        position: relative;
+        max-height: 80%;
+        width: 240px;
+        left: calc(100% - 240px);
+        overflow-y: scroll;
+        background-color: white;
+        background-color: rgba(255,255,255,.95);
+        padding: 10px;
+        @include vendor-prefix(box-shadow, 0 12px 20px 0px rgba(0,0,0,.5))
+      }
+    }
   }
 }
 
@@ -409,6 +458,10 @@ footer {
     padding:0.4in;
     font-size:12pt;
     color:#444;
+  }
+  a[href]:after {
+    // Override bootstrap rule to remove href in parenthesis on print
+    content: none;
   }
 }
 
@@ -425,13 +478,6 @@ form {
 
 h1 span.glyphicon {
   font-size: 0.8em;
-}
-
-@media print {
-  a[href]:after {
-    // Override bootstrap rule to remove href in parenthesis on print
-    content: none;
-  }
 }
 
 // SVG Basimilch logo
@@ -471,27 +517,29 @@ a.home-link {
   &.active,
   &:active {
     background: none;
-    svg {
-      .background {
-        fill: $basiblau;
-      }
-      .foreground {
-        fill: white;
-      }
-      .svg-fallback-text {
-        color: white;
-        background-color: $basiblau;
-        &:hover {
-          color: $basiblau_ultralight
+    @media print, screen and (min-width: 961px) {
+      svg {
+        .background {
+          fill: $basiblau;
         }
-      }
-      &:hover {
         .foreground {
-          fill: $basiblau_ultralight
+          fill: white;
+        }
+        .svg-fallback-text {
+          color: white;
+          background-color: $basiblau;
+          &:hover {
+            color: $basiblau_ultralight
+          }
+        }
+        &:hover {
+          .foreground {
+            fill: $basiblau_ultralight
+          }
         }
       }
     }
-  }
+    }
 }
 
 
@@ -525,8 +573,10 @@ a.home-link {
 
 .address-map {
   margin-top: 25px;
+  width: 100%;
+  height: 450px;
+  border: 0;
 }
-
 
 // Hidden image preloading
 
