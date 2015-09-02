@@ -57,4 +57,11 @@ jQuery( function() { ( function( $$, $, undefined ) {
     $("#floating-nav-menu nav").slideToggle();
   });
 
+  $(window).on('hashchange', highlightSectionInURLHash);
+  function highlightSectionInURLHash(){
+    $(".section-id-in-url-hash").removeClass("section-id-in-url-hash");
+    $(window.location.hash).addClass("section-id-in-url-hash");
+  }
+  highlightSectionInURLHash(); // Do it also on page load.
+
 }( window.basimilch = window.basimilch || {}, jQuery ));});
