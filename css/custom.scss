@@ -175,6 +175,7 @@ a:hover {
   color: $basiblau_slightly_darker;
   background-color: $basiblau_ultralight;
 }
+
 a:active,
 a.active,
 a.active img,
@@ -449,6 +450,7 @@ footer {
     }
     svg {
       height: 60px;
+      width: 200px;
       margin: 3px;
       padding-left: 15px;
     }
@@ -563,12 +565,12 @@ a.home-link {
           color: white;
           background-color: $basiblau;
           &:hover {
-            color: $basiblau_ultralight
+            color: $basiblau_ultralight;
           }
         }
         &:hover {
           .foreground {
-            fill: $basiblau_ultralight
+            fill: $basiblau_ultralight;
           }
         }
       }
