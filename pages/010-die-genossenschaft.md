@@ -17,6 +17,8 @@ Wirtschaftsform realisiert.
 
 - Ökologisch, fair und transparent.
 
+{% include button-info-pdf-download.html %}
+
 # Genosschenschafter_in werden
 
 Um Genosschenschafter_in zu werden, musst du dich mit den
