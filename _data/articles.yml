@@ -1,32 +1,28 @@
-# Articles mentioning the basimilch project in natural chronological order.
-# On the website the order is reversed to show the newest first.
+# Articles mentioning the basimilch project.
 # See example of usage of this data in ../_includes/articles-list.html.
--
-  date:   12. März 2015
+
+- date:   2015-03-12
   origin: WOZ
   author: Bettina Dyttrich
   title:  Nicht mehr so radikal
   url:    http://www.woz.ch/1511/kost-und-logis/nicht-mehr-so-radikal
   pdf:    20150312_woz_nicht-mehr-so-radikal.pdf
 
--
-  date:   1. Juli 2015
+- date:   2015-07-01
   origin: Tagesanzeiger
   author: Helene Arnet
   title:  Kleine Biobauern geben Grosskonzern Emmi den Laufpass
   url:    http://www.tagesanzeiger.ch/zuerich/region/Kleine-Biobauern-geben-Grosskonzern-Emmi-den-Laufpass/story/23702880
   pdf:    20150701_tagesanzeiger_kleine-biobauern-geben-grosskonzern-emmi-den-laufpass.pdf
 
--
-  date:   12. August 2015
+- date:   2015-08-12
   origin: Limmattaler Zeitung
   author: Sophie Rüesch
   title:  Eine Bio-Kooperative bringt Demokratie in die Milchproduktion
   url:    http://www.limmattalerzeitung.ch/limmattal/region-limmattal/eine-bio-kooperative-bringt-demokratie-in-die-milchproduktion-129433449
   pdf:    20150812_limmattalerzeitung_eine-bio-kooperative-bringt-demokratie-in-die-milchproduktion.pdf
 
--
-  date:   28. August 2015
+- date:   2015-08-28
   origin: P.S. Zeitung
   author: Nicole Soland
   title:  Aus der Region statt aus dem Regal
