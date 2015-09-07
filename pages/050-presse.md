@@ -6,7 +6,7 @@ permalink: /presse/
 
 # Medienecho
 
-{% include articles-list.html %}
+{% include article-list.html %}
 
 
 # Medienmitteilung
