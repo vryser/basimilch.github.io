@@ -697,4 +697,7 @@ body .banner-label {
     border-right: none;
     margin-bottom: 0;
   }
+  @media print {
+    display: none;
+  }
 }
