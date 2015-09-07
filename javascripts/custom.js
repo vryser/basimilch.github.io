@@ -1,5 +1,14 @@
 jQuery( function() { ( function( $$, $, undefined ) {
 
+  $(".next-event-alert[data-event-date]").each(function(){
+    var $this     = $(this),
+        eventDate = new Date($this.data("event-date")),
+        now       = new Date();
+    if ( now > eventDate ) {
+      $this.remove();
+    }
+  });
+
   /* Make all non-local links open in new tab */
   $("a[href^=http]").attr("target", "_blank");
 
@@ -9,16 +18,25 @@ jQuery( function() { ( function( $$, $, undefined ) {
     .attr("download", "");
 
   /* Add direct links on hover over section titles */
+  function addDirectLink($elem, targetId) {
+    if ( $elem.data("section-title-link-already-added") ) {
+      $elem.find(".section-title-link").toggleClass("hidden");
+    } else {
+      var faqLinkHTML = "<a class='section-title-link' href='#" + targetId + "'>[link]</span></a>";
+      $elem.append(faqLinkHTML);
+      $elem.data("section-title-link-already-added", true);
+    }
+  }
   $("h1[id],h2[id],h3[id],h4[id]").hover(
     function(){
       var $this = $(this);
-      if ( $this.data("section-title-link-already-added") ) {
-        $this.find(".section-title-link").toggleClass("hidden");
-      } else {
-        var faqLinkHTML = "<a class='section-title-link' href='#" + $this.attr("id") + "'>[link]</span></a>";
-        $this.append(faqLinkHTML);
-        $this.data("section-title-link-already-added", true);
-      }
+      addDirectLink($this, $this.attr("id"));
+    });
+  $(".event-item[id]").hover(
+    function(){
+      var $this = $(this),
+          $elem = $this.find(".event-title");
+      addDirectLink($elem, $this.attr("id"));
     });
 
   var topThreshold = 325,
@@ -59,8 +77,8 @@ jQuery( function() { ( function( $$, $, undefined ) {
 
   $(window).on('hashchange', highlightSectionInURLHash);
   function highlightSectionInURLHash(){
-    $(".section-id-in-url-hash").removeClass("section-id-in-url-hash");
-    $(window.location.hash).addClass("section-id-in-url-hash");
+    $(".elem-id-in-url-hash").removeClass("elem-id-in-url-hash");
+    $(window.location.hash).addClass("elem-id-in-url-hash");
   }
   highlightSectionInURLHash(); // Do it also on page load.
 

@@ -1,0 +1,28 @@
+# Articles mentioning the basimilch project in natural chronological order.
+# On the website the order is reversed to show the newest first.
+# See example of usage of this data in ../_includes/articles-list.html.
+
+- date:      2015-09-09 16:00:00
+  time:      16h - 20h
+  place:     Foodcoop TOR14
+  address:   Bäckesstrasse 54, Zürich
+  map_url:   https://www.google.ch/maps/place/Bäckerstrasse+54+8004+Zürich+Switzerland
+  title:     Infoanlass und Degustation
+  url:       http://www.tor14.ch
+
+- date:      2015-09-19 14:00:00
+  time:      14h - 16h
+  place:     Biohof Im Basi
+  place_url: /kontakt/
+  address:   Alte Kindhauserstrasse 3, Dietikon
+  map_url:   https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+  title:     Infoanlass und Degustation
+
+- date:      2015-09-05 14:00:00
+  time:      14h - 19h
+  place:     Biohof Fondli
+  address:   Spreitenbacherstrasse 35, 8953 Dietikon
+  title:     ortoloco 5. Jubiläumsfestival
+  map_url:   https://www.google.ch/maps/place/Spreitenbacherstrasse+35+8953+Dietikon+Switzerland
+  url:       http://ortoloco.ch
+

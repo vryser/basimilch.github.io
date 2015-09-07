@@ -1,0 +1,22 @@
+{% assign events = site.data.events | sort: 'date' %}
+{% if include.display == 'past' %}
+  {% assign events = events | reverse %}
+{% endif %}
+{% for event in events %}
+  {% if include.display == 'upcoming' %}
+    {% assign event_class = "event-upcoming" %}
+    {% if site.time >= event.date %}{% continue %}{% endif %}
+  {% elsif include.display == 'past' %}
+    {% assign event_class = "event-past" %}
+    {% if site.time < event.date %}{% continue %}{% endif %}
+  {% endif %}
+  {% assign event_id = event.date | date_to_string | append: '-' | append: event.title | append: '-' | append: event.place | slugify %}
+  <div id="{{event_id}}" class="event-item {{event_class}}" data-event-date="{{ event.date | date_to_xmlschema }}">
+    <div class="event-title">{{event.title}}</div>
+    <a href="{% if event.place_url %}{{event.place_url}}{% else %}{{event.url}}{% endif %}">{{event.place}}</a><br>
+    {{event.address}} (<a href="{{event.map_url}}">Karte</a>)<br>
+    {% include long_date_german.html date=event.date %}<br>
+    {{event.time}}<br>
+    {% if event.url %}<a href="{{event.url}}" target="_blank">{{event.url}}</a><br>{% endif %}
+  </div>
+{% endfor %}

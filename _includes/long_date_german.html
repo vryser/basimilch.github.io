@@ -1,0 +1,27 @@
+{% assign d = include.date | date: "%w" %}
+{% assign m = include.date | date: "%-m" %}
+{% case d %}
+  {% when '0' %}Sonntag
+  {% when '1' %}Montag
+  {% when '2' %}Dienstag
+  {% when '3' %}Mittwoch
+  {% when '4' %}Donnerstag
+  {% when '5' %}Freitag
+  {% when '6' %}Samstag
+{% endcase %}
+{{ include.date | date: "%-d" }}.
+{% case m %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}M&auml;rz
+  {% when '4' %}April
+  {% when '5' %}Mai
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Dezember
+{% endcase %}
+{{ include.date | date: "%Y" }}

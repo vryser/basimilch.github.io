@@ -325,26 +325,6 @@ section {
   width:575px;
   float:right;
   margin-bottom: 50px;
-  h1, h2, h3, h4 {
-    &.section-id-in-url-hash {
-      &::before {
-        content: ">";
-        font-weight: 700;
-        font-size: 40px;
-        float: left;
-        margin-top: -6px;
-        margin-left: -30px;
-        color: $basiblau;
-        text-shadow: 0 0 15px $basiblau;
-      }
-      @media (max-width: 960px) {
-        background-color: $basiblau_ultralight;
-        &::before {
-          display: none;
-        }
-      }
-    }
-  }
 }
 
 small {
@@ -457,6 +437,7 @@ footer {
     #floating-nav-menu {
       display: none;
       position: fixed;
+      z-index: 1;
       background-color: grey;
       background-color: rgba(0,0,0,.6);
       top: 66px;
@@ -636,5 +617,60 @@ body .banner-label {
   @include vendor-prefix(box-shadow, 0 0 6px 2px #bbb);
   @media print, screen and (max-width: 960px) {
     display: none;
+  }
+}
+
+// Highlight item or section in the hash of the URL
+
+.elem-id-in-url-hash {
+  &::before {
+    content: ">";
+    font-weight: 700;
+    font-size: 40px;
+    float: left;
+    margin-top: -6px;
+    margin-left: -30px;
+    color: $basiblau;
+    text-shadow: 0 0 15px $basiblau;
+  }
+  @media (max-width: 960px) {
+    background-color: $basiblau_ultralight;
+    &::before {
+      display: none;
+    }
+  }
+}
+
+
+// Events
+
+.event-item {
+  margin: 25px 0;
+  .event-title {
+    font-weight: bold;
+  }
+  &.elem-id-in-url-hash {
+    background-color: $basiblau_ultralight;
+    border: 1px solid $basiblau;
+    padding: 10px;
+    &::before {
+      margin-top: -17px;
+      margin-left: -40px;
+    }
+  }
+}
+
+.next-event-alert {
+  color: $basiblau_slightly_darker;
+  background-color: $basiblau_ultralight;
+  border: 1px solid $basiblau;
+  margin: 0;
+  margin-bottom: 15px;
+  font-size: 14px;
+  padding: 10px;
+  @media screen and (max-width: 960px) {
+    border-left: none;
+    border-right: none;
+    margin-bottom: 0;
   }
 }
