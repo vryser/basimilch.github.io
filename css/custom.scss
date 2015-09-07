@@ -12,6 +12,8 @@ $basiblau_ultralight: lighten( $basiblau, 36% );
 $glyphicon-download-alt:  "\e025";
 $glyphicon-share-alt:     "\e095";
 
+$text_color: #222;
+
 // Mixins
 
 // SOURCE: http://www.stefanwienert.de/blog/2012/05/18/easy-css-vendor-prefix-mixin-for-sass/
@@ -69,7 +71,7 @@ body {
   }
 }
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:$text_color;
   margin:0 0 20px;
 }
 
@@ -311,14 +313,14 @@ header {
 }
 
 strong {
-  color:#222;
+  color:$text_color;
   font-weight:700;
 }
 
 header ul a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:$text_color;
 }
 
 section {
@@ -569,9 +571,31 @@ a.home-link {
     top:    20px;
     bottom: 50px;
   }
+  padding: {
+    left:   0;
+  }
   li {
     padding: {
       bottom: 3px;
+    }
+  }
+  & > li {
+    list-style-type: none;
+    & > a {
+      font-size: 24px;
+      color: $text_color;
+    }
+    & > ul {
+      padding: {
+        top: 10px;
+        bottom: 25px;
+        left: 55px;
+      }
+      @media (max-width: 960px) {
+        padding: {
+          left: 20px;
+        }
+      }
     }
   }
 }
