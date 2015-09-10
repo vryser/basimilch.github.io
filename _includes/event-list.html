@@ -1,4 +1,5 @@
 {% assign events = site.data.events | sort: 'date' %}
+{% assign events_found = false %}
 {% if include.display == 'past' %}
   {% assign events = events | reverse %}
 {% endif %}
@@ -10,6 +11,7 @@
     {% assign event_class = "event-past" %}
     {% if site.time < event.date %}{% continue %}{% endif %}
   {% endif %}
+  {% assign events_found = true %}
   {% assign event_id = event.date | date_to_string | append: '-' | append: event.title | append: '-' | append: event.place | slugify %}
   <div id="{{event_id}}" class="event-item {{event_class}}" data-event-date="{{ event.date | date_to_xmlschema }}">
     <div class="event-title">{{event.title}}</div>
@@ -20,3 +22,10 @@
     {% if event.url %}<a href="{{event.url}}" target="_blank">{{event.url}}</a><br>{% endif %}
   </div>
 {% endfor %}
+{% unless events_found %}
+  {% if include.display == 'upcoming' %}
+  <p>Im Moment sind keine weitere Veranstaltungen geplannt.</p>
+  {% elsif include.display == 'past' %}
+  <p>Keine vergangene Veranstaltungen.</p>
+  {% endif %}
+{% endunless %}

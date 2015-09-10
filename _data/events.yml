@@ -1,14 +1,6 @@
 # Events related to the basimilch project.
 # See example of usage of this data in ../_includes/event-list.html.
 
-- date:      2015-09-09 20:00:00
-  time:      16h - 20h
-  place:     Foodcoop TOR14
-  address:   Bäckesstrasse 54, Zürich
-  map_url:   https://www.google.ch/maps/place/Bäckerstrasse+54+8004+Zürich+Switzerland
-  title:     Infoanlass und Degustation
-  url:       http://www.tor14.ch
-
 - date:      2015-09-19 16:00:00
   time:      14h - 16h
   place:     Biohof Im Basi
@@ -16,6 +8,14 @@
   address:   Alte Kindhauserstrasse 3, Dietikon
   map_url:   https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
   title:     Infoanlass und Degustation
+
+- date:      2015-09-09 20:00:00
+  time:      16h - 20h
+  place:     Foodcoop TOR14
+  address:   Bäckesstrasse 54, Zürich
+  map_url:   https://www.google.ch/maps/place/Bäckerstrasse+54+8004+Zürich+Switzerland
+  title:     Infoanlass und Degustation
+  url:       http://www.tor14.ch
 
 - date:      2015-09-05 19:00:00
   time:      14h - 19h
