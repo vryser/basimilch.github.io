@@ -679,13 +679,14 @@ body .banner-label {
   }
   &.elem-id-in-url-hash {
     background-color: $basiblau_ultralight;
+    padding: 9px;
     border: 1px solid $basiblau;
     &::before {
       margin-top: -17px;
       margin-left: -40px;
     }
   }
-  .event-logo {
+  .event-image {
     max-height: 100px;
     max-width: 200px;
     position: relative;
