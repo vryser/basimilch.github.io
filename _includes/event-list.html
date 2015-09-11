@@ -12,8 +12,10 @@
     {% if site.time < event.date %}{% continue %}{% endif %}
   {% endif %}
   {% assign events_found = true %}
-  {% assign event_id = event.date | date_to_string | append: '-' | append: event.title | append: '-' | append: event.place | slugify %}
-  <div id="{{event_id}}" class="event-item {{event_class}}" data-event-date="{{ event.date | date_to_xmlschema }}">
+  <div id="{% include event_id event=event %}" class="event-item {{event_class}} event-{{event.title | slugify}}" data-event-date="{{ event.date | date_to_xmlschema }}" logo-url="{{event.logo}}">
+    {% if event.logo %}
+      <!-- <img class="event-logo" src="{{event.logo}}" alt="Logo for {{event.place}}"> -->
+    {% endif %}
     <div class="event-title">{{event.title}}</div>
     <a href="{% if event.place_url %}{{event.place_url}}{% else %}{{event.url}}{% endif %}">{{event.place}}</a><br>
     {{event.address}} (<a href="{{event.map_url}}">Karte</a>)<br>
