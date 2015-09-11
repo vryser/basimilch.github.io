@@ -14,7 +14,7 @@
   {% assign events_found = true %}
   <div id="{% include event_id event=event %}" class="event-item {{event_class}} event-{{event.title | slugify}}" data-event-date="{{ event.date | date_to_xmlschema }}">
     {% if event.image %}
-      <img class="event-image" src="/images/{{event.image}}.png" alt="Image for {{event.title}}">
+      <img class="event-image" src="/images/{{event.image}}.png" alt="Image for {{event.title | xml_escape}}">
     {% endif %}
     <div class="event-title">{{event.title}}</div>
     <a href="{% if event.place_url %}{{event.place_url}}{% else %}{{event.url}}{% endif %}">{{event.place}}</a><br>
