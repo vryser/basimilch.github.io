@@ -1,5 +1,7 @@
 {% assign d = include.date | date: "%w" %}
 {% assign m = include.date | date: "%-m" %}
+{% assign y = include.date | date: "%Y" %}
+{% assign current_year = site.time | date: "%Y" %}
 {% case d %}
   {% when '0' %}So.
   {% when '1' %}Mo.
@@ -24,4 +26,4 @@
   {% when '11' %}Nov.
   {% when '12' %}Dez.
 {% endcase %}
-{{ include.date | date: "%Y" }}
+{% unless current_year == y %}{{y}}{% endunless %}
