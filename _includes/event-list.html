@@ -18,10 +18,24 @@
     {% endif %}
     <div class="event-title">{{event.title}}</div>
     <a href="{% if event.place_url %}{{event.place_url}}{% else %}{{event.url}}{% endif %}">{{event.place}}</a><br>
-    {{event.address}} (<a href="{{event.map_url}}">Karte</a>)<br>
-    {% include long_date_german.html date=event.date %}<br>
-    {{event.time}}<br>
-    {% if event.url %}<a href="{{event.url}}" target="_blank">{{event.url}}</a><br>{% endif %}
+    <div class="event-address">
+      <span class="glyphicon glyphicon-map-marker"></span>
+      {{event.address}} (<a href="{{event.map_url}}">Karte</a>)<br>
+    </div>
+    <div class="event-date">
+      <span class="glyphicon glyphicon-calendar"></span>
+      {% include long_date_german.html date=event.date %}
+    </div>
+    <div class="event-time">
+      <span class="glyphicon glyphicon-time"></span>
+      {{event.time}}
+    </div>
+    {% if event.url %}
+      <div class="event-link">
+        <span class="glyphicon glyphicon-link"></span>
+        <a href="{{event.url}}" target="_blank">{{event.url}}</a><br>
+      </div>
+    {% endif %}
   </div>
 {% endfor %}
 {% unless events_found %}
