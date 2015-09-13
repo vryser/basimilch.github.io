@@ -62,6 +62,7 @@
   time:       10h - 19h
   place:      Slow Food Market
   image:      logos/slowfoodmarket_logo # http://www.slowfoodmarket.ch/uploads/tx_smedialmseventcalendar/SLOW2011_4c_01.gif
-  address:    Messe Zürich, Halle 9, Thurgauerstrasse 7, 8050 Zürich
+  address:    Messe Zürich, Halle 9
+  address_2:  Thurgauerstrasse 7, 8050 Zürich
   map_url:    https://www.google.ch/maps/place/Thurgauerstrasse+7+8050+Zürich+Switzerland
   url:        http://www.slowfoodmarket.ch
