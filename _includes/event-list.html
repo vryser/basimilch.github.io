@@ -38,11 +38,11 @@
     {% endif %}
     <div class="event-date">
       <span class="glyphicon glyphicon-calendar"></span>
-      {% include long_date_german.html date=event.start %}
+      {% include long_date_german date=event.start %}
     </div>
     {% if multi_day_event %}
       <div class="event-address-2">
-        {% include long_date_german.html date=event.end %}
+        {% include long_date_german date=event.end %}
       </div>
     {% endif %}
     <div class="event-time">

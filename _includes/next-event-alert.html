@@ -4,7 +4,7 @@
   <section class="next-event-alert" {% include event_dates_attrs event=event %} >
     <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
     <b>{{event.title}}</b>
-    {% include short_date_german.html date=event.start %},
+    {% include short_date_german date=event.start %},
     {% include event_hours event=event %},
     {{event.place}}.
     <em><a href="/veranstaltungen/#{% include event_id event=event %}">Mehr Info...</a></em>
