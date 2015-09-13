@@ -1,18 +1,24 @@
-{% assign events = site.data.events | sort: 'date' %}
+{% assign events = site.data.events | sort: 'start' %}
 {% assign events_found = false %}
 {% if include.display == 'past' %}
   {% assign events = events | reverse %}
 {% endif %}
 {% for event in events %}
+  {% assign start_day = event.start | date: "%d" %}
+  {% assign end_day   = event.end   | date: "%d" %}
+  {% assign multi_day_event = false %}
+  {% if start_day != end_day %}
+    {% assign multi_day_event = true %}
+  {% endif %}
   {% if include.display == 'upcoming' %}
     {% assign event_class = "event-upcoming" %}
-    {% if site.time >= event.date %}{% continue %}{% endif %}
+    {% if site.time >= event.end %}{% continue %}{% endif %}
   {% elsif include.display == 'past' %}
     {% assign event_class = "event-past" %}
-    {% if site.time < event.date %}{% continue %}{% endif %}
+    {% if site.time < event.end %}{% continue %}{% endif %}
   {% endif %}
   {% assign events_found = true %}
-  <div id="{% include event_id event=event %}" class="event-item {{event_class}} event-{{event.title | slugify}}" data-event-date="{{ event.date | date_to_xmlschema }}">
+  <div id="{% include event_id event=event %}" class="event-item {{event_class}} event-{{event.title | slugify}}" {% include event_dates_attrs event=event %} >
     {% if event.image %}
       <img class="event-image" src="/images/{{event.image}}.png" alt="Image for {{event.title | xml_escape}}">
     {% endif %}
@@ -32,11 +38,20 @@
     {% endif %}
     <div class="event-date">
       <span class="glyphicon glyphicon-calendar"></span>
-      {% include long_date_german.html date=event.date %}
+      {% include long_date_german.html date=event.start %}
     </div>
+    {% if multi_day_event %}
+      <div class="event-address-2">
+        {% include long_date_german.html date=event.end %}
+      </div>
+    {% endif %}
     <div class="event-time">
       <span class="glyphicon glyphicon-time"></span>
-      {{event.time}}
+      {% if multi_day_event %}
+        {{event.day_hours}}
+      {% else %}
+        {% include event_hours event=event %}
+      {% endif %}
     </div>
     {% if event.url %}
       <div class="event-link">

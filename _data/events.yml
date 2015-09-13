@@ -2,8 +2,8 @@
 # See example of usage of this data in ../_includes/event-list.html.
 
 - title:      ortoloco 5. Jubiläumsfestival
-  date:       2015-09-05 19:00:00
-  time:       14h - 19h
+  start:      2015-09-05 14:00:00 +0200
+  end:        2015-09-05 19:00:00 +0200
   image:      logos/ortoloco_avatar
   place:      Biohof Fondli
   address:    Spreitenbacherstrasse 35, 8953 Dietikon
@@ -11,8 +11,8 @@
   url:        http://ortoloco.ch
 
 - title:      Infoanlass und Degustation
-  date:       2015-09-09 20:00:00
-  time:       16h - 20h
+  start:      2015-09-09 16:00:00 +0200
+  end:        2015-09-09 20:00:00 +0200
   place:      Foodcoop TOR14
   image:      logos/tor14_logo
   address:    Bäckesstrasse 54, Zürich
@@ -20,8 +20,8 @@
   url:        http://www.tor14.ch
 
 - title:      Infoanlass und Degustation
-  date:       2015-09-19 16:00:00
-  time:       14h - 16h
+  start:      2015-09-19 14:00:00 +0200
+  end:        2015-09-19 16:00:00 +0200
   place:      Biohof Im Basi
   image:      logos/basimilch_avatar
   place_url:  /kontakt/
@@ -29,8 +29,8 @@
   map_url:    https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
 
 - title:      Infoveranstaltung bei meh-als-gmües
-  date:       2015-09-25 20:00:00
-  time:       19h
+  start:      2015-09-25 19:00:00 +0200
+  end:        2015-09-25 20:00:00 +0200
   place:      mehr-als-wohnen (Hunzikerareal)
   image:      logos/mehralsgmues_logo # http://www.mehalsgmues.ch/Leporello1.jpg
   place_url:  http://mehralswohnen.ch
@@ -39,8 +39,8 @@
   url:        http://www.mehalsgmues.ch
 
 - title:      Stand bei "Zürich tischt auf"
-  date:       2015-09-26 17:00:00
-  time:       12h - 17h
+  start:      2015-09-26 12:00:00 +0200
+  end:        2015-09-26 17:00:00 +0200
   place:      foodwaste.ch
   image:      events/zuritischtauf_poster # http://foodwaste.ch/wp-content/uploads/2015/08/Bildschirmfoto-2015-09-01-um-00.09.52.png
   place_url:  http://foodwaste.ch
@@ -49,8 +49,8 @@
   url:        http://foodwaste.ch/unsere-projekte/kommend/zuerich-tischt-auf/
 
 - title:      Depotantrag/Infoveranstaltung
-  date:       2015-09-30 18:30:00
-  time:       17:30h
+  start:      2015-09-30 17:30:00 +0200
+  end:        2015-09-30 18:30:00 +0200
   place:      Branche Guggach
   image:      logos/branche_guggach_logo # http://www.gz-zh.ch/typo3temp/pics/freiraum_logo_web_03_9172212d5c.jpg
   address:    Station Radiostudio (??)
@@ -58,8 +58,9 @@
   url:        http://www.gz-zh.ch/gz-buchegg/brache/
 
 - title:      2-Tage Stand am Slow Food Market
-  date:       2015-11-14 19:00:00 # Sa 14. - So 15.11.
-  time:       10h - 19h
+  start:      2015-11-14 10:00:00 +0200
+  end:        2015-11-15 19:00:00 +0200
+  day_hours:  10:00 - 19:00
   place:      Slow Food Market
   image:      logos/slowfoodmarket_logo # http://www.slowfoodmarket.ch/uploads/tx_smedialmseventcalendar/SLOW2011_4c_01.gif
   address:    Messe Zürich, Halle 9

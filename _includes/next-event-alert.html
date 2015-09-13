@@ -1,11 +1,11 @@
-{% assign events = site.data.events | sort: 'date' %}
+{% assign events = site.data.events | sort: 'start' %}
 {% for event in events %}
-  {% if site.time >= event.date %}{% continue %}{% endif %}
-  <section class="next-event-alert" data-event-date="{{ event.date | date_to_xmlschema }}">
+  {% if site.time >= event.end %}{% continue %}{% endif %}
+  <section class="next-event-alert" {% include event_dates_attrs event=event %} >
     <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
     <b>{{event.title}}</b>
-    {% include short_date_german.html date=event.date %},
-    {{event.time}},
+    {% include short_date_german.html date=event.start %},
+    {% include event_hours event=event %},
     {{event.place}}.
     <em><a href="/veranstaltungen/#{% include event_id event=event %}">Mehr Info...</a></em>
   </section>

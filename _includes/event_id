@@ -1,1 +1,1 @@
-event-{{ event.date | date_to_string | append: '-' | append: event.title | append: '-' | append: event.place | slugify }}
+event-{{ event.start | date_to_string | append: '-' | append: event.title | append: '-' | append: event.place | slugify }}

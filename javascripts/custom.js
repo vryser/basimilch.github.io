@@ -1,8 +1,8 @@
 jQuery( function() { ( function( $$, $, undefined ) {
 
-  $(".next-event-alert[data-event-date]").each(function(){
+  $(".next-event-alert[data-event-end-date]").each(function(){
     var $this     = $(this),
-        eventDate = new Date($this.data("event-date")),
+        eventDate = new Date($this.data("event-end-date")),
         now       = new Date();
     if ( now > eventDate ) {
       $this.remove();

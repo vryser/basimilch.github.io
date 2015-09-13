@@ -1,0 +1,3 @@
+{% assign start_time  = include.event.start | date: "%H:%M" %}
+{% assign end_time    = include.event.end   | date: "%H:%M" %}
+{{start_time}} - {{end_time}}

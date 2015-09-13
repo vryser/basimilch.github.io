@@ -1,0 +1,1 @@
+data-event-start-date="{{ event.start | date_to_xmlschema }}" data-event-end-date="{{ event.end | date_to_xmlschema }}"
