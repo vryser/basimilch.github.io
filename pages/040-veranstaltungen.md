@@ -8,6 +8,6 @@ permalink: /veranstaltungen/
 
 {% include event-list.html display='upcoming' %}
 
-# Vergangege Veranstaltungen
+# Vergangene Veranstaltungen
 
 {% include event-list.html display='past' %}

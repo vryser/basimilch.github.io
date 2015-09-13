@@ -27,3 +27,41 @@
   place_url:  /kontakt/
   address:    Alte Kindhauserstrasse 3, Dietikon
   map_url:    https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+
+- title:      Infoveranstaltung bei meh-als-gmües
+  date:       2015-09-25 20:00:00
+  time:       19h
+  place:      mehr-als-wohnen (Hunzikerareal)
+  image:      logos/mehralsgmues_logo # http://www.mehalsgmues.ch/Leporello1.jpg
+  place_url:  http://mehralswohnen.ch
+  address:    Hagenholzstrasse 104b, 8050 Zürich
+  map_url:    https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland
+  url:        http://www.mehalsgmues.ch
+
+- title:      Stand bei "Zürich tischt auf"
+  date:       2015-09-26 17:00:00
+  time:       12h - 17h
+  place:      foodwaste.ch
+  image:      events/zuritischtauf_poster # http://foodwaste.ch/wp-content/uploads/2015/08/Bildschirmfoto-2015-09-01-um-00.09.52.png
+  place_url:  http://foodwaste.ch
+  address:    Helvetiaplatz, 8004 Zürich
+  map_url:    https://www.google.ch/maps/place/Helvetiaplatz+8004+Zürich+Switzerland
+  url:        http://foodwaste.ch/unsere-projekte/kommend/zuerich-tischt-auf/
+
+- title:      Depotantrag/Infoveranstaltung
+  date:       2015-09-30 18:30:00
+  time:       17:30h
+  place:      Branche Guggach
+  image:      logos/branche_guggach_logo # http://www.gz-zh.ch/typo3temp/pics/freiraum_logo_web_03_9172212d5c.jpg
+  address:    Station Radiostudio (??)
+  map_url:    https://www.google.ch/maps/place/+Switzerland
+  url:        http://www.gz-zh.ch/gz-buchegg/brache/
+
+- title:      2-Tage Stand am Slow Food Market
+  date:       2015-11-14 19:00:00 # Sa 14. - So 15.11.
+  time:       10h - 19h
+  place:      Slow Food Market
+  image:      logos/slowfoodmarket_logo # http://www.slowfoodmarket.ch/uploads/tx_smedialmseventcalendar/SLOW2011_4c_01.gif
+  address:    Messe Zürich, Halle 9, Thurgauerstrasse 7, 8050 Zürich
+  map_url:    https://www.google.ch/maps/place/Thurgauerstrasse+7+8050+Zürich+Switzerland
+  url:        http://www.slowfoodmarket.ch
