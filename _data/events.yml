@@ -48,13 +48,14 @@
   map_url:    https://www.google.ch/maps/place/Helvetiaplatz+8004+Zürich+Switzerland
   url:        http://foodwaste.ch/unsere-projekte/kommend/zuerich-tischt-auf/
 
-- title:      Depotantrag/Infoveranstaltung
+- title:      Depotantrag und Infoveranstaltung
   start:      2015-09-30 17:30:00 +0200
   end:        2015-09-30 18:30:00 +0200
-  place:      Branche Guggach
-  image:      logos/branche_guggach_logo.png # http://www.gz-zh.ch/typo3temp/pics/freiraum_logo_web_03_9172212d5c.jpg
-  address:    Station Radiostudio (??)
-  map_url:    https://www.google.ch/maps/place/+Switzerland
+  place:      Brache Guggach
+  image:      logos/brache_guggach_logo.png # http://www.gz-zh.ch/typo3temp/pics/freiraum_logo_web_03_9172212d5c.jpg
+  address:    Haltestelle Radiostudio
+  address_2:  Wehntalerstrasse 109, 8057 Zürich
+  map_url:    https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland
   url:        http://www.gz-zh.ch/gz-buchegg/brache/
 
 - title:      2-Tage Stand am Slow Food Market
