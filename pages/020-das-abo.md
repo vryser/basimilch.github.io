@@ -14,7 +14,7 @@ gewählt werden. Die andere Hälfte wird von den Käser_innen je nach
 Saison und Lage des Käsekellers bestimmt. Bei Bedarf kann das Grundabo
 mit Zusatzabos von 2 Litern auf 10, 12 oder 14 l erweitert werden.
 
-## 1 Liter verarbeitete Milch entspricht
+1 Liter verarbeitete Milch entspricht:
 
 - 1 l Trinkmilch
 - 100 g Käse
@@ -22,12 +22,34 @@ mit Zusatzabos von 2 Litern auf 10, 12 oder 14 l erweitert werden.
 - 300 g Quark
 - 1 dl Rahm
 
-## Beispiel eines Abos
+Weil es schwierig ist, sich 8 Liter Milch in unterschiedlichen Produkten
+vorzustellen, folgen nun 2 Abobeispiele.
 
-- **4 l individuell wählbar:** 1l Milch, 1 dl Rahm, 500 g Joghurt, 500
-g Quark
-- **4 l von Käser_innen bestimmt:** 200g Weichkäse, 200g rezenter
-Käse (je nach Saison).
+## Abobeispiele
+
+Als Erinnerung: Der vom Käserteam bestimmte Anteil wird
+hauptsächlich aus Käseprodukten bestehen, so dass der Konsum an
+Frischmilchprodukte mit dem indivuduell wählbaren Anteil bedeckt sein soll.
+
+### Trinkmilchabo
+
+Für Haushalte, die sowohl Milch wie auch Joghurt und Quark konsumieren, könnte
+das Abo so aussehen:
+
+{% include photo.html filename="20150919_abo_example_01" %}
+
+- **4 l individuell wählbar:** 2l Milch, 500g Fruchtjoghurt, 500g Quark
+- **4 l von Käser_innen bestimmt:** 400g Raclette-Käse.
+
+### Trinkmilchfreies Abo
+
+Haushalte, die nicht oder kaum Trinkmilch konsumieren, können im indivuduell
+wählbaren Teil komplett auf Milch verzichten.
+
+{% include photo.html filename="20150919_abo_example_02" %}
+
+- **4 l individuell wählbar:** 500g Fruchtjoghurt, 500g Quark und 200g Käse
+- **4 l von Käser_innen bestimmt:** 1 Camembert (150g), 250g Hartkäse.
 
 ## Produkte
 
