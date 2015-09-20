@@ -1,6 +1,7 @@
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /blog/:year/:month/:day/:title/
+# permalink: pretty
 safe: true
 # debugmode: true
 # Use {{ jekyll.environment }} from: https://github.com/jekyll/jekyll/issues/1219#issuecomment-50814813
@@ -8,9 +9,20 @@ safe: true
 exclude: ["git-untracked"]
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "pages" # an empty string here means all files in the project
+    values:
+      section-group: "secondary"
+      layout: "default"
+
+  - scope:
+      type: "posts"
+    values:
+      section-group: "secondary"
+      layout: "default"
+
+  - scope:
+      type: "drafts"
     values:
       section-group: "secondary"
       layout: "default"

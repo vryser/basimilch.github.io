@@ -719,3 +719,14 @@ body .banner-label {
     display: none;
   }
 }
+
+// Blogs
+
+.post-list-thumbnail {
+  width: 80px;
+  height: 80px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  float: right;
+}
