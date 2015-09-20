@@ -22,3 +22,4 @@ Please read the [Jekyll] documentation to install it on your system.
 - <http://jekyllrb.com>
 - <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
 - <http://alanwsmith.com/jekyll-liquid-date-formatting-examples>
+- <https://github.com/lokesh/lightbox2/>

@@ -82,4 +82,8 @@ jQuery( function() { ( function( $$, $, undefined ) {
   }
   highlightSectionInURLHash(); // Do it also on page load.
 
+  /* global lightbox */
+  lightbox.option({
+    albumLabel: 'Bild %1 von %2'
+  })
 }( window.basimilch = window.basimilch || {}, jQuery ));});

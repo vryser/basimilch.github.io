@@ -1,3 +1,5 @@
-<a href="/images/photos/{{include.filename}}.jpg">
+<a href="/images/photos/{{include.filename}}.jpg"
+   data-lightbox="{{page.permalink | slugify}}"
+   data-title="{{include.caption}}">
     <img src="/images/photos/{{include.filename}}.jpg">
 </a>
