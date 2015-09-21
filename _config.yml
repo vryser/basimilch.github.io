@@ -2,6 +2,7 @@
 markdown: kramdown
 permalink: pretty
 safe: true
+timezone: Europe/Zurich
 # debugmode: true
 # Use {{ jekyll.environment }} from: https://github.com/jekyll/jekyll/issues/1219#issuecomment-50814813
 
