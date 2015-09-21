@@ -29,12 +29,14 @@
   map_url:    https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
 
 - title:      Infoveranstaltung bei meh-als-gmües
+  title_short: Infoveranstaltung # title_short used for the 'next event' alert
   start:      2015-09-25 19:00:00 +0200
   end:        2015-09-25 20:00:00 +0200
-  place:      mehr-als-wohnen (Hunzikerareal)
+  place:      mehr-als-wohnen
   image:      events/mehalsgmues_poster.jpg # http://www.mehalsgmues.ch/Leporello1.jpg
   place_url:  http://mehralswohnen.ch
-  address:    Hagenholzstrasse 104b, 8050 Zürich
+  address:    Hunzikerareal
+  address_2:  Hagenholzstrasse 104b, 8050 Zürich
   map_url:    https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland
   url:        http://www.mehalsgmues.ch
 

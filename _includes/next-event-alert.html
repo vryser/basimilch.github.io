@@ -3,7 +3,7 @@
   {% if site.time >= event.end %}{% continue %}{% endif %}
   <section class="next-event-alert" {% include event_dates_attrs event=event %} >
     <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
-    <b>{{event.title}}</b>
+    <b>{% if event.title_short %}{{event.title_short}}{% else %}{{event.title}}{% endif %}</b>
     {% include short_date_german date=event.start %},
     {% include event_hours event=event %},
     {{event.place}}.
