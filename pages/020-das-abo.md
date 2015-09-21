@@ -29,7 +29,7 @@ vorzustellen, folgen nun 2 Abobeispiele.
 
 Als Erinnerung: Der vom Käserteam bestimmte Anteil wird
 hauptsächlich aus Käseprodukten bestehen, so dass der Konsum an
-Frischmilchprodukte mit dem indivuduell wählbaren Anteil bedeckt sein soll.
+Frischmilchprodukte mit dem indivuduell wählbaren Anteil gedeckt sein soll.
 
 ### Trinkmilchabo
 
