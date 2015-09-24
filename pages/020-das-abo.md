@@ -36,7 +36,7 @@ Frischmilchprodukte mit dem indivuduell wählbaren Anteil gedeckt sein soll.
 Für Haushalte, die sowohl Milch wie auch Joghurt und Quark konsumieren, könnte
 das Abo so aussehen:
 
-{% include photo.html filename="20150919_abo_example_01" caption="Trinkmilch-Beispielabo: 2l Milch, 500g Fruchtjoghurt, 500g Quark und 400g Raclette-Käse." %}
+{% include photo.html filename="20150919_infoanlass_imbasi_hof_09" caption="Trinkmilch-Beispielabo: 2l Milch, 500g Fruchtjoghurt, 500g Quark und 400g Raclette-Käse." %}
 
 - **4 l individuell wählbar:** 2l Milch, 500g Fruchtjoghurt, 500g Quark
 - **4 l von Käser_innen bestimmt:** 400g Raclette-Käse.
@@ -46,7 +46,7 @@ das Abo so aussehen:
 Haushalte, die nicht oder kaum Trinkmilch konsumieren, können im indivuduell
 wählbaren Teil komplett auf Milch verzichten.
 
-{% include photo.html filename="20150919_abo_example_02" caption="Trinkmilchfreies Beispielabo: 500g Fruchtjoghurt, 500g Quark und 200g Käse und 1 Camembert (150g)" %}
+{% include photo.html filename="20150919_infoanlass_imbasi_hof_10" caption="Trinkmilchfreies Beispielabo: 500g Fruchtjoghurt, 500g Quark und 200g Käse und 1 Camembert (150g)" %}
 
 - **4 l individuell wählbar:** 500g Fruchtjoghurt, 500g Quark und 200g Käse
 - **4 l von Käser_innen bestimmt:** 1 Camembert (150g), 250g Hartkäse.

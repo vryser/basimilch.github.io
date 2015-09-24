@@ -1,48 +1,20 @@
 ---
-layout: compress
+layout: body_wrapper
 ---
 
-<!doctype html>
-<html lang="de-CH">
-
-  {% include head.html %}
-
-  {% assign body-class = page.permalink | replace:'/',''  | prepend: 'page-' %}
-  <body class="{{ body-class }}">
-
-    <div class="banner-label"><a href="/genossenschaft/#genosschenschafterin-werden">Hier anmelden!</a></div>
-
-    {% include back-to-top-button.html %}
-
-    <div class="wrapper">
-
-      {% include header.html %}
-
-      {% include debug-trace.html %}
-
-      {% include content-header.html %}
-
-      <section>
-        <div class="page-content">
-          <div class="wrap">
-            {{ content }}
-          </div>
-        </div>
-      </section>
-
-      {% include content-footer.html %}
-
-      {% include footer.html %}
-
+<div class="banner-label"><a href="/genossenschaft/#genosschenschafterin-werden">Hier anmelden!</a></div>
+<div class="wrapper">
+  {% include header.html %}
+  {% include debug_trace.html %}
+  {% include next_event_alert.html %}
+  {% include content_header.html %}
+  <section>
+    <div class="page-content">
+      <div class="wrap">
+        {{ content }}
+      </div>
     </div>
-
-    <script src="/external/jquery-2.1.4.min.js"></script>
-    <script src="/external/lightbox2-2.8.1/js/lightbox.min.js"></script>
-    <script src="/javascripts/custom.js"></script>
-
-    {% include google-analytics-script.html %}
-
-    {% include content-header-images-preloader.html %}
-
-  </body>
-</html>
+  </section>
+  {% include content_footer.html %}
+  {% include footer.html %}
+</div>

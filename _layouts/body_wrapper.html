@@ -1,0 +1,18 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="de-CH">
+  {% include head.html %}
+  {% assign body-class = page.permalink | replace:'/',''  | prepend: 'page-' %}
+  <body class="{{ body-class }}">
+    {% include back-to-top-button.html %}
+    {{ content }}
+    <script src="/external/jquery-2.1.4.min.js"></script>
+    <script src="/external/lightbox2-2.8.1/js/lightbox.min.js"></script>
+    <script src="/javascripts/custom.js"></script>
+    {% include google-analytics-script.html %}
+    {% include content-header-images-preloader.html %}
+  </body>
+</html>

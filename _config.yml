@@ -20,13 +20,13 @@ defaults:
       type: "posts"
     values:
       section-group: "secondary"
-      layout: "default"
+      layout: "post_default"
 
   - scope:
       type: "drafts"
     values:
       section-group: "secondary"
-      layout: "default"
+      layout: "post_default"
 
 # Site settings
 title: basimilch

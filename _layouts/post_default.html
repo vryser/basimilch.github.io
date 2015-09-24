@@ -1,0 +1,25 @@
+---
+layout: body_wrapper
+---
+
+<!--
+  More Info on tags:
+  http://www.minddust.com/post/tags-and-categories-on-github-pages/
+-->
+
+<div class="wrapper post">
+  {% include post_header.html %}
+  {% include post_content_header.html %}
+  <section>
+    <div class="post-content">
+      <div class="post-date">
+        {% include long_date_german date=page.date %}
+      </div>
+      <div class="wrap">
+        {{ content }}
+      </div>
+    </div>
+  </section>
+  {% include content_footer.html %}
+  {% include footer.html %}
+</div>

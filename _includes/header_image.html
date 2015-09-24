@@ -1,10 +1,3 @@
-{% if page.title %}
-  {% include next-event-alert.html %}
-  <section class="content-header">
-    <div class="content-title">
-      {{ page.title }}
-    </div>
-
     {% assign explicit-content-header-image = page.header-image %}
     {% if explicit-content-header-image %}
       {% assign content-header-image = explicit-content-header-image | prepend: '/images/' %}
@@ -24,6 +17,3 @@
         <img class="content-header-image hidden-print" src="/images/unsere_liebe_kuehe.jpg">
       {% endif %}
     </div>
-
-  </section>
-{% endif %}

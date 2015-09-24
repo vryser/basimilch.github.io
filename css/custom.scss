@@ -722,11 +722,110 @@ body .banner-label {
 
 // Blogs
 
-.post-list-thumbnail {
-  width: 80px;
-  height: 80px;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  float: right;
+.post header {
+  height: auto;
+  .back-to-blog-list {
+    margin: {
+      top: 25px;
+      bottom: 25px;
+    }
+    text-align: center;
+  }
+  &.mobile-device {
+    padding: {
+      bottom: 15px;
+    }
+    .back-to-blog-list {
+      margin: {
+        top: 5px;
+        bottom: 5px;
+        left: 5px;
+      }
+      text-align: left;
+    }
+  }
+}
+.post-header {
+  color: $basiblau;
+  margin: 0;
+  min-height: 120px;
+}
+.post-title {
+  @extend .content-title;
+  padding: 0;
+}
+.post-date {
+  font-size: 0.85em;
+  font-variant: small-caps;
+  margin: {
+    top: 10px;
+    bottom: 25px;
+  }
+}
+.post-list-entry {
+  min-height: 150px;
+  .post-list-date {
+    @extend .post-date;
+    font-size: 0.7em;
+    margin: 0;
+  }
+  .post-list-thumbnail {
+    float: left;
+    width: 160px;
+    div {
+      width: 150px;
+      height: 85px;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
+  .post-list-info {
+    float: left;
+    width: calc(100% - 160px);
+    .post-list-excerpt {
+      font-style: italic;
+      font-size: 0.8em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}
+.post-content > .wrap > p:first-child:first-letter {
+    text-transform: uppercase;
+    font-size: 3em;
+    margin: {
+      top: 0px;
+      right: 5px;
+      bottom: 0px;
+      left: 5px;
+    }
+    font-weight: normal;
+    color: $basiblau;
+    float: left;
+    line-height: 1em;
+}
+.small-photo-link {
+  display: inline-block;
+  padding: 2px;
+  margin: 1rem 1.5rem 1rem 1.5rem;
+  background-color: #fff;
+  line-height: 0;
+  border-radius: 4px;
+  transition: background-color 0.5s ease-out;
+  &:hover {
+    transition: background-color 0.1s ease-out;
+    background-color: $basiblau;
+  }
+  .small-photo {
+    margin: 0;
+    width: 150px;
+    border-radius: 4px;
+  }
+}
+.post-metadata {
+  margin: {
+    bottom: 25px;
+  }
 }

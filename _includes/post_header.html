@@ -1,0 +1,22 @@
+{% capture postphoto %}
+  {% include header_image.html %}
+{% endcapture %}
+
+{% capture back_to_blog_list %}
+  <div class="back-to-blog-list">
+    <a href="/blog">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      Verzeichnis
+    </a>
+  </div>
+{% endcapture %}
+
+<header class="hidden-print hidden-xs hidden-sm">
+  {{postphoto}}
+  {{back_to_blog_list}}
+</header>
+
+<header class="hidden-print visible-xs visible-sm mobile-device">
+  {{back_to_blog_list}}
+  {{postphoto}}
+</header>
