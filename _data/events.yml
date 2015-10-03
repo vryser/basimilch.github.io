@@ -70,3 +70,12 @@
   address_2:  Thurgauerstrasse 7, 8050 Zürich
   map_url:    https://www.google.ch/maps/place/Thurgauerstrasse+7+8050+Zürich+Switzerland
   url:        http://www.slowfoodmarket.ch
+
+- title:      Infoanlass und Degustation
+  start:      2015-11-28 14:00:00 +0200
+  end:        2015-11-28 16:00:00 +0200
+  place:      Biohof Im Basi
+  image:      logos/basimilch_avatar.png
+  place_url:  /kontakt/
+  address:    Alte Kindhauserstrasse 3, Dietikon
+  map_url:    https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
