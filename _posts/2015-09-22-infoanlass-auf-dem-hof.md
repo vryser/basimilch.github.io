@@ -5,7 +5,7 @@ tags: [Veranstaltung, Degustation, Im Basi]
 ---
 
 Bei schönem Herbstwetter haben wir letzten Samstag auf den Hof im Basi zum
-Infoanlass inkl. Degustation unserer Milchprodukte eingeladen.
+Infoanlass inklusive Degustation unserer Milchprodukte eingeladen.
 Dort konnten die Produkte der zukünftigen Abos probiert werden:
 verschiedene Käsesorten wie z.B. Mutschli, Basitaler, Älper, Camembert sowie
 Joghurt, Quark und Milch. Gleichzeitig war es spannend, zukünftige
@@ -22,8 +22,7 @@ diskutieren und gemeinsam den sonnigen Nachmittag auf dem Hof zu geniessen.
 Jedes Milchprodukte-Abo enthält acht Liter verarbeiteter Milch. Weil es schwierig
 ist, sich diese Quantitäten vorzustellen, haben wir zwei konkrete Abobeispiele
 für die Besucher_innen vorbereitet. Die Bilder davon illustrieren neu die
-[Sektion über Abos](/abo/#abobeispiele) auf unsere Webseite. Spontaner
-Trinkmilchbedarf wird weiterhin am Milchautomat erfüllt werden können.
+[Sektion über Abos](/abo/#abobeispiele) auf unsere Webseite.
 
 {% include photo_small.html filename="20150919_infoanlass_imbasi_hof_12" caption="Fabian am Erzählen im Stall" %}
 {% include photo_small.html filename="20150919_infoanlass_imbasi_hof_22" caption="Diskussionen auf dem Hof" %}
@@ -34,8 +33,8 @@ Trinkmilchbedarf wird weiterhin am Milchautomat erfüllt werden können.
 
 Während dem Infoanlass hat Fabian Brandenberger den Gästen eine
 Tour über den Hof angeboten. Die Interessierten erhielten einen detaillierten
-Einblick ins Hofleben: vom Melkraum bis zum Käsekeller wurden alle Bereiche des
-Hofs besichtigt. 
+Einblick ins Hofleben: vom Melkraum bis zum Käsekeller konnten alle Bereiche des
+Hofs besichtigt werden.
 
 {% include photo_small.html filename="20150919_infoanlass_imbasi_hof_13" caption="Fabian am Erzählen im Melkraum" %}
 {% include photo_small.html filename="20150919_infoanlass_imbasi_hof_25" caption="Vor der Käserei" %}
