@@ -3,10 +3,11 @@ title: Willkommen!
 permalink: /
 ---
 
-Bist du daran interessiert, schon bald **hochwertige Milchprodukte**
-direkt vom Hof in einem **wöchentlichen Abo** zu beziehen? Legst du
-Wert darauf, dass diese Produkte in deiner Nähe unter fairen
-Bedingungen produziert werden?
+Möchstest du schon bald **hochwertige, naturbelassene Milchprodukte** direkt vom
+Hof in einem **wöchentlichen Abo** beziehen? Legst du Wert darauf, dass diese
+Produkte in deiner Nähe **unter fairen Bedingungen** produziert werden? Bist du
+daran interessiert die Trennung zwischen Konsumenten und Produzenten aufzuheben
+und eine **demokratische Wirtschaftsform** zu realisieren?
 
 Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
 Hof Im Basi in Dietikon. Die Biomilch der behornten Kühe wird in der
