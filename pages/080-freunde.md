@@ -42,3 +42,13 @@ Die Anbaugemeinschaft für eigenes Gemüse aus städtischem Boden in
 Zürich.
 
 <http://www.dunkelhoelzli.ch/>
+
+
+#  Kleinbauern-Vereinigung
+
+Die Kleinbauern-Vereinigung engagiert sich auf politischer Ebene für
+kleine und mittlere Bauernbetriebe und dafür, dass die Konsumentinnen
+und Konsumenten ein breites Angebot an schonend produzierten,
+regionalen Produkten geniessen können.
+
+<http://www.kleinbauern.ch/>
