@@ -62,7 +62,7 @@
     {% if event.info %}
       <div class="event-info">
         <span class="glyphicon glyphicon-info-sign"></span>
-        <div class="event-info-text">{{event.info}}</div>
+        <div class="event-info-text">{{event.info | markdownify}}</div>
       </div>
     {% endif %}
   </div>
