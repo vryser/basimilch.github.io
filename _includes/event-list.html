@@ -18,7 +18,7 @@
     {% if site.time < event.end %}{% continue %}{% endif %}
   {% endif %}
   {% assign events_found = true %}
-  <div id="{% include event_id event=event %}" class="event-item {{event_class}} event-{{event.title | slugify}}" {% include event_dates_attrs event=event %} >
+  <div id="{% include event_id event=event %}" class="event-item {{event_class}} event-{{event.title | slugify}}{% if event.type == "extern" %} event-extern{% endif %}" {% include event_dates_attrs event=event %} >
     {% if event.image %}
       <img class="event-image" src="/images/{{event.image}}" alt="Image for {{event.title | xml_escape}}">
     {% endif %}

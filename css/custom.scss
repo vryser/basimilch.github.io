@@ -13,6 +13,7 @@ $glyphicon-download-alt:  "\e025";
 $glyphicon-share-alt:     "\e095";
 
 $text_color: #222;
+$text_color_body: #777;
 
 // Mixins
 
@@ -63,7 +64,7 @@ Following fonts are added from the following import:;
 body {
   padding:50px;
   font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color: $text_color_body;
   font-weight:300;
   &.modal-open {
       position: fixed;
@@ -100,7 +101,7 @@ h3, h4, h5, h6 {
 h1 {
   padding-top: 15px;
   padding-bottom: 10px;
-  border-bottom: 1px solid #777;
+  border-bottom: 1px solid $text_color_body;
 }
 h2 {
   font-size: 24px;
@@ -134,7 +135,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
   padding-bottom: 10px;
-  border-bottom: 1px solid #777;
+  border-bottom: 1px solid $text_color_body;
 }
 h2 {
   font-size: 22px;
@@ -214,7 +215,7 @@ a.active img,
 
 a small {
   font-size:11px;
-  color:#777;
+  color: $text_color_body;
   margin-top:-0.6em;
   display:block;
 }
@@ -669,6 +670,22 @@ body .banner-label {
 // Events
 
 .event-item {
+  &.event-extern {
+    font-style: italic;
+    & .event-title:after {
+      content: " *";
+    }
+    &:after {
+      padding {
+        top: 20px;
+      }
+      font-size: 0.7em;
+      line-height: 1.3;
+      display: block;
+      margin-top: 10px;
+      content: "* Diese ist eine von uns unabhängige Veranstaltung im Rahmen der Vertragslandwirtschaft, die wir sehr empfehlenswert finden.";
+    }
+  }
   margin: 30px 0;
   padding: 10px;
   &:hover {
@@ -710,7 +727,6 @@ body .banner-label {
       padding-left: 21px;
       margin-top: -27px;
       font-size: 0.85em;
-      font-style: italic;
     }
   }
 }
