@@ -700,6 +700,19 @@ body .banner-label {
       left: 22px;
     }
   }
+  .event-link {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .event-info {
+    .event-info-text {
+      padding-left: 21px;
+      margin-top: -27px;
+      font-size: 0.85em;
+      font-style: italic;
+    }
+  }
 }
 
 .next-event-alert {

@@ -60,6 +60,24 @@
   map_url:    https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland
   url:        http://www.gz-zh.ch/gz-buchegg/brache/
 
+- title:      Bettina Dyttrich Lesung
+  type:       extern
+  start:      2015-10-24 15:00:00 +0200
+  end:        2015-10-24 16:30:00 +0200
+  image:      logos/fondlihof_logo.jpg # From http://www.biohof-fondli.ch/Logo_orange_kl.jpg
+  place:      Kulturstall Biohof Im Fondli
+  place_url:  http://www.biohof-fondli.ch/Fondli-Home.html
+  address:    Spreitenbacherstrasse 35, 8953 Dietikon
+  map_url:    https://www.google.ch/maps/place/Spreitenbacherstrasse+35+8953+Dietikon+Switzerland
+  url:        http://www.rotpunktverlag.ch/cgi-bin/germinal_shop.exe/VOLL?prolitnummer=5000667&titel_nummer=5000667&titel_id=5000667&caller=rotpunkt
+  info: >
+    Die Autorin und WOZ-Redaktorin Bettina Dyttrich liest im Rahmen
+    des Zürich liest-Festivals auf dem Biohof Im Fondli aus ihrem neu
+    erschienenen Buch "Gemeinsam auf dem Acker. Solidarische
+    Landwirtschaft in der Schweiz". Eine Führung durch die
+    Gartenkooperative ortoloco zeigt ausserdem, wie eine solche
+    Zusammenarbeit konkret funktioniert. Eintritt 10.- (inkl. Apéro).
+
 - title:      2-Tage Stand am Slow Food Market
   start:      2015-11-14 10:00:00 +0200
   end:        2015-11-15 19:00:00 +0200
