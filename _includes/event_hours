@@ -1,3 +1,7 @@
 {% assign start_time  = include.event.start | date: "%H:%M" %}
 {% assign end_time    = include.event.end   | date: "%H:%M" %}
-{{start_time}} - {{end_time}}
+{% if include.only_start %}
+    {{start_time}}
+{% else %}
+    {{start_time}} - {{end_time}}
+{% endif %}
