@@ -15,8 +15,6 @@ arbeiten, um ein Depot zu realisieren. Einige Standorte werden, wenn
 möglich, mit schon bestehenden Gemüsedepots oder genossenschaftlichem
 Wohnen gekoppelt.
 
-{% include depots_map.html %}
-
 ## Definitiv abgemachte Depots
 
 - Hof Im Basi, [Alte Kindhauserstrasse 3, 8953 Dietikon](https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland)
@@ -36,3 +34,5 @@ Wohnen gekoppelt.
 - Albizke
   [Albisriederstrasse 203 b, 8047 Zürich](https://www.google.ch/maps/place/Albisriederstrasse+203+b+8047+Zürich+Switzerland)
 - ETH Hönggerberg
+
+{% include depots_map.html %}
