@@ -95,8 +95,8 @@
     Zusammenarbeit konkret funktioniert. Eintritt 10.- (inkl. Apéro).
 
 - title:      2-Tage Stand am Slow Food Market
-  start:      2015-11-14 10:00:00 +0200
-  end:        2015-11-15 19:00:00 +0200
+  start:      2015-11-14 10:00:00 +0100
+  end:        2015-11-15 19:00:00 +0100
   day_hours:  10:00 - 19:00
   place:      Slow Food Market
   image:      logos/slowfoodmarket_logo.png # http://www.slowfoodmarket.ch/uploads/tx_smedialmseventcalendar/SLOW2011_4c_01.gif
@@ -111,8 +111,8 @@
     [Kleinbauern-Vereinigung](/freunde/#kleinbauern-vereinigung).
 
 - title:      Infoanlass und Degustation
-  start:      2015-11-28 14:00:00 +0200
-  end:        2015-11-28 16:00:00 +0200
+  start:      2015-11-28 14:00:00 +0100
+  end:        2015-11-28 16:00:00 +0100
   place:      Biohof Im Basi
   image:      logos/basimilch_avatar.png
   place_url:  /kontakt/
