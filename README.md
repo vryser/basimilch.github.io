@@ -27,14 +27,17 @@ online IDE:
 1. Go to [your repos on c9.io] and create a new workspace for this repo
 1. Install [Jekyll] on your workspace with the terminal with following
    command from the [c9.io documentation]:
+
     ``` bash
     gem install jekyll
     ```
 1. Checkout the `dev` branch
+
     ``` bash
     git checkout -t origin/dev
     ```
 1. Start serving the website from your [`c9.io`] account
+
     ``` bash
     jekyll serve --watch --host $IP --port $PORT --baseurl ''
     ```
