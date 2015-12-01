@@ -24,7 +24,7 @@ online IDE:
 
 1. [Fork this repository] with your GitHub account
 1. [Sign up for a Cloud9] account with your GitHub account ([direct link])
-1. Go to [your repos on c9.io] and create a new workspace for this repo
+1. Go to [your repos on c9.io] and [create a new workspace] for this repo
 1. Install [Jekyll] on your workspace with the terminal with following
    command from the [c9.io documentation]:
 
@@ -49,6 +49,7 @@ online IDE:
 [Sign up for a Cloud9]: https://c9.io/web/sign-up/free
 [direct link]: https://c9.io/auth/github?r=/dashboard.html
 [your repos on c9.io]: https://c9.io/account/repos
+[create a new workspace]: https://docs.c9.io/docs/setting-up-github-workspace
 [c9.io documentation]: https://docs.c9.io/docs/jekyll
 [pull request]: https://help.github.com/articles/using-pull-requests/
 
@@ -60,3 +61,4 @@ online IDE:
 - <http://alanwsmith.com/jekyll-liquid-date-formatting-examples>
 - <https://github.com/lokesh/lightbox2/>
 - <https://docs.c9.io/docs/>
+- <https://docs.c9.io/docs/setting-up-github-workspace>
