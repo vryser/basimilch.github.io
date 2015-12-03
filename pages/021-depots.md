@@ -21,18 +21,21 @@ Wohnen gekoppelt.
 - Genossenschaft Kalkbreite, [Kalkbreitestrasse 2, 8003 Zürich](https://www.google.ch/maps/place/Kalkbreitestrasse+2+8003+Zürich+Switzerland)
 - Baugenossenschaft mehr als wohnen, [Hagenholzstrasse 104b, 8050 Zürich](https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland)
 - Wipkingen, [Nordstrasse 301, 8037 Zürich](https://www.google.ch/maps/place/Nordstrasse+301+8037+Zürich+Switzerland)
+- [Urdorf](https://www.google.ch/maps/place/Urdorf+Switzerland)
+- Brache Guggach (Buchegg), [Wehntalerstrasse 109, 8057 Zürich](https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland) (Haltestelle Radiostudio)
+- [Juchweg 8, 8048 Altstetten](https://www.google.ch/maps/place/Juchweg+8+8048+Altstetten+Switzerland)
+
 
 ## Depots im Gespräch
 
 - Foodcoop Tor14, [Bäckerstrasse 54, 8004 Zürich](https://www.google.ch/maps/place/Bäckerstrasse+54+8004+Zürich+Switzerland)
 - Bau- und Wohngenossenschaft Kraftwerk1 Hardturm,
   [Hardturmstrasse 269, 8005 Zürich](https://www.google.ch/maps/place/Kraftwerk1+Hardturmstrasse+269+8005+Zürich+Switzerland)
-- Bau- und Wohngenossenschaft Kraftwerk1 Heizenholz (Höngg),
+- Bau- und Wohngenossenschaft Kraftwerk2 Heizenholz (Höngg),
   [Regensdorferstrasse 190, 8049 Zürich](https://www.google.ch/maps/place/Regensdorferstrasse+190+8049+Zürich+Switzerland)
-- Brache Guggach (Buchegg),
-  [Wehntalerstrasse 109, 8057 Zürich](https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland) (Haltestelle Radiostudio)
-- Albizke
-  [Albisriederstrasse 203 b, 8047 Zürich](https://www.google.ch/maps/place/Albisriederstrasse+203+b+8047+Zürich+Switzerland)
+- [Albisrieden](https://www.google.ch/maps/place/Albisrieden+Zürich+Switzerland)
 - ETH Hönggerberg
+- Niederdorf/Hauptbahnhof
+- Unterstrass/Oberstrass/Station Seilbahn Rigiblick
 
 {% include depots_map.html %}
