@@ -26,6 +26,7 @@ Wohnen gekoppelt.
 1. **Brache Guggach**, Buchegg (Haltestelle Radiostudio), [Wehntalerstrasse 109, 8057 Zürich](https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland)
 1. **Mehr als Wohnen**, Oerlikon/Schwammendingen, [Baugenossenschaft Mehr als Wohnen, Hagenholzstrasse 104b, 8050 Zürich](https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland)
 
+{% include depots_map.html %}
 
 ## Depots im Gespräch
 
@@ -38,5 +39,3 @@ Wohnen gekoppelt.
 - ETH Hönggerberg
 - Niederdorf/Hauptbahnhof
 - Unterstrass/Oberstrass/Station Seilbahn Rigiblick
-
-{% include depots_map.html %}
