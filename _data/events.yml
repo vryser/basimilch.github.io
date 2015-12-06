@@ -120,6 +120,7 @@
   map_url:    https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
 
 - title:      Erste ordentliche Genossenschaftsversammlung
+  title_short: Erste ordentliche GV
   start:      2015-12-13 13:00:00 +0100
   end:        2015-12-13 16:00:00 +0100
   place:      Biohof Im Basi
