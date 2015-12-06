@@ -185,6 +185,9 @@ a.active img,
   color: white;
   border-color: $basiblau_slightly_darker;
 }
+.contains-active-subsection a.section-menu-link {
+  background-color: $basiblau_ultralight;
+}
 .top-link {
   display: none;
   cursor: pointer;

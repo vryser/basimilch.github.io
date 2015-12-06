@@ -12,12 +12,17 @@
           {% if  section.section-group != sectionGroup %}
             {% continue %}
           {% endif %}
-          {% if page.url contains section.url %}
+          {% if page.url == section.url %}
             {% assign activesection = true %}
           {% else %}
             {% assign activesection = false %}
+            {% if page.url contains section.url %}
+              {% assign containsactivesubsection = true %}
+            {% else %}
+              {% assign containsactivesubsection = false %}
+            {% endif %}
           {% endif %}
-          <li class="section-menu-item {% unless activesection %}in{% endunless %}active">
+          <li class="section-menu-item {% unless activesection %}in{% endunless %}active{% if containsactivesubsection %} contains-active-subsection{% endif %}">
             <a class="section-menu-link{% if activesection %} active{% endif %}" href="{{ section.permalink | prepend: site.baseurl }}">{{ section.title }}</a>
             <ul class="subsections-menu-group">
               {% for subsection in site.html_pages %}
@@ -29,7 +34,7 @@
                 {% unless subsection.permalink contains section.permalink %}
                   {% continue %}
                 {% endunless %}
-                {% if page.url contains subsection.url %}
+                {% if page.url == subsection.url %}
                   {% assign activesection = true %}
                 {% else %}
                   {% assign activesection = false %}
