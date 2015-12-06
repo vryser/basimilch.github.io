@@ -13,7 +13,8 @@ Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
 Hof Im Basi in Dietikon. Die Biomilch der behornten Kühe wird in der
 hofeigenen Käserei zu Käse, Joghurt, Quark, Rahm, Butter, Rohmilch
 etc. verarbeitet und im wöchentlichen Abo in der Region Zürich
-verteilt. Der Abostart ist auf **Januar 2016** geplant.
+verteilt. Das Abo startet am **9. Januar 2016**. Die Lieferungen
+finden jeweils am Samstag statt.
 
 {% include button-signup.html %}
 
