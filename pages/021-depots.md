@@ -17,13 +17,14 @@ Wohnen gekoppelt.
 
 ## Definitiv abgemachte Depots
 
-- Hof Im Basi, [Alte Kindhauserstrasse 3, 8953 Dietikon](https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland)
-- Genossenschaft Kalkbreite, [Kalkbreitestrasse 2, 8003 Zürich](https://www.google.ch/maps/place/Kalkbreitestrasse+2+8003+Zürich+Switzerland)
-- Baugenossenschaft mehr als wohnen, [Hagenholzstrasse 104b, 8050 Zürich](https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland)
-- Wipkingen, [Nordstrasse 301, 8037 Zürich](https://www.google.ch/maps/place/Nordstrasse+301+8037+Zürich+Switzerland)
-- [Urdorf](https://www.google.ch/maps/place/Urdorf+Switzerland)
-- Brache Guggach (Buchegg), [Wehntalerstrasse 109, 8057 Zürich](https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland) (Haltestelle Radiostudio)
-- [Juchweg 8, 8048 Altstetten](https://www.google.ch/maps/place/Juchweg+8+8048+Altstetten+Switzerland)
+1. **Hof Im Basi**, Dietikon, [Alte Kindhauserstrasse 3, 8953 Dietikon](https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland)
+1. **Dietikon Zentrum**, Dietikon, [Vorstadtstrasse 27, 8953 Dietikon](https://www.google.ch/maps/place/Vorstadtstrasse+27+8953+Dietikon+Switzerland)
+1. **Urdorf**, [Urdorf](https://www.google.ch/maps/place/Urdorf+Switzerland) (genaue Adresse noch unbestimmt)
+1. **Juchweg**, Altstetten, [Juchweg 8, 8048 Altstetten](https://www.google.ch/maps/place/Juchweg+8+8048+Altstetten+Switzerland)
+1. **Kalkbreite**, Kreis 3 - 4, [Genossenschaft Kalkbreite, Kalkbreitestrasse 2, 8003 Zürich](https://www.google.ch/maps/place/Kalkbreitestrasse+2+8003+Zürich+Switzerland)
+1. **Nordstrasse**, Wipkingen, [Nordstrasse 301, 8037 Zürich](https://www.google.ch/maps/place/Nordstrasse+301+8037+Zürich+Switzerland)
+1. **Brache Guggach**, Buchegg (Haltestelle Radiostudio), [Wehntalerstrasse 109, 8057 Zürich](https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland)
+1. **Mehr als Wohnen**, Oerlikon/Schwammendingen, [Baugenossenschaft Mehr als Wohnen, Hagenholzstrasse 104b, 8050 Zürich](https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland)
 
 
 ## Depots im Gespräch
