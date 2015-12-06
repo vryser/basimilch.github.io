@@ -19,8 +19,7 @@ mit Zusatzabos von 2 Litern auf 10, 12 oder 14 l erweitert werden.
 - 1 l Trinkmilch
 - 100 g Käse
 - 1 kg Joghurt
-- 300 g Quark
-- 1 dl Rahm
+- 350 g Quark
 
 Weil es schwierig ist, sich 8 Liter Milch in unterschiedlichen Produkten
 vorzustellen, folgen nun 2 Abobeispiele.
