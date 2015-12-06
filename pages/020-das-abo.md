@@ -52,8 +52,8 @@ wählbaren Teil komplett auf Milch verzichten.
 
 ## Produkte
 
-Mutschli, Basitaler, Camembert, Raclette, Älpler,
-Kümmelkäse, Formaggini, Trinkmilch, Joghurt (Natur, Kirsche,
+Mutschli, Basitaler, Camembert, Raclette, Älpler,
+Kümmelkäse, Formaggini, Trinkmilch, Joghurt (Natur, Kirsche,
 Zwetschge, Himbeer, Heidelbeer, Vanille), Quark Natur, saisonale
 Spezialitäten und spontane Ideen unseres Käser_innenteams (z.B.
 Bärlauchformaggini, Sommerkräuterstreichkäse, Beerenrahmjoghurt,
