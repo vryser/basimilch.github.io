@@ -243,6 +243,9 @@ a[download]:hover::after {
 .subtle {
   color: transparent;
   background-color: transparent;
+  :hover > &:not(:hover) {
+    color: $basiblau_ultralight;
+  }
 }
 
 a[target='_blank']:empty::after {
