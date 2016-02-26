@@ -19,7 +19,7 @@ Wohnen gekoppelt.
 
 1. **Hof Im Basi**, Dietikon, [Alte Kindhauserstrasse 3, 8953 Dietikon](https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland)
 1. **Im Dörfli**, Dietikon, [Dörfli-Genossenschaft Wolfsmatt, Im Dörfli, 8953 Dietikon](https://www.google.ch/maps/place/Im+Dörfli+27+8953+Dietikon+Switzerland)
-1. **Urdorf**, [Urdorf](https://www.google.ch/maps/place/Urdorf+Switzerland) (genaue Adresse noch unbestimmt)
+1. **Urdorf**, [Kirchgasse 3 bis 7, 8902 Urdorf](https://www.google.ch/maps/place/Kirchgasse+3+8902+Urdorf+Switzerland)
 1. **Juchweg**, Altstetten, [Juchweg 8, 8048 Altstetten](https://www.google.ch/maps/place/Juchweg+8+8048+Altstetten+Switzerland)
 1. **Kalkbreite**, Kreis 3 - 4, [Genossenschaft Kalkbreite, Kalkbreitestrasse 2, 8003 Zürich](https://www.google.ch/maps/place/Kalkbreitestrasse+2+8003+Zürich+Switzerland)
 1. **Nordstrasse**, Wipkingen, [Nordstrasse 301, 8037 Zürich](https://www.google.ch/maps/place/Nordstrasse+301+8037+Zürich+Switzerland)
