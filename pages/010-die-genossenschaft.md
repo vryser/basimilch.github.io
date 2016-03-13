@@ -24,37 +24,26 @@ Wirtschaftsform realisiert.
 Um Genosschenschafter_in zu werden, musst du dich mit den
 [**Statuten**](statuten) und dem
 [**Betriebsreglement**](betriebsreglement) einverstanden erklären.
-Zur Anmeldung kannst du die Beitrittserklärung ausdrucken,
-ausfüllen und unterschrieben an uns senden: [_{{site.info.name}},
-{{site.info.address.street}}, {{site.info.address.plz}}
-{{site.info.address.city}}_](/kontakt).
 
-Wenn du magst, kannst du sie natürlich auch jederzeit auf dem Hof im
-Basi in Dietikon vorbeibringen. Wir freuen uns darauf, dich
-kennenzulernen.
-
-{% include button-signup-form-pdf-download.html %}
-
-Weil sich oft zwei Personen gemeinsam für ein Abo anmelden, sind im
-PDF gleich zwei Beitrittserklärungen enthalten. Natürlich kann man
-sich aber auch alleine anmelden.
+{% include button-signup-form.html %}
 
 ## Ein Abo bestellen
 
 Um ein Abo zu bestellen, musst du Genossenschafter_in bei
-{{site.info.shortname}} werden und mindestens ​zwei Anteilscheine (pro
-Abo) erwerben. Bitte fülle dazu die obige Beitritterklärung aus und
-kreuze das Feld `[] Ich möchte bei Betriebsstart ein wöchentliches Abo
-beziehen` an. Wenn du dich später bzw. nach dem Genossenschafterwerden
-für ein Abo entscheidest, sende eine Email an
-{% include info_email_link.html %}.
+{{site.info.shortname}} werden und mindestens zwei Anteilscheine (pro
+Abo) erwerben.
+
+Zurzeit sind wir mit 90 wöchentlichen Abos ausgelastet. Eine Erweiterung der Abos
+ist auf Anfang 2017 geplant. Um sich für ein Abo anzumelden, wähle die passende Option
+im Anmeldeformular aus. Somit bist du in die Warteliste eingetragen. Die Abos werden
+nach Anmeldedatum vergeben und es gilt "Es hät solangs hät".
 
 # Wie kann ich sonst helfen?
 
 ## Mache Werbung für uns!
 
-Wir sind in der heissen Phase des Aufbaus und suchen noch
-Abonnent_innen. Gerne darfst du deinem Freundes- und Bekanntenkreis,
+Um die Erweiterung bis Anfang 2017 realisieren zu können, benötigen wir
+zusätzliche Abonnent_innen. Gerne darfst du deinem Freundes- und Bekanntenkreis,
 deinen Nachbarn und Arbeitskollegen von uns erzählen.
 
 ## Werde Gönner_in
