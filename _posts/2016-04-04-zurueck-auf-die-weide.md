@@ -1,6 +1,6 @@
 ---
 title: Zurück auf die Weide
-header-image: photos/20160328_auf_die_weide_01.jpg
+header-image: photos/20160404_auf_die_weide_01.jpg
 tags: [Kühe, Weide, Frühling, Im Basi]
 ---
 
