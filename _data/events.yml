@@ -133,3 +133,43 @@
     E-Mail schicken. Aber das Datum könnt ihr euch schon merken! :)
     Und weil GVs öffentlich sind, sind an dieser Veranstaltung auch
     interessierte gerne wilkommen!
+
+- title:        Standaktion in der Baugenossenschaft Im Gut
+  title_short:  Standaktion im Gut
+  start:        2016-04-16 11:00:00 +0200
+  end:          2016-04-16 13:00:00 +0200
+  image:        logos/baugenossenschaft_im_gut_logo.png
+  place:        Baugenossenschaft Im Gut
+  place_url:    http://www.baugig.ch
+  address:      Spielplatz neben Schulhaus im Gut
+  address_2:    Gutstrasse, 8055 Zürich
+  map_url:      https://www.google.com/maps/d/viewer?mid=zdeOc1qgK1qY.kVNRrBAWBohI
+  # info: >
+  #   Diese Veranstaltung...
+
+- title:        Infoanlass Gemeinschaftsraum Heiligfeld
+  title_short:  Infoanlass im Heiligfeld
+  start:        2016-04-20 20:00:00 +0200
+  end:          2016-04-20 21:30:00 +0200
+  image:        logos/verein_brahmsstrasse_logo.png
+  place:        Gemeinschaftsraum Heiligfeld
+  place_url:    http://www.vereinbrahmsstrasse.ch/IndexNeu/Seiten/VereinInfo/VereinGemraum.html
+  address:      Brahmsstrasse 88, 8003 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Brahmsstrasse+88+8003+Zürich+Switzerland
+  # info: >
+  #   Diese Veranstaltung...
+
+- title:        Standaktion Gemeinschaftsraum GBL im Areal Stooss
+  title_short:  Standaktion Gemeinschaftsraum GBL
+  # type:       extern
+  start:        2016-05-28 11:00:00 +0200
+  end:          2016-05-28 13:00:00 +0200
+  image:        logos/gemeinnuetzige_baugenossenschaft_limmattal.png
+  place:        Areal Stooss - Letzigraben - Mühlezelgstrasse
+  place_url:    http://www.gbl-online.ch/liegenschaften/liegenschaften_einzeln/?1=1&liegenschaften_id=175659
+  address:      Letzigraben 144, 8047 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Letzigraben+144+8047+Zürich+Switzerland
+  # info: >
+  #   Diese Veranstaltung...
