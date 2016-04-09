@@ -144,8 +144,12 @@
   address:      Spielplatz neben Schulhaus im Gut
   address_2:    Gutstrasse, 8055 Zürich
   map_url:      https://www.google.com/maps/d/viewer?mid=zdeOc1qgK1qY.kVNRrBAWBohI
-  # info: >
-  #   Diese Veranstaltung...
+  info: >
+    Ab Anfang 2017 gibt es neue Abos von basimilch. Bist du interessiert? Wir
+    veranstalten eine Standaktion beim Spielplatz neben dem Schulhaus im Gut.
+    Gerne erklären wir dir, wie basimilch funktioniert und warum ein Abo von
+    basimilch eine sehr tolle Sache ist. Kommt zahlreich, eine Anmeldung ist
+    nicht nötig.
 
 - title:        Infoanlass Gemeinschaftsraum Heiligfeld
   title_short:  Infoanlass im Heiligfeld
@@ -157,8 +161,11 @@
   address:      Brahmsstrasse 88, 8003 Zürich
   # address_2:
   map_url:      https://www.google.ch/maps/place/Brahmsstrasse+88+8003+Zürich+Switzerland
-  # info: >
-  #   Diese Veranstaltung...
+  info: >
+    Ab Anfang 2017 gibt es neue Abos von basimilch. Bist du interessiert? Am
+    Infoanlass beantworten wir dir gerne deine Fragen über das Projekt und
+    erklären dir, warum ein Abo von basimilch eine sehr tolle Sache ist. Kommt
+    zahlreich, eine Anmeldung ist nicht nötig.
 
 - title:        Standaktion Gemeinschaftsraum GBL im Areal Stooss
   title_short:  Standaktion Gemeinschaftsraum GBL
@@ -171,5 +178,8 @@
   address:      Letzigraben 144, 8047 Zürich
   # address_2:
   map_url:      https://www.google.ch/maps/place/Letzigraben+144+8047+Zürich+Switzerland
-  # info: >
-  #   Diese Veranstaltung...
+  info: >
+    Am Hofflohmarkt im Areal Stooss dürfen wir basimilch mit einem Infostand
+    vertreten. Ab Anfang 2017 gibt es neue Abos. Bist du interessiert? Am Stand
+    beantworten wir gerne deine Fragen rund ums basimilch-Abo. Wir freuen uns
+    auf dich!
