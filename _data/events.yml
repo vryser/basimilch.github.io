@@ -183,3 +183,19 @@
     vertreten. Ab Anfang 2017 gibt es neue Abos. Bist du interessiert? Am Stand
     beantworten wir gerne deine Fragen rund ums basimilch-Abo. Wir freuen uns
     auf dich!
+
+- title:        Eröffnungsapéro WerkstattGemüselagerMilchdepot
+  title_short:  Anlass mehr-als-wohnen
+  # type:       extern
+  start:        2016-04-22 17:00:00 +0200
+  end:          2016-04-22 20:00:00 +0200
+  # url:
+  image:        logos/mehr-als-wohnen_logo.png # http://www.mehralswohnen.ch/fileadmin/images/mehr-als-wohnen_logo_hellgruen.png
+  place:        mehr-als-wohnen
+  place_url:    http://mehralswohnen.ch
+  address:      Hunzikerareal
+  address_2:    Hagenholzstrasse 104b, 8050 Zürich
+  map_url:      https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland
+  # info: >
+  #   Diese Veranstaltung...
+
