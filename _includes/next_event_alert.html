@@ -1,6 +1,7 @@
 {% assign events = site.data.events | sort: 'start' %}
 {% for event in events %}
-  {% if site.time >= event.end %}{% continue %}{% endif %}
+  {% assign event_time = event.end | default: event.start %}
+  {% if site.time >= event_time %}{% continue %}{% endif %}
   <section class="next-event-alert" {% include event_dates_attrs event=event %} >
     <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
     <b>{% if event.title_short %}{{event.title_short}}{% else %}{{event.title}}{% endif %}</b>

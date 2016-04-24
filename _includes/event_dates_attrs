@@ -1,1 +1,1 @@
-data-event-start-date="{{ event.start | date_to_xmlschema }}" data-event-end-date="{{ event.end | date_to_xmlschema }}"
+data-event-start-date="{{ event.start | date_to_xmlschema }}" data-event-end-date="{{ event.end | default: event.start | date_to_xmlschema }}" data-open-end-event="{% if event.end %}false{% else %}true{% endif %}"
