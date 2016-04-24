@@ -199,3 +199,23 @@
   # info: >
   #   Diese Veranstaltung veröffentlichen...
 
+- title:        Sommerfest basimilch
+  # title_short:
+  # type:       extern
+  start:        2016-06-18 14:00:00 +0200
+  # end:          2016-06-19 21:00:00 +0200
+  # day_hours:    10h - 18h
+  # url:
+  image:        logos/basimilch_avatar.png
+  place:        Biohof Im Basi
+  place_url:    /kontakt/
+  address:      Alte Kindhauserstrasse 3, Dietikon
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+  info: >
+    Seit bald einem halben Jahr läuft basimilch erfolgreich dank dem engagierten
+    Einsatz der ganzen Genossenschaft. Das soll man feiern! Wir laden euch alle
+    –Genossenschafter_innen, basimilch-Freunde und Interessierte– zum Sommerfest
+    auf den Hof Im Basi ein. Wir freuen uns darauf, bei feinem Essen, Trinken
+    und Unterhaltung einen schönen Frühsommerabend dort, wo unsere Milch mit
+    Liebe produziert wird, miteinander gemütlich zu geniessen.
