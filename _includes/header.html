@@ -22,7 +22,7 @@
               {% assign containsactivesubsection = false %}
             {% endif %}
           {% endif %}
-          <li class="section-menu-item {% unless activesection %}in{% endunless %}active{% if containsactivesubsection %} contains-active-subsection{% endif %}">
+          <li class="section-menu-item {% unless activesection %}in{% endunless %}active{% if containsactivesubsection %} contains-active-subsection{% endif %} {{ section.permalink | remove:'/' }}">
             <a class="section-menu-link{% if activesection %} active{% endif %}" href="{{ section.permalink | prepend: site.baseurl }}">{{ section.title }}</a>
             <ul class="subsections-menu-group">
               {% for subsection in site.html_pages %}
