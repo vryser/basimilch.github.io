@@ -199,6 +199,25 @@
   # info: >
   #   Diese Veranstaltung veröffentlichen...
 
+- title:        Standaktion Gemeinschaftszentrum Buchegg
+  title_short:  GZ Buchegg
+  # type:       extern
+  start:        2016-06-05 11:00:00 +0200
+  end:          2016-06-05 13:00:00 +0200
+  # day_hours:    10h - 18h
+  # url:
+  image:        logos/zgz_buchegg_logo.png
+  place:        Gemeinschaftszentrum Buchegg
+  place_url:    http://www.gz-zh.ch/gz-buchegg/
+  address:      Bucheggstrasse 93, 8057 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Bucheggstrasse+93+8057+Zürich+Switzerland
+  info: >
+    Am Familiensonntag im GZ Buchegg dürfen wir basimilch mit einem Infostand
+    vertreten. Ab Anfang 2017 gibt es neue Abos. Bist du interessiert? Am Stand
+    beantworten wir gerne deine Fragen rund ums basimilch-Abo. Wir freuen uns
+    auf dich!
+
 - title:        Sommerfest basimilch
   # title_short:
   # type:       extern
