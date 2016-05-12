@@ -3,6 +3,7 @@ title: Offene Stelle als Käser_in
 description: Stellenbeschrieb für eine Stelle als Käser_in (bis 100%)
 section-group: main
 permalink: /stellenbeschrieb
+draft: false
 ---
 
 # Käser_in (bis 100%)
