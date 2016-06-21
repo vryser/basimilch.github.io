@@ -238,3 +238,22 @@
     auf den Hof Im Basi ein. Wir freuen uns darauf, bei feinem Essen, Trinken
     und Unterhaltung einen schönen Frühsommerabend dort, wo unsere Milch mit
     Liebe produziert wird, miteinander gemütlich zu geniessen.
+
+- title:        "Eröffnungsapéro Depot: Zirkus Chnopf"
+  title_short:  Depot-Eröffnungsapéro
+  # type:       extern
+  start:        2016-07-02 14:00:00 +0200
+  end:          2016-07-02 16:00:00 +0200
+  # day_hours:    14h - 16h
+  # url:
+  image:        logos/zirkus_chnopf_logo.png
+  place:        Zirkus Chnopf auf dem Kochareal
+  place_url:    http://www.chnopf.ch/
+  address:      Flurstrasse 85, 8047 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Flurstrasse+85+8047+Zürich+Switzerland
+  info: >
+    Am 2. Juli eröffnen wir das neue Depot: Zirkus Chnopf auf dem Kochareal.
+    Wir laden euch alle – Genossenschafter_innen, basimilch-Freunde und
+    Interessierte - zum Eröffnungsapéro ein. Herzlichen Dank - Zirkus Chnopf -
+    dass ihr uns den Platz zur Verfügung stellt.
