@@ -332,6 +332,11 @@ header {
   width:220px;
   float:left;
   position:fixed;
+  height: calc(100% - 160px);
+  #right-hand-nav-menu {
+    overflow: scroll;
+    height: calc(100% - 90px);
+  }
 }
 
 strong {
