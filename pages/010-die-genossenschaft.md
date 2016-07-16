@@ -19,24 +19,23 @@ Wirtschaftsform realisiert.
 
 {% include button-info-pdf-download.html %}
 
-# Genosschenschafter_in werden
+# Abo bestellen
+
+Um ein Abo zu bestellen, musst du Genossenschafter_in bei
+{{site.info.shortname}} werden und mindestens zwei Anteilscheine (pro
+Abo) erwerben.
+
+Zurzeit sind wir mit 90 wöchentlichen Abos ausgelastet. **Im Januar 2017
+erweitern wir die Abozahl und es gibt wieder freie Plätze.** Die neuen Abos werden
+nach Anmeldedatum vergeben und es gilt „Es hät solangs hät“.
+
+## Genosschenschafter_in werden
 
 Um Genosschenschafter_in zu werden, musst du dich mit den
 [**Statuten**](statuten) und dem
 [**Betriebsreglement**](betriebsreglement) einverstanden erklären.
 
 {% include button-signup-form.html %}
-
-## Ein Abo bestellen
-
-Um ein Abo zu bestellen, musst du Genossenschafter_in bei
-{{site.info.shortname}} werden und mindestens zwei Anteilscheine (pro
-Abo) erwerben.
-
-Zurzeit sind wir mit 90 wöchentlichen Abos ausgelastet. Eine Erweiterung der Abos
-ist auf Anfang 2017 geplant. Um sich für ein Abo anzumelden, wähle die passende Option
-im Anmeldeformular aus. Somit bist du in die Warteliste eingetragen. Die Abos werden
-nach Anmeldedatum vergeben und es gilt "Es hät solangs hät".
 
 # Wie kann ich sonst helfen?
 

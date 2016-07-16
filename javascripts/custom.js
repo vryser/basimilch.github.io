@@ -17,6 +17,17 @@ jQuery( function() { ( function( $$, $, undefined ) {
     .attr("target", "_blank")
     .attr("download", "");
 
+  // SOURCE: https://github.com/basimilch/basimilch-app/blob/788745286/app/assets/javascripts/init.coffee#L101-L117
+  $('[data-href]').click( function(e){
+      if ($(e.target).closest('a').length > 0) {
+        // Let the a tag handle the link instead.
+      } else if (e.metaKey) {
+        window.open($(this).data('href'), '_blank');
+      } else {
+        document.location = $(this).data('href');
+      }
+  });
+
   /* Add direct links on hover over section titles */
   function addDirectLink($elem, targetId) {
     if ( $elem.data("section-title-link-already-added") ) {
