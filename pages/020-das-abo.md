@@ -7,12 +7,14 @@ permalink: /abo/
 
 # Beschreibung
 
-Das Milchprodukteabo besteht aus 8 Liter _verarbeiteter_ Milch
-(ungefährer Wochenkonsum von zwei erwachsenen Menschen). Die
-Zusammenstellung der Hälfte des Abos (4 Liter) kann individuell
-gewählt werden. Die andere Hälfte wird von den Käser_innen je nach
-Saison und Lage des Käsekellers bestimmt. Bei Bedarf kann das Grundabo
-mit Zusatzabos von 2 Litern auf 10, 12 oder 14 l erweitert werden.
+Das Milchprodukteabo besteht aus 8 Liter _verarbeiteter_ Milch pro Woche. Diese
+Menge ist für ca. zwei Personen berechnet. Die Zusammenstellung der Hälfte des
+Abos (4 Liter) kann individuell gewählt werden. Die andere Hälfte wird von den
+Käser_innen je nach Saison und Lage des Käsekellers bestimmt. Bei Bedarf kann
+das Grundabo mit Zusatzabos von 2 Litern auf 10, 12 oder 14 l erweitert werden.
+Falls das Abo zu gross für dich ist, kannst du dich bei uns unter
+{% include abo_sharing_email_link.html %} melden - vielleicht lässt sich jemand
+finden, der/die das Abo mit dir teilt.
 
 1 Liter verarbeitete Milch entspricht:
 

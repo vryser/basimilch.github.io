@@ -44,6 +44,7 @@ info:
         plz: 8953
         city: Dietikon ZH
         url: https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+    abo_sharing_email: aboteilen@basimil.ch
 
 # Consider using site.github hash
 # SOURCE: https://github.com/benbalter/benbalter.github.com/blob/14c1d3e597125cf24a71ba4183d7c3f118733cad/_includes/improve.html#L7
