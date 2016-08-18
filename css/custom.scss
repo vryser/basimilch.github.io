@@ -15,6 +15,11 @@ $glyphicon-share-alt:     "\e095";
 $text_color: #222;
 $text_color_body: #777;
 
+$bs_text_success: #3c763d;
+$bs_bg_success: #dff0d8;
+$bs_bg_success_slightly_darker: darken( $bs_bg_success, 5% );
+
+
 // Mixins
 
 // SOURCE: http://www.stefanwienert.de/blog/2012/05/18/easy-css-vendor-prefix-mixin-for-sass/
@@ -786,6 +791,15 @@ body .banner-label {
   }
   @media print {
     display: none;
+  }
+}
+
+.alert-success {
+  a {
+    color: $bs_text_success;
+    &:hover {
+      background-color: $bs_bg_success_slightly_darker;
+    }
   }
 }
 

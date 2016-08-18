@@ -5,7 +5,8 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="/genossenschaft/#abo-bestellen">
     <div style="font-weight:bold;">Freie Abos ab Januar 2017</div>
-     Im Januar 2017 erweitern wir die Abozahl und es gibt wieder freie Plätze.
+     Im Januar 2017 verdoppeln wir die Abozahl. Noch gibt es freie Plätze.
+     <a href="/genossenschaft/#abo-bestellen">Melde dich jetzt an!</a>
 </div>
 
 Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
