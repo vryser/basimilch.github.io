@@ -18,5 +18,6 @@ und **lokal konsumiert** werden.
 
 {% include button-signup.html %}
 
+[Besuche uns auf Facebook!](https://www.facebook.com/basimilch/)
 
 {% include newsletter_form.html %}
