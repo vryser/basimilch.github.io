@@ -62,12 +62,11 @@ Bärlauchformaggini, Sommerkräuterstreichkäse, Beerenrahmjoghurt,
 Heublumenkäse, evt. Fonduemischung)
 
 
-# Finanzierung, Mitarbeit und Start
+# Finanzierung und Mitarbeit
 
 - **Anteilscheine:** (2 x pro Abo) 300.- bzw. 600.- Fr. pro Abo
 - **Betriebsbeitrag pro Jahr:** (Abo) 1'200.- Fr.
 - **Mitarbeit pro Abo und Jahr:** mind. 4 Einsätze (à ca. 1/2 Tag)
-- **Start:** Januar 2016
 
 {% include button-signup.html %}
 
