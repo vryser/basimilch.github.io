@@ -7,14 +7,11 @@ permalink: /abo/
 
 # Beschreibung
 
-Das Milchprodukteabo besteht aus 8 Liter _verarbeiteter_ Milch pro Woche. Diese
-Menge ist für ca. zwei Personen berechnet. Die Zusammenstellung der Hälfte des
-Abos (4 Liter) kann individuell gewählt werden. Die andere Hälfte wird von den
-Käser_innen je nach Saison und Lage des Käsekellers bestimmt. Bei Bedarf kann
-das Grundabo mit Zusatzabos von 2 Litern auf 10, 12 oder 14 l erweitert werden.
-Falls das Abo zu gross für dich ist, kannst du dich bei uns unter
-{% include abo_sharing_email_link.html %} melden - vielleicht lässt sich jemand
-finden, der/die das Abo mit dir teilt.
+**Grundabos gibt es für 4 oder 8 Liter** _verarbeiteter_ Milch pro Woche. 
+Ein Grundabo kann mit einem **Zusatzabo von 2 Litern** zum Beispiel auf 6, 10 
+oder 12 Liter erweitert werden. Die Zusammenstellung der Hälfte eines Grundabos (2 
+oder 4 Liter) kann individuell gewählt werden. Die andere Hälfte wird von den 
+Käser_innen je nach Saison und Reifegrade im Käsekeller bestimmt.
 
 1 Liter verarbeitete Milch entspricht:
 
@@ -23,8 +20,8 @@ finden, der/die das Abo mit dir teilt.
 - 1 kg Joghurt
 - 350 g Quark
 
-Weil es schwierig ist, sich 8 Liter Milch in unterschiedlichen Produkten
-vorzustellen, folgen nun 2 Abobeispiele.
+Weil es schwierig ist, sich Milch in unterschiedlichen Produkten
+vorzustellen, folgen nun 3 Abobeispiele.
 
 ## Abobeispiele
 
@@ -39,7 +36,7 @@ das Abo so aussehen:
 
 {% include photo.html filename="20151206_abobeispiel_01_mit_milch" caption="Trinkmilch-Beispielabo: 2l Milch, 500g Fruchtjoghurt, 500g Quark, 1 Camembert (150g) und 250g Hartkäse." %}
 
-- **4 l individuell wählbar:** 2l Milch, 500g Fruchtjoghurt, 500g Quark
+- **4 l individuell wählbar:** 2l Milch, 500g Fruchtjoghurt, 350g Quark
 - **4 l von Käser_innen bestimmt:** 1 Camembert (150g), 250g Hartkäse.
 
 ### Trinkmilchfreies Abo
@@ -49,8 +46,15 @@ wählbaren Teil komplett auf Milch verzichten.
 
 {% include photo.html filename="20151206_abobeispiel_02_ohne_milch" caption="Trinkmilchfreies Beispielabo: 500g Fruchtjoghurt, 500g Quark, 200g + 250g Käse und 1 Camembert (150g)" %}
 
-- **4 l individuell wählbar:** 500g Fruchtjoghurt, 500g Quark und 200g Käse
-- **4 l von Käser_innen bestimmt:** 1 Camembert (150g), 250g Hartkäse.
+- **4 l individuell wählbar:** 500g Fruchtjoghurt, 350g Quark und 200g Käse
+- **4 l von Käser_innen bestimmt:** 400g Raclettekäse.
+
+### Ein kleines Abo
+
+Kleinere Haushalte, die weniger Milchprodukte konsumieren, können ein 4 l 
+Grundabo nehmen. Hier könnte die Zusammenstellung so aussehen:
+- **2 l individuell wählbar:** 1 l Milch, 500g Fruchtjoghurt, 500g Naturjoghurt
+- **2 l von Käser_innen bestimmt:** 200g Halbhartkäse.
 
 ## Produkte
 
@@ -64,10 +68,11 @@ Heublumenkäse, evt. Fonduemischung)
 
 # Finanzierung, Mitarbeit und Start
 
-- **Anteilscheine:** (2 x pro Abo) 300.- bzw. 600.- Fr. pro Abo
-- **Betriebsbeitrag pro Jahr:** (Abo) 1'200.- Fr.
-- **Mitarbeit pro Abo und Jahr:** mind. 4 Einsätze (à ca. 1/2 Tag)
-- **Start:** Januar 2016
+- **Anteilscheine:** 300.- pro 4 Liter Milch im Abo
+- **Betriebsbeitrag pro Jahr:** 8 l Abo: 1'200.- Fr.; 4 l Abo: 650.- Fr.
+- **Jahresbeitrag für Zusatzabos:** 300.- Fr. 
+- **Mitarbeit pro Abo und Jahr:** 8 l Abo mind. 4 Einsätze (à ca. 1/2 Tag); 4 l Abo mind. 2 Einsätze (à ca. 1/2 Tag)
+- **Start:** Januar 2017
 
 {% include button-signup.html %}
 
