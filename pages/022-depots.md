@@ -22,3 +22,12 @@ Standortvorschläge in der Stadt Zürich und Umgebung Dietikon.
 1. **Mehr als Wohnen**, Oerlikon/Schwammendingen, [Baugenossenschaft Mehr als Wohnen, Hagenholzstrasse 104b, 8050 Zürich](https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland)
 
 {% include depots_map.html %}
+
+
+## Mögliche Depots ab 2017
+
+1. **Tor14**, Volkshaus, [Bäckerstrasse 52, 8004 Zürich] (https://www.google.ch/maps/place/Bäckerstrasse+52,+8004+Zürich)
+1. **Bioladen Vitus**, Niederdorf, [Ankengasse 7, 8001 Zürich] (https://www.google.ch/maps/place/Ankengasse+7,+8001+Zürich)
+1. **Kraftwerk Hardturm**, Zürich West, [Hardturmstrasse 269, 8005 Zürich] (https://www.google.ch/maps/place/Hardturmstrasse+269,+8005+Zürich)
+1. **Kraftwerk Heizenholz**, Höngg, [Regensdorferstrasse 190, 8049 Zürich] (https://www.google.ch/maps/place/Regensdorferstrasse+190,+8049+Zürich)
+1. **Werkfenster**, Friesenberg, [Schweigmatt 54, 8055 Zürich] (https://www.google.ch/maps/place/Schweigmatt+54,+8055+Zürich)
