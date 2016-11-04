@@ -37,15 +37,15 @@ fest.
 2\. Milchprodukteabo
 --------------------
 
-### a. Abo
+### a. Grundabo
 
 Die Milchprodukte werden wöchentlich verteilt, von Januar bis Ende
 Juni sowie von Mitte August bis Ende Dezember. In den
-Schulsommerferien pausiert das Abo. Ein Milchprodukte-Abo besteht aus
-total ca. 8 Liter verarbeitete Milch pro Woche (1 Liter verarbeitete
+Schulsommerferien pausiert das Abo. Ein Grundabo besteht aus
+entweder 4 oder 8 Liter verarbeitete Milch pro Woche (1 Liter verarbeitete
 Milch entspricht: 1 Liter Trinkmilch, 1kg Joghurt, 300g Quark, 100g
 Käse, 1dl Rahm oder 40g Butter, etc.). Das Abo wird aufgeteilt in einen
-individuellen und einen saisonalen Anteil zu je 4 Liter.
+individuellen und einen saisonalen Anteil.
 
 Der individuelle Anteil ist in seiner Zusammensetzung für jedes Abo
 frei wählbar. Dieser Anteil deckt den regelmässigen, persönlichen
@@ -65,11 +65,11 @@ Eigenkreationen.
 
 ### b. Zusatzabo
 
-Wem das generelle Abo zu klein ist, aber ein zweites Abo zuviel wäre,
-kann ein Zusatzabo lösen. In Schritten à jeweils 2l verarbeitete Milch
+Wem das Grundabo zu klein ist, aber ein zweites Abo zuviel wäre,
+kann ein Zusatzabo lösen. Ein Zusatzabo In Schritten à jeweils 2l verarbeitete Milch
 können bis zu drei Zusatzabos gelöst werden. Die Produkte der
 Zusatzabos sind frei wählbar. Es gelten die selbe terminliche Regelung
-wie für den individuellen Anteil im Punkt 2.a. und 2.f.: halbjährliche
+wie im Punkt 2.a. und 2.f.: halbjährliche
 Änderungen der Zusammensetzung und Kündigung auf Ende Jahr.
 
 
@@ -204,8 +204,10 @@ Administration oder Gestaltung resp. Mitarbeit in einer Projektgruppe.
 
 ### c. Wie oft
 
-Die jährliche Mindestleistung besteht aus vier Einsätzen im Betrieb
-pro Abo, resp. ein Einsatz mehr pro Zusatzabo. Ein Einsatz dauert
+Die jährliche Mindestleistung für ein 4 Liter Grundabo besteht aus 
+zwei Einsätzen, für ein 8 Liter Grundabo aus vier Einsätzen pro Jahr. 
+Ein Zusatzabo von 2 Litern besteht wiederum aus 
+einem zusätzlichen Einsatz pro Jahr. Ein Einsatz dauert
 circa einen halben Tag. Zusätzliches Engagement ist herzlich
 willkommen.
 
