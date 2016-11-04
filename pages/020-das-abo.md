@@ -68,17 +68,11 @@ Heublumenkäse, evt. Fonduemischung)
 
 # Finanzierung und Mitarbeit
 
-<<<<<<< HEAD
-- **Anteilscheine:** (2 x pro Abo) 300.- bzw. 600.- Fr. pro Abo
-- **Betriebsbeitrag pro Jahr:** (Abo) 1'200.- Fr.
-- **Mitarbeit pro Abo und Jahr:** mind. 4 Einsätze (à ca. 1/2 Tag)
-=======
 - **Anteilscheine:** 300.- pro 4 Liter Milch im Abo
 - **Betriebsbeitrag pro Jahr:** 8 l Abo: 1'200.- Fr.; 4 l Abo: 650.- Fr.
 - **Jahresbeitrag für Zusatzabos:** 300.- Fr. 
 - **Mitarbeit pro Abo und Jahr:** 8 l Abo mind. 4 Einsätze (à ca. 1/2 Tag); 4 l Abo mind. 2 Einsätze (à ca. 1/2 Tag)
 - **Start:** Januar 2017
->>>>>>> 9626dbbc90c9e3a4f47ebdd2d041b56042feb693
 
 {% include button-signup.html %}
 
