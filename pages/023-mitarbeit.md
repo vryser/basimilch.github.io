@@ -8,8 +8,11 @@ permalink: /abo/mitarbeit
 
 Alle Abonnent_innen stellen sich im Rahmen ihrer [Mitarbeitspflicht](/genossenschaft/betriebsreglement/#mitarbeit)
 zu mindestens vier Einsätzen, bzw. vier Halbtagen, pro Jahr zur
-Verfügung. Die Mitarbeit der Abonnent_innen wird in den Bereichen
-Produktionsvorbereitungen Abpacken, Ausfahren und geleistet.
+Verfügung. Die Mitarbeit der Abonnent_innen wird vor allem in den Bereichen
+Produktionsvorbereitungen, Abpacken und Ausfahren geleistet. Engagiertere 
+Genossenschafter_innen können auch andere, verantwortungsvollere
+Tätigkeiten (wie z.B. Käseschmieren) übernehmen, wenn sie sich zu mehr Einsätzen 
+verpflichten. Es ist auch möglich, ein Praktikum in der Käserei zu absolvieren. 
 
 # Hygieneinformationen
 
