@@ -1,0 +1,1 @@
+{{ include.url | remove: "https://www." | remove: "http://www." }}
