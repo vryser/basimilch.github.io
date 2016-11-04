@@ -6,13 +6,18 @@ permalink: /abo/mitarbeit
 
 # Einsätze
 
-Alle Abonnent_innen stellen sich im Rahmen ihrer [Mitarbeitspflicht](/genossenschaft/betriebsreglement/#mitarbeit)
-zu mindestens vier Einsätzen, bzw. vier Halbtagen, pro Jahr zur
-Verfügung. Die Mitarbeit der Abonnent_innen wird vor allem in den Bereichen
-Produktionsvorbereitungen, Abpacken und Ausfahren geleistet. Engagiertere 
-Genossenschafter_innen können auch andere, verantwortungsvollere
-Tätigkeiten (wie z.B. Käseschmieren) übernehmen, wenn sie sich zu mehr Einsätzen 
-verpflichten. Es ist auch möglich, ein Praktikum in der Käserei zu absolvieren. 
+Bei basimilch hat man einen direkten Bezug zum Hof woher die eigenen Milchprdukten kommen.
+Dieser Bezug ist uns wichtig und wird durch die Mitarbeit der Genossenschafter_innen
+ermöglicht. Zusätzlich bietet es die ideale Möglichkeit um den Kopf zu lüften
+und etwas anderes zu machen - oder auch um andere Genossenschafter_innen kennenzulernen.
+Als Abonnent_in verflichtet man sich zur [Mitarbeit](/genossenschaft/betriebsreglement/#mitarbeit).
+Bei einem kleinen Abo von 4 Litern beinhaltet die Mitarbeit mindestens 2
+Einsätze pro Jahr. Bei einem Abo von 8 Litern wird erwartet, dass
+man mindestens 4 Einsätze pro Jahr macht. Ein Einsatz dauert jeweils ca. einen halben Tag.
+Die Mitarbeit der Abonnent_innen wird vor allem in den Bereichen Produktionsvorbereitungen,
+Joghurtabfüllen, Käseabpacken und Ausfahren geleistet. Leute, die mehr Verantwortung übernehmen
+möchten, können auch Käse schmieren oder eventuell andere Tätigkeiten in der Käserei ausführen.
+Natürlich ist es auch möglich, ein Praktikum in der Käserei zu absolvieren.
 
 # Hygieneinformationen
 
