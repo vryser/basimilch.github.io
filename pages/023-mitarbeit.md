@@ -10,11 +10,12 @@ Bei basimilch hat man einen direkten Bezug zum Hof, woher die eigenen Milchprduk
 Dieser Bezug ist uns wichtig und wird durch die Mitarbeit der Genossenschafter_innen
 ermöglicht. Zusätzlich bietet es die ideale Möglichkeit um den Kopf zu lüften
 und etwas anderes zu machen - oder auch um andere Genossenschafter_innen kennenzulernen.
+Deswegen verpflichten sich alle Abonnent_innen zur [Mitarbeit](/genossenschaft/betriebsreglement/#mitarbeit).
 
-**Als Abonnent_in verflichtet man sich zur [Mitarbeit](/genossenschaft/betriebsreglement/#mitarbeit).
-Bei einem kleinen Abo von 4 Litern beinhaltet die Mitarbeit mindestens 2
-Einsätze pro Jahr. Bei einem Abo von 8 Litern wird erwartet, dass
-man mindestens 4 Einsätze pro Jahr macht. Ein Einsatz dauert jeweils ca. einen halben Tag.**
+**Die jährliche Mindestleistung für ein 8 Liter Grundabo besteht aus 4 Einsätzen, 
+für ein 4 Liter Grundabo aus 2 Einsätzen pro Jahr. Bei jedem Zusatzabo von 2 Litern wird 
+einen zusätzlichen Einsatz pro Jahr erwartet. Ein Einsatz dauert circa einen halben Tag. 
+Zusätzliches Engagement ist natürlich herzlich willkommen.**
 
 Die Mitarbeit der Abonnent_innen wird vor allem in den Bereichen Produktionsvorbereitungen,
 Joghurtabfüllen, Käseabpacken und Ausfahren geleistet. Leute, die mehr Verantwortung übernehmen
