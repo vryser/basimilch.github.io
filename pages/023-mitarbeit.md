@@ -6,7 +6,7 @@ permalink: /abo/mitarbeit
 
 # Einsätze
 
-Bei basimilch hat man einen direkten Bezug zum Hof, woher die eigenen Milchprdukten kommen.
+Bei basimilch hat man einen direkten Bezug zum Hof, woher die eigenen Milchprodukten kommen.
 Dieser Bezug ist uns wichtig und wird durch die Mitarbeit der Genossenschafter_innen
 ermöglicht. Zusätzlich bietet es die ideale Möglichkeit um den Kopf zu lüften
 und etwas anderes zu machen - oder auch um andere Genossenschafter_innen kennenzulernen.
