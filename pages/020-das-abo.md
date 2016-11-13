@@ -7,7 +7,7 @@ permalink: /abo/
 
 # Beschreibung
 
-**Grundabos gibt es für 4 oder 8 Liter** _verarbeiteter_ Milch pro Woche.
+**Grundabos gibt es für 8 oder 4 Liter** _verarbeiteter_ Milch pro Woche.
 Ein Grundabo kann mit einem **Zusatzabo von 2 Litern** zum Beispiel auf 6, 10
 oder 12 Liter erweitert werden. Die Zusammenstellung der Hälfte eines Grundabos (2
 oder 4 Liter) kann individuell gewählt werden. Die andere Hälfte wird von den
