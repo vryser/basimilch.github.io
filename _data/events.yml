@@ -299,6 +299,24 @@
     Personen, die in und um Wipkingen wohnen und schon bei basimilch dabei sind
     oder sich für ein Milchprodukteabo interessieren!
 
+- title:        Infoapero Pflanzplatz Dunkelhölzli
+  # title_short:  
+  # type:         extern
+  start:        2016-09-21 18:00:00 +0200
+  end:          2016-09-21 20:00:00 +0200
+  # day_hours:    14h - 16h
+  # url:          https://www.url.ch
+  image:      logos/dunkelhoelzli_logo.png
+  place:      Pflanzplatz Dunkelhölzli
+  place_url:  https://www.dunkelhoelzli.ch
+  address:    Dunkelhölzlistrasse 19, Zürich
+  address_2:  Endstation Dunkelhölzli VBZ-Bus Nr. 67 / 78 / 35
+  map_url:    https://www.google.ch/maps/place/Dunkelhoelzlistrasse+19+Zürich+Switzerland
+  info: >
+    Das Basimilchabo - die ideale Ergänzung zum Gemüseabo! Eine Infoveranstaltung
+    speziell für alle mit einem Dunkelhölzli Gemüseabo, und alle anderen, die
+    unser Infoapero auf dem Pflanzplatz im Dunkelhölzli besuchen wollen.
+
 - title:        Infoanlass und Degustation
   # title_short:  
   # type:         extern
