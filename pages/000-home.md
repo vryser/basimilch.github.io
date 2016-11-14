@@ -9,6 +9,10 @@ permalink: /
      <a href="/genossenschaft/#abo-bestellen">Melde dich jetzt an!</a>
 </div>
 
+<div class="hidden-print visible-xs visible-sm text-center">
+    <iframe width="220" height="330" src="https://www.100-days.net/de/projekt/kaese-fuer-eine-schoene-welt/widget/v2" frameborder="0"></iframe>
+</div>
+  
 Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
 Hof Im Basi in Dietikon. Die **Biomilch** der behornten Kühe wird in der
 hofeigenen Käserei zu **naturbelassenen Milchprodukten** (Käse, Joghurt, Quark,

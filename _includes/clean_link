@@ -1,0 +1,1 @@
+<a href="{{ include.url }}">{% include trim_url url=include.url %}</a>

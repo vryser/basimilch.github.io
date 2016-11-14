@@ -11,7 +11,7 @@ layout: compress
     {{ content }}
     <script src="/external/jquery-2.1.4.min.js"></script>
     <script src="/external/lightbox2-2.8.1/js/lightbox.min.js"></script>
-    <script src="/javascripts/custom.js"></script>
+    <script src="{% include busted_url url="/javascripts/custom.js" %}"></script>
     {% include google-analytics-script.html %}
     {% include content-header-images-preloader.html %}
   </body>

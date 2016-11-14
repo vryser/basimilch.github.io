@@ -45,6 +45,8 @@ info:
         city: Dietikon ZH
         url: https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
     abo_sharing_email: aboteilen@basimil.ch
+    platform:
+        url: https://meine.basimil.ch
     social:
         facebook:
             url: https://www.facebook.com/basimilch
