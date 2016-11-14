@@ -337,10 +337,10 @@ header {
   width:220px;
   float:left;
   position:fixed;
-  height: calc(100% - 150px);
+  height: calc(100% - 150px - 330px); // 330px is the height of the added crowdfounding widget
   #right-hand-nav-menu {
     overflow: scroll;
-    height: calc(100% - 90px);
+    height: calc(100% - 95px);
   }
 }
 
