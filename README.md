@@ -53,6 +53,17 @@ online IDE:
 [c9.io documentation]: https://docs.c9.io/docs/jekyll
 [pull request]: https://help.github.com/articles/using-pull-requests/
 
+### Cache busting
+
+To try to ensure that our custom assets (mainly [`/javascripts/custom.js`] and
+[`/css/custom.css`]) are reloaded by the clients when we update them, we add a
+query param `?bust={{ site.time | date: '%s' }}`, which has a dynamic value
+equal to the linux timestamp of the building time, as described [in this article].
+
+[`/javascripts/custom.js`]: /javascripts/custom.js
+[`/css/custom.css`]: /css/custom.css
+[in this article]: http://tkareine.org/blog/2013/02/22/asset-bundling-with-jekyll/
+
 
 ### Documentation and references
 
