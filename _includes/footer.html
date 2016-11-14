@@ -10,13 +10,9 @@
       <br>
       {% include info_email_link.html %}
       <br>
-      <a href="{{ site.info.social.facebook.url }}" target="_blank">
-        {% include trim_url url=site.info.social.facebook.url %}
-      </a>
+      {% include clean_link url=site.info.social.facebook.url %}
       <br>
-      <a href="{{ site.info.platform.url }}" target="_blank">
-        {% include trim_url url=site.info.platform.url %}
-      </a>
+      {% include clean_link url=site.info.platform.url %}
     </small>
   </p>
 </footer>
