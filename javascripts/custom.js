@@ -111,7 +111,7 @@ jQuery( function() { ( function( $$, $, undefined ) {
   function adaptShadowWithScroll(e) {
       var $elem = $(e.currentTarget),
           remainingScrollRatio = calculateRemainingScrollRatio($elem),
-          easyOutValue = remainingScrollRatio ** (1/3); // the 3rd root is an empirical value
+          easyOutValue = Math.pow(remainingScrollRatio, 1/3); // the 3rd root is an empirical value
       $footerHR.css("opacity", 1 - easyOutValue);
       $footerHRShadow.css("opacity", easyOutValue);
   }
