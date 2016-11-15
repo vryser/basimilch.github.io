@@ -97,4 +97,29 @@ jQuery( function() { ( function( $$, $, undefined ) {
   lightbox.option({
     albumLabel: 'Bild %1 von %2'
   })
+  
+  // SOURCE: http://stackoverflow.com/a/5828342/5764181
+  // SOURCE: https://github.com/slipstream/SlipStreamUI/blob/master/clj/resources/static_content/js/util.js#L1609-L1630
+  function calculateRemainingScrollRatio($elem) {
+      var totalHiddenHeight   = $elem[0].scrollHeight - $elem.outerHeight(),
+          bottomHiddenHeight  = totalHiddenHeight - $elem.scrollTop();
+      return bottomHiddenHeight / totalHiddenHeight;
+  }
+  var $footerHR       = $('footer > hr.flat'),
+      $footerHRShadow = $('footer > hr.with-shadow'),
+      $navMenu        = $('#right-hand-nav-menu');
+  function adaptShadowWithScroll(e) {
+      var $elem = $(e.currentTarget),
+          remainingScrollRatio = calculateRemainingScrollRatio($elem),
+          easyOutValue = remainingScrollRatio ** (1/3); // the 3rd root is an empirical value
+      $footerHR.css("opacity", 1 - easyOutValue);
+      $footerHRShadow.css("opacity", easyOutValue);
+  }
+  $navMenu.scroll(adaptShadowWithScroll);
+  $footerHRShadow.click(function(e){
+    $navMenu.animate({
+        scrollTop: $navMenu.scrollTop() + 50
+    });
+  });
+
 }( window.basimilch = window.basimilch || {}, jQuery ));});

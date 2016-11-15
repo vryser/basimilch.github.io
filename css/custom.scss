@@ -337,7 +337,7 @@ header {
   width:220px;
   float:left;
   position:fixed;
-  height: calc(100% - 170px);
+  height: calc(100% - 166px);
   #right-hand-nav-menu {
     overflow: scroll;
     height: calc(100% - 90px);
@@ -366,10 +366,29 @@ small {
 }
 
 hr {
-  border:0;
+  border: 0;
   background:#e5e5e5;
-  height:1px;
-  margin:0 0 12px;
+  height: 1px;
+  margin: 0 0 12px;
+  &.with-shadow {
+    background: transparent;
+    height: 12px;
+    box-shadow: inset 0 -12px 12px -12px rgba(0, 0, 0, 0.5);
+  }
+  &.with-down-arrow::before {
+    content: "▼";
+    font-size: 10px;
+    position: relative;
+    top: -10px;
+    left: calc(50% - 5.5px);
+  }
+  &.flat {
+    border: 0;
+    background:#e5e5e5;
+    height: 1px;
+    margin: 0 0 -12px;
+    opacity: 0;
+  }
 }
 
 footer {
