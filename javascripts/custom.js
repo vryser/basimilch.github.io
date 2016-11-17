@@ -19,12 +19,14 @@ jQuery( function() { ( function( $$, $, undefined ) {
 
   // SOURCE: https://github.com/basimilch/basimilch-app/blob/788745286/app/assets/javascripts/init.coffee#L101-L117
   $('[data-href]').click( function(e){
+      var href = $(this).data('href');
       if ($(e.target).closest('a').length > 0) {
         // Let the a tag handle the link instead.
-      } else if (e.metaKey) {
-        window.open($(this).data('href'), '_blank');
+      } else if (e.metaKey || href.match(/^http/) ) {
+        // Open in new window.
+        window.open(href, '_blank');
       } else {
-        document.location = $(this).data('href');
+        document.location = href;
       }
   });
 

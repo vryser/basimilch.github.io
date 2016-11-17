@@ -243,20 +243,23 @@ a small {
   display:block;
 }
 
-a[target='_blank']:hover::after {
-  font-family: 'Glyphicons Halflings';
-  content: $glyphicon-share-alt;
-  color: $basiblau;
-  font-size: 30px;
-  font-style: normal;
-  font-weight: lighter;
-  display: inline-block;
-  text-decoration: none;
-  position: fixed;
-  right: 5%;
-  bottom: 3%;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+a[target='_blank'],
+[data-href^='http'] {
+  &:hover::after {
+    font-family: 'Glyphicons Halflings';
+    content: $glyphicon-share-alt;
+    color: $basiblau;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: lighter;
+    display: inline-block;
+    text-decoration: none;
+    position: fixed;
+    right: 5%;
+    bottom: 3%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
 }
 a[download]:hover::after {
   content: $glyphicon-download-alt;
