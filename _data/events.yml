@@ -329,7 +329,7 @@
   place_url:  http://tor14.ch
   address:    Bäckesstrasse 52, Zürich
   # address_2:
-  map_url:    https://www.google.ch/maps/place/Bäckerstrasse+54+8004+Zürich+Switzerland
+  map_url:    https://www.google.ch/maps/place/Bäckerstrasse+52+8004+Zürich+Switzerland
   # info: >
   #   more info
 
@@ -345,6 +345,6 @@
   place_url:  http://tor14.ch
   address:    Bäckesstrasse 52, Zürich
   # address_2:
-  map_url:    https://www.google.ch/maps/place/Bäckerstrasse+54+8004+Zürich+Switzerland
+  map_url:    https://www.google.ch/maps/place/Bäckerstrasse+52+8004+Zürich+Switzerland
   # info: >
   #   more info
