@@ -28,6 +28,13 @@ werden ebenfalls ein {{ site.info.shortname }}-Depot betreuen.
 
 <http://mehralswohnen.ch>
 
+# meh als gmües
+
+meh als gmües versorgt seit April 2016 Zürich Nord mit frischem, saisonalem und
+ökologisch produziertem Gemüse.
+
+<http://mehalsgmues.ch>
+
 
 # Rubin AG
 
