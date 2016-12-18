@@ -37,7 +37,7 @@ das Abo so aussehen:
 {% include photo.html filename="20151206_abobeispiel_01_mit_milch" caption="Trinkmilch-Beispielabo: 2l Milch, 1kg Fruchtjoghurt, 350g Quark, 1 Camembert (150g) und 250g Hartkäse." %}
 
 - **4 l individuell wählbar:** 2l Milch, 1kg Fruchtjoghurt, 350g Quark
-- **4 l von Käser_innen bestimmt:** 1 Camembert (150g), 250g Hartkäse.
+- **4 l von Käser_innen bestimmt:** 150g Camembert, 250g Hartkäse.
 
 ### Trinkmilchfreies Abo
 
@@ -46,7 +46,7 @@ wählbaren Teil komplett auf Milch verzichten.
 
 {% include photo.html filename="20151206_abobeispiel_02_ohne_milch" caption="Trinkmilchfreies Beispielabo: 500g Fruchtjoghurt, 350g Quark, 250g + 250g Käse und 1 Camembert (150g)" %}
 
-- **4 l individuell wählbar:** 500g Fruchtjoghurt, 350g Quark, 250g Käse
+- **4 l individuell wählbar:** 500g Fruchtjoghurt, 500g Naturjoghurt, 350g Quark, 200g Käse
 - **4 l von Käser_innen bestimmt:** 400g Raclettekäse.
 
 ### Ein kleines Abo
@@ -54,7 +54,7 @@ wählbaren Teil komplett auf Milch verzichten.
 Kleinere Haushalte, die weniger Milchprodukte konsumieren, können ein 4 l
 Grundabo nehmen. Hier könnte die Zusammenstellung so aussehen:
 
-- **2 l individuell wählbar:** 1 l Milch, 1kg Fruchtjoghurt
+- **2 l individuell wählbar:** 1l Milch, 500g Fruchtjoghurt, 500g Naturjoghurt
 - **2 l von Käser_innen bestimmt:** 200g Halbhartkäse.
 
 ## Produkte
