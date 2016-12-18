@@ -11,7 +11,9 @@ permalink: /abo/
 Ein Grundabo kann mit einem **Zusatzabo von 2 Litern** zum Beispiel auf 6, 10
 oder 12 Liter erweitert werden. Die Zusammenstellung der Hälfte eines Grundabos (2
 oder 4 Liter) kann individuell gewählt werden. Die andere Hälfte wird von den
-Käser_innen je nach Saison und Reifegrade im Käsekeller bestimmt.
+Käser_innen je nach Saison und Reifegrade im Käsekeller bestimmt. Diese Aufteilung 
+ermöglicht es uns, die Schwankungen in der Milchmenge während des 
+Jahres mit dem gelagerten Käse im Keller auszugleichen. 
 
 1 Liter verarbeitete Milch entspricht:
 
