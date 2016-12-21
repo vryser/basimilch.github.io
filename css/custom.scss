@@ -985,3 +985,25 @@ body .banner-label {
     bottom: 10px;
   };
 }
+
+.visible-ie-only {
+  display: none;
+}
+.hidden-ie {
+  display: inherit;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  // This targets IE10+
+  // SOURCE: https://gist.github.com/larrybotha/7881691
+  .visible-ie-only {
+    display: inherit;
+  }
+  .hidden-ie {
+    display: none;
+  }
+
+  .homelink-ie-fix {
+    display: inherit;
+    height: 80px; // empirical value to fix height of home link logo in IE10+, no idea why it's this :/
+  }
+}
