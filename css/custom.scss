@@ -1002,7 +1002,7 @@ body .banner-label {
     display: none;
   }
 
-  .homelink-ie-fix {
+  .home-link {
     display: inherit;
     height: 80px; // empirical value to fix height of home link logo in IE10+, no idea why it's this :/
   }
