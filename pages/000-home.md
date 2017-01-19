@@ -18,6 +18,6 @@ und **lokal konsumiert** werden.
 
 {% include button-signup.html %}
 
-[![Facebook](images/logos/facebook_avatar.png){:height="24px"} Besuche uns auf Facebook!]({{ site.info.social.facebook.url }})
+{% include button-facebook-like.html %}
 
 {% include newsletter_form.html %}
