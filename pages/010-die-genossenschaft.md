@@ -25,8 +25,7 @@ Um ein Abo zu bestellen, musst du Genossenschafter_in bei
 {{site.info.shortname}} werden und mindestens zwei Anteilscheine (pro
 Abo) erwerben.
 
-Zurzeit sind wir mit 90 wöchentlichen Abos ausgelastet. **Im Januar 2017
-erweitern wir die Abozahl und es gibt wieder freie Plätze.** Die neuen Abos werden
+**Es gibt noch freie Plätze ab März 2017.** Die neuen Abos werden
 nach Anmeldedatum vergeben und es gilt „Es hät solangs hät“.
 
 ## Genosschenschafter_in werden
