@@ -348,3 +348,20 @@
   map_url:    https://www.google.ch/maps/place/Bäckerstrasse+52+8004+Zürich+Switzerland
   # info: >
   #   more info
+
+- title:        Apéro Depoteröffnung Kraftwerk
+  title_short:  Depoteröffnung Kraftwerk
+  # type:         extern
+  start:        2017-02-10 17:00:00 +0100
+  end:          2017-02-10 19:00:00 +0100
+  # day_hours:    14h - 16h
+  # url:          https://www.url.ch
+  image:      logos/kraftwerk1_logo.png
+  place:      Pantoffelbar des Kraftwerk 1
+  place_url:  http://www.kraftwerk1.ch/hardturm/siedlung.html
+  address:    Hardturmstrasse 269, 8005 Zürich
+  # address_2:
+  map_url:    https://www.google.ch/maps/place/Hardturmstrasse+269+8005+Zürich+Switzerland
+  # info: >
+  #   more info
+
