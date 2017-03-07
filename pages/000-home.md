@@ -4,8 +4,8 @@ permalink: /
 ---
 
 <div class="alert alert-success" role="alert" data-href="/genossenschaft/#abo-bestellen">
-  <div style="font-weight:bold;">Freie Abos ab März 2017</div>
-  Im Januar 2017 haben wir die Abozahl erhöht. Noch gibt es freie Plätze.
+  <div style="font-weight:bold;">Freie Abos ab Mai 2017</div>
+  Per März 2017 haben wir die Abozahl nochmals erhöht. Noch gibt es freie Plätze.
   <a href="/genossenschaft/#abo-bestellen">Melde dich jetzt an!</a>
 </div>
 
