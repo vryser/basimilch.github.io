@@ -15,5 +15,5 @@ gibt zuverlässig ihre Milch und hatte bis jetzt wenig bis keine gesundheitliche
 Auffällig ist, dass sie immer schön sauber ist, was uns beim Melken einen grossen Dienst erweist und Putzaufwand erspart.
 Ludmilla hatte diese Woche Geburtstag und wurde acht jährig. Seit vier Monaten ist sie wieder trächtig.
 
-{% include photo_small.html filename="20160404_auf_die_weide_01" caption="Frühlingsstimmung auf dem Hof" %}
+{% include photo_big.html filename="Ludmilla" caption="Ludmilla, die Herdendiva" %}
 
