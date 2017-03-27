@@ -1,0 +1,16 @@
+
++- title:        Apéro Depot Im Gut
++  title_short:  Apéro Im Gut
++  # type:         extern
++  start:        2017-02-10 15:00:00 +0100
++  end:          2017-02-10 17:00:00 +0100
++  # day_hours:    15h - 17h
++  # url:          https://www.url.ch
++  image:      
++  place:      Ecke Gutstrasse / Schaufelbergerstrasse
++  place_url:  
++  address:    Gutstrasse 135, 8055 Zürich
++  # address_2:
++  map_url:    https://www.google.ch/maps/place/Gutstrasse+135,+8055+Z%C3%BCrich/@47.3728314,8.5018362,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a28eb8f38eb:0x5e7fb8ee24a72d0f!8m2!3d47.3728314!4d8.5040249
++  # info: >
++  #   more info
