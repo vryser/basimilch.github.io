@@ -5,9 +5,9 @@
 +  end:          2017-02-10 16:30:00 +0100
 +  # day_hours:    14.30h - 16.30h
 +  # url:          https://www.url.ch
-+  image:      
++  image:      basimilch.github.io/images/events/AperoHeizenholz.PNG 
 +  place:      Kraftwerk 1 Heizenholz, beim Depot
 +  place_url:  http://www.kraftwerk1.ch/hardturm/siedlung.html
 +  address:    Regensdorferstrasse 194, 8049 Zürich
 +  # address_2:
-+  map_url:    
++  map_url:    https://goo.gl/maps/FnhKk6spPrr
