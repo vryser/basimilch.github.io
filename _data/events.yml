@@ -365,3 +365,36 @@
   # info: >
   #   more info
 
+- title:        Apéro im Depot der Baugenossenschaft Im Gut
+  title_short:  Apéro Im Gut
+  # type:         extern
+  start:        2017-04-01 15:00:00 +0200
+  end:          2017-04-01 17:00:00 +0200
+  # day_hours:    15h - 17h
+  # url:          https://www.url.ch
+  image:        logos/baugenossenschaft_im_gut_logo.png
+  place:        Ecke Gutstrasse / Schaufelbergerstrasse
+  place_url:    http://www.baugig.ch
+  address:      Gutstrasse 135, 8055 Zürich
+  # address_2:
+  map_url:      https://goo.gl/maps/gAYSL4gkLGU2
+  info: >
+    Käse, Quark, Joghurt feinschmecken, Infos und
+    Anmeldung.
+
+- title:        Apéro im Depot Heizenholz
+  title_short:  Apéro Heizenholz
+  # type:         extern
+  start:        2017-04-08 14:30:00 +0200
+  end:          2017-04-08 16:30:00 +0200
+  # day_hours:    14.30h - 16.30h
+  # url:          https://www.url.ch
+  image:        logos/kraftwerk1_logo.png
+  place:        Kraftwerk 1 Heizenholz, beim Depot
+  place_url:    http://www.kraftwerk1.ch/heizenholz/siedlung.html
+  address:      Regensdorferstrasse 194, 8049 Zürich
+  # address_2:
+  map_url:      https://goo.gl/maps/FnhKk6spPrr
+  info: >
+    Käse, Quark, Joghurt feinschmecken, Infos und
+    Anmeldung.
