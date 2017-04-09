@@ -1,0 +1,11 @@
+{% assign filename = page.path | replace: '_posts/','' | replace: page.ext,'' %}
+{% capture image_path %}/images/posts/{{filename}}/{{include.image}}.jpg{% endcapture %}
+<a href="{{image_path}}"
+   class="post-image-full-width-link"
+   data-lightbox="gallery"
+   {% if include.caption %}data-title="{{include.caption}}"{% endif %}>
+    <img src="{{image_path}}"
+         class="post-image-full-width"
+         {% if include.caption %}title="{{include.caption}}" alt="{{include.caption}}"{% endif %}>
+</a>
+{% if include.caption %}<p><em>{{include.caption}}</em></p><br>{% endif %}
