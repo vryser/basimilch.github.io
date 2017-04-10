@@ -387,7 +387,7 @@
   # type:         extern
   start:        2017-04-08 14:30:00 +0200
   end:          2017-04-08 16:30:00 +0200
-  # day_hours:    14.30h - 16.30h
+  # day_hours:    14.30 - 16.30
   # url:          https://www.url.ch
   image:        logos/kraftwerk1_logo.png
   place:        Kraftwerk 1 Heizenholz, beim Depot
@@ -404,7 +404,7 @@
   # type:         extern
   start:        2017-05-07 13:00:00 +0200
   end:          2017-05-07 16:00:00 +0200
-  # day_hours:    14.30h - 16.30h
+  # day_hours:    14.30 - 16.30
   # url:          https://www.url.ch
   image:        logos/basimilch_avatar.png
   place:        Biohof Im Basi
@@ -419,3 +419,18 @@
     verschicken. GVs sind öffentlich und alle Interessierten sind herzlich
     wilkommen!
 
+- title:        Basimilch am 1. Mai Fest in Zürich
+  title_short:  1. Mai Fest
+  type:         extern
+  start:        2017-04-29 12:00:00 +0200
+  end:          2017-05-01 22:00:00 +0200
+  day_hours:    12:00 - 22:00
+  url:          https://www.1mai.ch/fest/
+  image:        logos/erster_mai_surich_fest_logo.png
+  place:        Kasernenareal
+  place_url:    http://www.kasernenareal-zuerich.ch
+  address:      Militärstrasse 5-25, 8004 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Militärstrasse+5-25+8004+Zürich+Switzerland
+  info: >
+    basimilch ist präsent am Stand zu Solidarischer Landwirtschaft.
