@@ -398,3 +398,24 @@
   info: >
     Käse, Quark, Joghurt feinschmecken, Infos und
     Anmeldung.
+
+- title:        Zweite ordentliche Genossenschaftsversammlung
+  title_short:  Zweite ordentliche GV
+  # type:         extern
+  start:        2017-05-07 13:00:00 +0200
+  end:          2017-05-07 16:00:00 +0200
+  # day_hours:    14.30h - 16.30h
+  # url:          https://www.url.ch
+  image:        logos/basimilch_avatar.png
+  place:        Biohof Im Basi
+  place_url:    /kontakt/
+  address:      Alte Kindhauserstrasse 3, Dietikon
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+  info: >
+    Doppelter Anlass auf dem Hof im Basi: Dankeschön- und Käse-Abhol-Brunch von
+    10-13 Uhr und basimilch GV von 14-17 Uhr. Ein feiner Brunch und live
+    Musik... Details und offizielle Einladung werden wir in Kürze per E-Mail
+    verschicken. GVs sind öffentlich und alle Interessierten sind herzlich
+    wilkommen!
+
