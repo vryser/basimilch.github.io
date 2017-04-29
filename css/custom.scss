@@ -1006,3 +1006,7 @@ body .banner-label {
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+
+x-rbfe {
+  @extend a;
+}

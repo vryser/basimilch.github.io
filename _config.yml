@@ -38,7 +38,7 @@ info:
     name: Genossenschaft basimilch
     shortname: basimilch
     subtitle: Die kooperative Käserei in Dietikon
-    email: info@basimil.ch
+    email_user: info
     address:
         street: Alte Kindhauserstrasse 3
         plz: 8953

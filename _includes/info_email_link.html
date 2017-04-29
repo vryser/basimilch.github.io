@@ -1,1 +1,4 @@
-<a class="info-email-link" href='mailto:{{ site.info.email | cgi_escape }}?Subject=Frage%20zu%20{% if page.title %}%22{{ page.title }}%22{% else %}{{site.title}}{% endif %}&amp;Body=Hoi%20basimilchler_innen%2C%0A%0AIch%20war%20gerade%20auf%20{{site.url | cgi_escape}}{{page.url | cgi_escape}}%20und%20habe%20folgende%20Frage%3A%0A%0A%0A'>{{ site.info.email }}</a>
+<x-rbfe
+    subject='Frage zu {% if page.title %}"{{ page.title }}"{% else %}{{site.title}}{% endif %}'
+    body='Hoi basimilchler_innen,\n\nIch war gerade auf {{site.url}}{{page.url}} und habe folgende Frage:\n\n\n'
+></x-rbfe>
