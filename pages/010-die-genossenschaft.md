@@ -47,4 +47,6 @@ deinen Nachbarn und Arbeitskollegen von uns erzählen.
 ## Werde Gönner_in
 
 Falls dir unser Projekt gefällt, kannst du es gerne auch mit einer
-Spende unterstützen. Schreib uns eine Email an {% include email_link %}.
+Spende unterstützen. Schreib uns eine Email an:
+
+{% include email_link %}
