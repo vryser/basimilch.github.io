@@ -7,7 +7,7 @@ permalink: /kontakt/
 **{{ site.info.name }}**<br>
 {{ site.info.subtitle }}
 
-{% include info_email_link.html %}
+{% include email_link %}
 
 {{ site.info.address.street }},<br>
 {{ site.info.address.plz }} {{ site.info.address.city }}
