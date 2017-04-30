@@ -32,5 +32,5 @@ Standortvorschläge in der Stadt Zürich und Umgebung Dietikon.
 
 ## Depots ab August 2017
 
-1. **Altstadt**, [Rennweg 8, 8001 Zürich](https://www.google.ch/maps/place/Rennweg+8,+8001+Zürich)
+1. **Altstadt**, [Fortunagasse, 8001 Zürich](https://goo.gl/maps/apH8KptL7Lu)
 
