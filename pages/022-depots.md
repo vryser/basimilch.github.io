@@ -17,7 +17,7 @@ Standortvorschläge in der Stadt Zürich und Umgebung Dietikon.
 1. **Im Dörfli**, Dietikon, [Dörfli-Genossenschaft Wolfsmatt, Im Dörfli, 8953 Dietikon](https://www.google.ch/maps/place/Im+Dörfli+27+8953+Dietikon+Switzerland)
 1. **Urdorf**, [Kirchgasse 3 bis 7, 8902 Urdorf](https://www.google.ch/maps/place/Kirchgasse+3+8902+Urdorf+Switzerland)
 1. **Zirkus Chnopf**, Altstetten, [Flurstrasse 85, 8047, Altstetten](https://www.google.ch/maps/place/Flurstrasse+85+8047+Altstetten+Switzerland)
-1. **Im Gut**, Sihlfeld, [Gutstrasse 95, 8055 Zürich](https://www.google.ch/maps/place/Gutstrasse+95+8055+Zürich)
+1. **Im Gut**, Sihlfeld, [Gutstrasse 135, 8055 Zürich](https://www.google.ch/maps/place/Gutstrasse+95+8055+Zürich)
 1. **Kalkbreite**, Kreis 3 - 4, [Genossenschaft Kalkbreite, Kalkbreitestrasse 2, 8003 Zürich](https://www.google.ch/maps/place/Kalkbreitestrasse+2+8003+Zürich+Switzerland)
 1. **Tor14**, Volkshaus, [Bäckerstrasse 52, 8004 Zürich](https://www.google.ch/maps/place/Bäckerstrasse+52+8004+Zürich)
 1. **Nordstrasse**, Wipkingen, [Nordstrasse 301, 8037 Zürich](https://www.google.ch/maps/place/Nordstrasse+301+8037+Zürich+Switzerland)
