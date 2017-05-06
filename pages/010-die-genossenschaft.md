@@ -25,7 +25,7 @@ Um ein Abo zu bestellen, musst du Genossenschafter_in bei
 {{site.info.shortname}} werden und mindestens zwei Anteilscheine (pro
 Abo) erwerben.
 
-**Es gibt noch freie Plätze ab März 2017.** Die neuen Abos werden
+**Es gibt noch freie Plätze ab Mitte August 2017.** Die neuen Abos werden
 nach Anmeldedatum vergeben und es gilt „Es hät solangs hät“.
 
 ## Genosschenschafter_in werden
