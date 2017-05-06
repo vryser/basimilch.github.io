@@ -4,7 +4,7 @@ permalink: /
 ---
 
 <div class="alert alert-success" role="alert" data-href="/genossenschaft/#abo-bestellen">
-  <div style="font-weight:bold;">Nächster Termin für Neuabos ist der 18. August 2017</div>
+  <div style="font-weight:bold;">Nächster Termin für Neuabos ist Mitte August 2017</div>
   Mittlerweile geniessen 189 Haushalte ein basimilch Abo: seit Mai werden 99 ganze Abos und 90 halbe Abos ausgeliefert! Noch können wir die Ausliefermenge etwas erhöhen. 
   <a href="/genossenschaft/#abo-bestellen">Melde dich jetzt an!</a>
 </div>
