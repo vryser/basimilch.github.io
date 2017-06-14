@@ -163,7 +163,8 @@ nav li {
 }
 .section-menu-item {
   width: 100%;
-  &.stellenbeschrieb a {
+  &.stellenbeschrieb a,
+  &.praktikum a {
     padding: {
       left: 0;
       right: 0;
@@ -687,6 +688,15 @@ a.home-link {
   }
 }
 
+// Embedded Google Slides
+
+.googleslides {
+  margin: {
+    top: 1em;
+    bottom: 1em;
+  }
+}
+
 // Hidden image preloading
 
 .image-preloading-container,
@@ -948,10 +958,15 @@ body .banner-label {
 
 // Custom pages
 
-.page-stellenbeschrieb {
+.page-stellenbeschrieb,
+.page-praktikum {
   .page-content {
     .contact {
       font-style: italic;
+      margin: {
+        top: 1em;
+        bottom: 1em;
+      }
     }
   }
 }
@@ -1000,7 +1015,7 @@ body .banner-label {
     display: inherit;
     height: 80px; // empirical value to fix height of home link logo in IE10+, no idea why it's this :/
   }
-  
+
   html {
     // SOURCE: https://css-tricks.com/snippets/css/hide-scrollbar-in-edge-ie-1011/
     -ms-overflow-style: -ms-autohiding-scrollbar;
