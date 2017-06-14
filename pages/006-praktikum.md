@@ -32,10 +32,11 @@ Wissen und Erfahrung zu erwerben, Mittagessen sowie leckere Naturalien.
 
 Wir freuen uns Dich kennen zu lernen.
 
+Kontakt:
+
 <div class="contact">
-    Bettina Wolfgramm<br/>
-    Tel: <a href="tel:+41774184931">077 418 49 31</a><br/>
-    E-Mail: <a href="mailto:bettina@basimil.ch?subject=Praktikum">bettina@basimil.ch</a><br/>
+    Bettina Wolfgramm<br>
+    {% include email_link username="bettina" subject="Praktikum" body="Hoi Bettina\n\n"%}
 </div>
 
 Weitere [Eindrücke]({% post_url 2017-02-11-mue-praktikum-bei-basimilch %}){:target="_blank"} aus
