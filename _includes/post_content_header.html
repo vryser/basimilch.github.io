@@ -2,4 +2,9 @@
   <div class="post-title">
     {{ page.title }}
   </div>
+  {% if page.subtitle %}
+    <div class="post-subtitle">
+      {{ page.subtitle }}
+    </div>
+  {% endif %}
 </section>

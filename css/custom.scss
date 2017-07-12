@@ -869,6 +869,11 @@ body .banner-label {
   @extend .content-title;
   padding: 0;
 }
+.post-subtitle {
+  @extend .post-title;
+  font-size: 24px;
+  font-style: italic;
+}
 .post-date {
   font-size: 0.85em;
   font-variant: small-caps;

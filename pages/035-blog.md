@@ -13,7 +13,7 @@ permalink: /blog/
     </div>
     <div class="post-list-info">
         <div class="post-list-title">
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}{% if post.subtitle %}, {{ post.subtitle }}{% endif %}</a>
         </div>
         <div class="post-list-date">
             {% include long_date_german date=post.date %}
