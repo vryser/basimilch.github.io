@@ -44,11 +44,4 @@ der basimilch Käserei und zu einem [basimilch Praktikum]({% post_url 2016-04-28
 findest Du in unserem [Blog]({% link pages/035-blog.md %}){:target="_blank"}
 sowie hier:
 
-<iframe src="https://docs.google.com/presentation/d/19oOOOZFIZnFShGNMMPGESm9Ld83pYE-uNGMzo1PGFJ8/embed?start=false&loop=true&delayms=3000"
-        class="googleslides"
-        frameborder="0"
-        width="575"
-        height="353"
-        allowfullscreen="true"
-        mozallowfullscreen="true"
-        webkitallowfullscreen="true"></iframe>
+{% include project-presentation-slides.html %}
