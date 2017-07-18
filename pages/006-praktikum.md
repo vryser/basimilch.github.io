@@ -3,7 +3,7 @@ title: Praktikum (Aug-Sep)
 description: Stellenbeschrieb für eine Stelle als Praktikant_in
 section-group: main
 permalink: /praktikum
-published: true # SOURCE: http://stackoverflow.com/a/14440927/5764181
+published: false # SOURCE: http://stackoverflow.com/a/14440927/5764181
 ---
 
 # Praktikant_in (6 – 7 Wochen)
