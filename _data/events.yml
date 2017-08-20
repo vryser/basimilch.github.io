@@ -300,7 +300,7 @@
     oder sich für ein Milchprodukteabo interessieren!
 
 - title:        Infoapero Pflanzplatz Dunkelhölzli
-  # title_short:  
+  # title_short:
   # type:         extern
   start:        2016-09-21 18:00:00 +0200
   end:          2016-09-21 20:00:00 +0200
@@ -318,7 +318,7 @@
     unser Infoapero auf dem Pflanzplatz im Dunkelhölzli besuchen wollen.
 
 - title:        Infoanlass und Degustation
-  # title_short:  
+  # title_short:
   # type:         extern
   start:        2016-11-23 16:00:00 +0100
   end:          2016-11-23 20:00:00 +0100
@@ -334,7 +334,7 @@
   #   more info
 
 - title:        Infoanlass und Degustation
-  # title_short:  
+  # title_short:
   # type:         extern
   start:        2016-11-26 15:00:00 +0100
   end:          2016-11-26 18:00:00 +0100
@@ -421,7 +421,7 @@
 
 - title:        Basimilch am 1. Mai Fest in Zürich
   title_short:  1. Mai Fest
-  type:         extern
+  # type:         extern
   start:        2017-04-29 12:00:00 +0200
   end:          2017-05-01 22:00:00 +0200
   day_hours:    12:00 - 22:00
@@ -434,3 +434,40 @@
   map_url:      https://www.google.ch/maps/place/Militärstrasse+5-25+8004+Zürich+Switzerland
   info: >
     basimilch ist präsent am Stand zu Solidarischer Landwirtschaft.
+
+- title:        Standaktion an der Musikwelle Guggach
+  # title_short:
+  # type:         extern
+  start:        2017-09-09 13:00:00 +0200
+  end:          2017-09-09 17:00:00 +0200
+  # day_hours:    12:00 - 22:00
+  url:          https://www.bracheguggach.ch/events/musikwelle-guggach-17-1/
+  image:        events/20170909_musikwelle_guggach_2017.jpg
+  place:        Brache Guggach
+  place_url:    http://www.gz-zh.ch/gz-buchegg/brache/
+  address:      Haltestelle Radiostudio
+  address_2:    Wehntalerstrasse 109, 8057 Zürich
+  map_url:      https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland
+  info: >
+    Am Samstagnachmittag haben wir einen Infostand an der Musikwelle auf der
+    Brache Guggach. Ihr könnt die Gelegenheit nutzen, um uns persönlich
+    kennenzulernen und eure Fragen zu unserem Projekt zu stellen!
+
+- title:        Standaktion an der Ernährungswende Zürich
+  # title_short:
+  # type:         extern
+  start:        2017-09-16 15:00:00 +0200
+  end:          2017-09-16 22:00:00 +0200
+  # day_hours:    12:00 - 22:00
+  url:          https://www.foodzurich.com/de/events/2284/ernährungswende-zürich?date=2017-09-16
+  image:        logos/food_zurich.png
+  place:        Food Zürich Festival
+  place_url:    https://www.foodzurich.com/de/
+  address:      Zürcher Engrosmarkt
+  address_2:    Aargauerstrasse 1, 8048 Zürich
+  map_url:      https://www.google.ch/maps/place/Aargauerstrasse+1+8048+Zürich+Switzerland
+  info: >
+    Wir werden mit einem Stand zusammen mit anderen Projekten der Solidarischen
+    Landwirtschaft (wie zum Beispiel unsere Freunde von ortoloco) an der
+    "Ernährungswende Zürich" anwesend sein, die Teil des Food Zürich Festivals
+    ist.
