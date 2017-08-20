@@ -454,7 +454,7 @@
     kennenzulernen und eure Fragen zu unserem Projekt zu stellen!
 
 - title:        Standaktion an der Ernährungswende Zürich
-  # title_short:
+  title_short:  Standaktion Ernährungswende Zürich
   # type:         extern
   start:        2017-09-16 15:00:00 +0200
   end:          2017-09-16 22:00:00 +0200
@@ -468,6 +468,7 @@
   map_url:      https://www.google.ch/maps/place/Aargauerstrasse+1+8048+Zürich+Switzerland
   info: >
     Wir werden mit einem Stand zusammen mit anderen Projekten der Solidarischen
-    Landwirtschaft (wie zum Beispiel unsere Freunde von ortoloco) an der
-    "Ernährungswende Zürich" anwesend sein, die Teil des Food Zürich Festivals
+    Landwirtschaft (wie zum Beispiel unsere Freunde von
+    <a href="/freunde/#ortoloco">ortoloco</a>) an der Ernährungswende Zürich
+    anwesend sein, die Teil des Food Zürich Festivals
     ist.
