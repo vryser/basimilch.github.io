@@ -6,8 +6,8 @@ permalink: /
 <div class="alert alert-success" role="alert" data-href="/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">Neuanmeldungen per Anfang Januar 2018</div>
   Mittlerweile geniessen 207 Haushalte ein basimilch Abo: seit August 2017
-  werden 101 ganze Abos und 106 halbe Abos ausgeliefert. Das entspricht jede
-  Woche 1321 Liter verarbeiteter Milch. Neuanmeldungen für basimilch Abos sind
+  werden 101 ganze Abos und 109 halbe Abos ausgeliefert. Das entspricht jede
+  Woche 1341 Liter verarbeiteter Milch. Neuanmeldungen für basimilch Abos sind
   möglich per Anfang Januar 2018.
   <a href="/genossenschaft/#abo-bestellen">Schreibe Dich jetzt auf der Warteliste ein!</a>
 </div>
