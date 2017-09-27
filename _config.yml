@@ -38,6 +38,8 @@ info:
     name: Genossenschaft basimilch
     shortname: basimilch
     subtitle: Die kooperative Käserei in Dietikon
+    official_shortname: basimilch - koop. Käserei Dietikon
+    iban: CH56 0839 0033 6848 1000 7
     address:
         street: Alte Kindhauserstrasse 3
         plz: 8953
