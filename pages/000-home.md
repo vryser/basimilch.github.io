@@ -4,11 +4,8 @@ permalink: /
 ---
 
 <div class="alert alert-success" role="alert" data-href="/genossenschaft/#abo-bestellen">
-  <div style="font-weight:bold;">Neuanmeldungen per Anfang Januar 2018</div>
-  Mittlerweile geniessen 210 Haushalte ein basimilch Abo: seit August 2017
-  werden 101 ganze Abos und 109 halbe Abos ausgeliefert. Das entspricht jede
-  Woche 1341 Liter verarbeiteter Milch. Neuanmeldungen für basimilch Abos sind
-  möglich per Anfang Januar 2018.
+  <div style="font-weight:bold;">Basimilch Abos fürs 2018 – Stichtag für Neuanmeldungen ist der 15. Dezember 2017!</div>
+  Willst Du im 2018 feine naturbelassene Milchprodukte wöchentlich im Depot in Deiner Nähe abholen? Neuanmeldungen sind bis zum 15. Dezember möglich.
   <a href="/genossenschaft/#abo-bestellen">Schreibe Dich jetzt auf der Warteliste ein!</a>
 </div>
 
