@@ -1,18 +1,18 @@
 ---
-title: Praktikum (Aug-Sep)
-description: Stellenbeschrieb für eine Stelle als Praktikant_in
+title: Praktikumstelle
+description: Stellenbeschrieb für Praktika
 section-group: main
 permalink: /praktikum
-published: false # SOURCE: http://stackoverflow.com/a/14440927/5764181
+published: true # SOURCE: http://stackoverflow.com/a/14440927/5764181
 ---
 
-# Praktikant_in (6 – 7 Wochen)
+# Praktikum bei basimilch
 
-Wir suchen eine **Praktikantin / Aushilfe** zur Unterstützung des
-Hofkäsereiteams (während Alpabwesenheit einer Käserin).
+Die Zusammenarbeit mit Praktikantinnen und Praktikanten hat sich sehr bewährt. Das basimilch
+Hofkäsereiteams freut sich regelmässig interessierte Leute in die Arbeit mit einzuspannen.
 
-**Ab dem 7. August bis zum 23. September 2017** (6--7 Wochen). Pensum 3--4 Tage
-pro Woche, flexibel (7-Tage-Betrieb).
+**Ab Januar 2018** suchen wir neue Praktikant_innen. Pensum 2--3 Tage
+pro Woche für ca. 3 Monate, flexibel (7-Tage-Betrieb).
 
 Wir bieten dir Einblick, handwerkliche Arbeit und Wissensvermittlung in unserer
 kleinen, aber sehr vielseitigen, kooperativ organisierten Hofkäserei im
