@@ -1,0 +1,80 @@
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+# permalink: pretty
+safe: true
+timezone: Europe/Zurich
+# debugmode: true
+# Use {{ jekyll.environment }} from: https://github.com/jekyll/jekyll/issues/1219#issuecomment-50814813
+
+exclude: ["git-untracked"]
+
+defaults:
+  - scope:
+      path: "pages" # an empty string here means all files in the project
+    values:
+      section-group: "secondary"
+      layout: "default"
+
+  - scope:
+      type: "posts"
+    values:
+      section-group: "secondary"
+      layout: "post_default"
+
+  - scope:
+      type: "drafts"
+    values:
+      section-group: "secondary"
+      layout: "post_default"
+
+# Site settings
+title: basimilch
+description: Genossenschaft basimilch - Die kooperative Käserei in Dietikon
+baseurl: ""
+url: "http://basimil.ch"
+
+info:
+    name: Genossenschaft basimilch
+    shortname: basimilch
+    subtitle: Die kooperative Käserei in Dietikon
+    official_shortname: basimilch - koop. Käserei Dietikon
+    iban: CH56 0839 0033 6848 1000 7
+    address:
+        street: Alte Kindhauserstrasse 3
+        plz: 8953
+        city: Dietikon ZH
+        url: https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+    abo_sharing_email: aboteilen@basimil.ch
+    platform:
+        url: https://meine.basimil.ch
+    social:
+        facebook:
+            url: https://www.facebook.com/basimilch
+        twitter:
+            url: https://twitter.com/basimilch
+
+# Consider using site.github hash
+# SOURCE: https://github.com/benbalter/benbalter.github.com/blob/14c1d3e597125cf24a71ba4183d7c3f118733cad/_includes/improve.html#L7
+# DOC: https://help.github.com/articles/repository-metadata-on-github-pages/#available-repository-metadata
+#      https://help.github.com/articles/using-jekyll-with-pages/#defaults
+github:
+    repo:
+        branch: master
+        url: https://github.com/basimilch/basimilch.github.io
+
+kramdown:
+  # Source for German quote codes: http://symbolcodes.tlt.psu.edu/bylanguage/german.html
+  smart_quotes: sbquo,lsquo,bdquo,ldquo
+
+sass:
+    style: compressed
+
+# Source: https://github.com/penibelst/jekyll-compress-html
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  # profile: true
+  # ignore:
+  #   envs: [local]

@@ -1,0 +1,1032 @@
+---
+---
+
+// This file is written with SCSS syntax.
+// DOC: http://sass-lang.com/guide
+
+$basiblau: #51A1D9;
+$basiblau_slightly_darker: darken( $basiblau, 10% );
+$basiblau_darker: darken( $basiblau, 25% );
+$basiblau_ultralight: lighten( $basiblau, 36% );
+
+$glyphicon-download-alt:  "\e025";
+$glyphicon-share-alt:     "\e095";
+
+$text_color: #222;
+$text_color_body: #777;
+
+$bs_text_success: #3c763d;
+$bs_bg_success: #dff0d8;
+$bs_bg_success_slightly_darker: darken( $bs_bg_success, 5% );
+
+
+// Mixins
+
+// SOURCE: http://www.stefanwienert.de/blog/2012/05/18/easy-css-vendor-prefix-mixin-for-sass/
+@mixin vendor-prefix($name, $argument) {
+  -webkit-#{$name}: #{$argument};
+  -ms-#{$name}: #{$argument};
+  -moz-#{$name}: #{$argument};
+  -o-#{$name}: #{$argument};
+  #{$name}: #{$argument};
+}
+
+/* Begin of fonts import */
+
+/*
+Following fonts are added from the following import:;
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+'.ttf' font files are downloaded from the original url: https://fonts.gstatic.com/s/lato/v11/[font-file-name].ttf;
+*/
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(/external/fonts/0DeoTBMnW4sOpD0Zb8OQSALUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(/external/fonts/MZ1aViPqjfvZwVD_tzjjkwLUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(/external/fonts/2HG_tEPiQ4Z6795cGfdivCZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(/external/fonts/HkF_qI1x_noxlxhrhMQYECZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
+}
+
+/* End of fonts import */
+
+body {
+  padding:50px;
+  font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: $text_color_body;
+  font-weight:300;
+  &.modal-open {
+      position: fixed;
+      overflow: hidden;
+  }
+}
+h1, h2, h3, h4, h5, h6 {
+  color:$text_color;
+  margin:0 0 20px;
+}
+
+
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:28px;
+}
+
+h2 {
+  color:#393939;
+}
+
+h3, h4, h5, h6 {
+  color:#494949;
+}
+
+h1 {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid $text_color_body;
+}
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #999;
+  padding-bottom: 5px;
+}
+h3 {
+  font-size: 18px;
+  border-bottom: 1px dotted #ccc;
+  padding-bottom: 5px;
+}
+h4,h5,h6 {
+  font-size: 18px;
+  font-style: italic;
+}
+
+// Dynamic Section Title Links
+.section-title-link {
+  font-size:0.6em;
+  margin-left: 6px;
+}
+
+.content-header-image {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1,h2,h3,h4,h5,h6 {
+  padding-top: 20px;
+}
+h1 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid $text_color_body;
+}
+h2 {
+  font-size: 22px;
+}
+
+// Sections
+
+nav li {
+  list-style-type: none;
+}
+.sections-menu-group {
+  padding-left: 0;
+  margin-bottom: 30px;
+}
+.subsections-menu-group {
+  font-size: 0.85em;
+}
+.subsection-menu-item:last-child {
+  margin-bottom: 15px;
+}
+.section-menu-item {
+  width: 100%;
+  &.stellenbeschrieb a,
+  &.praktikum a {
+    padding: {
+      left: 0;
+      right: 0;
+    }
+    color: $basiblau_slightly_darker;
+    background-color: yellow;
+    text-align: center;
+    -webkit-box-shadow: inset 0 0 12px 12px white;
+       -moz-box-shadow: inset 0 0 12px 12px white;
+            box-shadow: inset 0 0 12px 12px white;
+    &:hover,&.active {
+      -webkit-box-shadow: none;
+         -moz-box-shadow: none;
+              box-shadow: none;
+    }
+  }
+  a {
+    padding: 5px;
+    padding-left: 10px;
+    display: block;
+    color: $basiblau_slightly_darker;
+  }
+}
+
+a {
+  color:$basiblau;
+  font-weight:400;
+  text-decoration:none;
+}
+a:hover {
+  text-decoration: none;
+  color: $basiblau_slightly_darker;
+  background-color: $basiblau_ultralight;
+}
+
+a:active,
+a.active,
+a.active img,
+.btn-info,
+.content-header {
+  background-color: $basiblau;
+  color: white;
+  border-color: $basiblau_slightly_darker;
+}
+.contains-active-subsection a.section-menu-link {
+  background-color: $basiblau_ultralight;
+}
+.top-link {
+  display: none;
+  cursor: pointer;
+  color: $basiblau;
+  position: fixed;
+  right: 5%;
+  top: 3%;
+  font-size: 30px;
+}
+
+.content-title {
+  font-size: 36px;
+  padding: 12px;
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+
+.btn-info:hover {
+  border-color: $basiblau_darker;
+  background-color: $basiblau_slightly_darker;
+}
+.top-link:hover {
+  color: $basiblau_slightly_darker;
+}
+
+a small {
+  font-size:11px;
+  color: $text_color_body;
+  margin-top:-0.6em;
+  display:block;
+}
+
+a[target='_blank'],
+[data-href^='http'] {
+  &:hover::after {
+    font-family: 'Glyphicons Halflings';
+    content: $glyphicon-share-alt;
+    color: $basiblau;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: lighter;
+    display: inline-block;
+    text-decoration: none;
+    position: fixed;
+    right: 5%;
+    bottom: 3%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+a[download]:hover::after {
+  content: $glyphicon-download-alt;
+}
+
+.subtle {
+  color: transparent;
+  background-color: transparent;
+  :hover > &:not(:hover) {
+    color: $basiblau_ultralight;
+  }
+}
+
+a[target='_blank']:empty::after {
+  content: "";
+}
+
+a[role=button]:hover::after{
+  content: "";
+}
+
+.button-container {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
+blockquote {
+  border-left:1px solid #e5e5e5;
+  margin:0 0 20px 0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  color:#333;
+  font-size:12px;
+}
+
+pre {
+  padding:8px 15px;
+  background: #f8f8f8;
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
+dt {
+  color:#444;
+  font-weight:700;
+}
+
+th {
+  color:#444;
+}
+
+img {
+  max-width:100%;
+}
+
+header {
+  width:220px;
+  float:left;
+  position:fixed;
+  height: calc(100% - 183px);
+  #right-hand-nav-menu {
+    overflow: scroll;
+    height: calc(100% - 90px);
+  }
+}
+
+strong {
+  color:$text_color;
+  font-weight:700;
+}
+
+header ul a strong {
+  font-size:14px;
+  display:block;
+  color:$text_color;
+}
+
+section {
+  width:575px;
+  float:right;
+  margin-bottom: 50px;
+}
+
+small {
+  font-size:11px;
+}
+
+hr {
+  border: 0;
+  background:#e5e5e5;
+  height: 1px;
+  margin: 0 0 12px;
+  &.with-shadow {
+    background: transparent;
+    height: 12px;
+    box-shadow: inset 0 -12px 12px -12px rgba(0, 0, 0, 0.5);
+  }
+  &.with-down-arrow::before {
+    content: "▼";
+    font-size: 10px;
+    position: relative;
+    top: -10px;
+    left: calc(50% - 5.5px);
+  }
+  &.flat {
+    border: 0;
+    background:#e5e5e5;
+    height: 1px;
+    margin: 0 0 -12px;
+    opacity: 0;
+  }
+}
+
+footer {
+  width:220px;
+  float:left;
+  position:fixed;
+  bottom:0;
+  text-align: center;
+  line-height: 1;
+}
+
+@media print, screen and (max-width: 960px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+  header {
+    padding-right:320px;
+  }
+
+  header a small {
+    display:inline;
+  }
+
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
+
+  body {
+    word-wrap:break-word;
+    padding:0;
+  }
+
+  header {
+    padding:0;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+
+  pre, code {
+    word-wrap:normal;
+  }
+
+  section {
+    margin-bottom: 25px;
+    &:not(.content-header) {
+      padding:0 15px;
+    }
+  }
+
+  .content-title {
+    font-size: 28px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 18px;
+  }
+
+  header {
+    height: 66px;
+    .navbar-toggle {
+      display: block;
+      border-color: $basiblau;
+      position: relative;
+      top: 15px;
+      right: 15px;
+      margin: 0;
+      .modal-open & {
+        background-color: $basiblau_ultralight;
+      }
+      .icon-bar {
+        background-color: $basiblau;
+      }
+    }
+    svg {
+      height: 60px;
+      width: 200px;
+      margin: 3px;
+      padding-left: 15px;
+    }
+    #floating-nav-menu {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      background-color: grey;
+      background-color: rgba(0,0,0,.6);
+      top: 66px;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      nav {
+        display: none;
+        position: relative;
+        max-height: 80%;
+        width: 240px;
+        left: calc(100% - 240px);
+        overflow-y: scroll;
+        background-color: white;
+        background-color: rgba(255,255,255,.95);
+        padding: 10px;
+        @include vendor-prefix(box-shadow, 0 12px 20px 0px rgba(0,0,0,.5))
+      }
+    }
+  }
+  .button-container {
+    .btn.btn-lg {
+      padding: 6px 10px;
+      font-size: 15px;
+      line-height: 1.43;
+      text-align: center;
+      border-radius: 4px;
+    }
+  }
+}
+
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+  a[href]:after {
+    // Override bootstrap rule to remove href in parenthesis on print
+    content: none;
+  }
+}
+
+/* Custom CSS Values */
+h3 .glyphicon {
+  font-size: 20px;
+}
+.help-block {
+  font-size: 12px;
+}
+form {
+  font-size: 14px;
+}
+
+h1 span.glyphicon {
+  font-size: 0.8em;
+}
+
+// SVG Basimilch logo
+// original basimilch blue color: rgb(81,161,217); #51A1D9
+
+svg {
+    .background {
+      fill: white;
+    }
+    .foreground {
+      fill: $basiblau;
+    }
+    .svg-fallback-text {
+      color: $basiblau;
+      background-color: transparent;
+      padding-left: 10px;
+      height: 78px;
+      line-height: 78px;
+      font-size: 36px;
+      font-weight: 900px;
+      &:hover {
+        color: $basiblau_slightly_darker;
+        background-color: $basiblau_ultralight;
+      }
+    }
+  &:hover {
+    .background {
+      fill: $basiblau_ultralight;
+    }
+    .foreground {
+      fill: $basiblau_slightly_darker;
+    }
+  }
+}
+
+a.home-link {
+  &.active,
+  &:active {
+    background: none;
+    @media print, screen and (min-width: 961px) {
+      svg {
+        .background {
+          fill: $basiblau;
+        }
+        .foreground {
+          fill: white;
+        }
+        .svg-fallback-text {
+          color: white;
+          background-color: $basiblau;
+          &:hover {
+            color: $basiblau_ultralight;
+          }
+        }
+        &:hover {
+          .foreground {
+            fill: $basiblau_ultralight;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
+// TOC
+
+#markdown-toc {
+  list-style-type: circle;
+  margin: {
+    top:    20px;
+    bottom: 50px;
+  }
+  padding: {
+    left:   0;
+  }
+  li {
+    padding: {
+      bottom: 3px;
+    }
+  }
+  & > li {
+    list-style-type: none;
+    & > a {
+      font-size: 24px;
+      color: $text_color;
+    }
+    & > ul {
+      padding: {
+        top: 10px;
+        bottom: 25px;
+        left: 55px;
+      }
+      @media (max-width: 960px) {
+        padding: {
+          left: 20px;
+        }
+      }
+    }
+  }
+}
+
+
+// Content Footer
+
+.content-footer {
+  margin-top: 20px;
+  text-align: center;
+  font-size: small;
+}
+
+
+// Address map
+
+.map {
+  width: 100%;
+  height: 270px;
+  border: 0;
+}
+
+.address-map {
+  @extend .map;
+  margin: {
+    top: 45px;
+  }
+}
+
+.depot-address-map {
+  @extend .map;
+  margin: {
+    top: 25px;
+    bottom: 65px;
+  }
+}
+
+// Embedded Google Slides
+
+.googleslides {
+  margin: {
+    top: 1em;
+    bottom: 1em;
+  }
+}
+
+// Hidden image preloading
+
+.image-preloading-container,
+.image-preloading {
+  display: none;
+}
+
+body .banner-label {
+  color: white;
+  background-color: $basiblau_ultralight;
+  opacity: 1;
+  z-index: 1000;
+  text-align: center;
+  position: fixed;
+  width: 400px;
+  font-size: 24px;
+  margin-top: -5px;
+  margin-left: -165px;
+  @include vendor-prefix(transform, rotate(-35deg));
+  @include vendor-prefix(box-shadow, 0 0 6px 2px #bbb);
+  @media print, screen and (max-width: 960px) {
+    display: none;
+  }
+}
+
+// Highlight item or section in the hash of the URL
+
+.elem-id-in-url-hash {
+  &::before {
+    content: ">";
+    font-weight: 700;
+    font-size: 40px;
+    float: left;
+    margin-top: -6px;
+    margin-left: -30px;
+    color: $basiblau;
+    text-shadow: 0 0 15px $basiblau;
+  }
+  @media (max-width: 960px) {
+    background-color: $basiblau_ultralight;
+    &::before {
+      display: none;
+    }
+  }
+}
+
+
+// Events
+
+.event-item {
+  &.event-extern {
+    font-style: italic;
+    & .event-title:after {
+      content: " *";
+    }
+    &:after {
+      padding {
+        top: 20px;
+      }
+      font-size: 0.7em;
+      line-height: 1.3;
+      display: block;
+      margin-top: 10px;
+      content: "* Dies ist eine von uns unabhängige Veranstaltung im Rahmen der Vertragslandwirtschaft, die wir sehr empfehlenswert finden.";
+    }
+  }
+  margin: 30px 0;
+  padding: 10px;
+  &:hover {
+    background-color: #efefef;
+  }
+  .event-title {
+    font-weight: bold;
+  }
+  &.elem-id-in-url-hash {
+    background-color: $basiblau_ultralight;
+    padding: 9px;
+    border: 1px solid $basiblau;
+    &::before {
+      margin-top: -17px;
+      margin-left: -40px;
+    }
+  }
+  .event-image {
+    max-height: 100px;
+    max-width: 150px;
+    position: relative;
+    float: right;
+    @media (max-width: 960px) {
+      display: none;
+    }
+  }
+  .event-address-2 {
+    padding: {
+      left: 22px;
+    }
+  }
+  .event-link {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .event-info {
+    .event-info-text {
+      padding-left: 21px;
+      margin-top: -27px;
+      font-size: 0.85em;
+    }
+  }
+}
+
+.next-event-alert {
+  color: $basiblau_slightly_darker;
+  background-color: $basiblau_ultralight;
+  border: 1px solid $basiblau;
+  margin: 0;
+  margin-bottom: 15px;
+  font-size: 14px;
+  padding: 10px;
+  @media screen and (max-width: 960px) {
+    border-left: none;
+    border-right: none;
+    margin-bottom: 0;
+  }
+  @media print {
+    display: none;
+  }
+}
+
+.alert-success {
+  a {
+    color: $bs_text_success;
+    &:hover {
+      background-color: $bs_bg_success_slightly_darker;
+    }
+  }
+}
+
+// Blogs
+
+.post header {
+  height: auto;
+  .back-to-blog-list {
+    margin: {
+      top: 25px;
+      bottom: 25px;
+    }
+    text-align: center;
+  }
+  &.mobile-device {
+    padding: {
+      bottom: 15px;
+    }
+    .back-to-blog-list {
+      margin: {
+        top: 5px;
+        bottom: 5px;
+        left: 5px;
+      }
+      text-align: left;
+    }
+  }
+}
+.post-header {
+  color: $basiblau;
+  margin: 0;
+  min-height: 120px;
+}
+.post-title {
+  @extend .content-title;
+  padding: 0;
+}
+.post-subtitle {
+  @extend .post-title;
+  font-size: 24px;
+  font-style: italic;
+}
+.post-date {
+  font-size: 0.85em;
+  font-variant: small-caps;
+  margin: {
+    top: 10px;
+    bottom: 25px;
+  }
+}
+.post-list-entry {
+  min-height: 150px;
+  .post-list-date {
+    @extend .post-date;
+    font-size: 0.7em;
+    margin: 0;
+  }
+  .post-list-thumbnail {
+    float: left;
+    width: 160px;
+    div {
+      width: 150px;
+      height: 85px;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
+  .post-list-info {
+    float: left;
+    width: calc(100% - 160px);
+    .post-list-excerpt {
+      font-style: italic;
+      font-size: 0.8em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}
+.post-content > .wrap > p:first-child:first-letter {
+    text-transform: uppercase;
+    font-size: 3em;
+    margin: {
+      top: 0px;
+      right: 5px;
+      bottom: 0px;
+      left: 5px;
+    }
+    font-weight: normal;
+    color: $basiblau;
+    float: left;
+    line-height: 1em;
+}
+.small-photo-link {
+  display: inline-block;
+  padding: 2px;
+  margin: 1rem 1.5rem 1rem 1.5rem;
+  background-color: #fff;
+  line-height: 0;
+  border-radius: 4px;
+  transition: background-color 0.5s ease-out;
+  &:hover {
+    transition: background-color 0.1s ease-out;
+    background-color: $basiblau;
+  }
+  .small-photo {
+    margin: 0;
+    width: 150px;
+    border-radius: 4px;
+  }
+}
+.post-metadata {
+  margin: {
+    bottom: 25px;
+  }
+}
+
+.youtube-video {
+  margin: {
+    top: 40px;
+    right: 0;
+    bottom: 40px;
+    left: 0;
+  }
+  width: 560px;
+  height: 315px;
+}
+
+// Custom pages
+
+.page-stellenbeschrieb,
+.page-praktikum {
+  .page-content {
+    .contact {
+      font-style: italic;
+      margin: {
+        top: 1em;
+        bottom: 1em;
+      }
+    }
+  }
+}
+
+[data-href] {
+  cursor: pointer;
+}
+
+#search_form {
+  padding: 0 10px;
+  .form-group {
+    margin: {
+      left: 0;
+      right: 0;
+    }
+    .col-xs-12 {
+      padding: 0;
+    }
+  }
+}
+
+#button-signup {
+  padding: {
+    top: 30px;
+    bottom: 10px;
+  };
+}
+
+.visible-ie-only {
+  display: none;
+}
+.hidden-ie {
+  display: inherit;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  // This targets IE10+
+  // SOURCE: https://gist.github.com/larrybotha/7881691
+  .visible-ie-only {
+    display: inherit;
+  }
+  .hidden-ie {
+    display: none;
+  }
+
+  .home-link {
+    display: inherit;
+    height: 80px; // empirical value to fix height of home link logo in IE10+, no idea why it's this :/
+  }
+
+  html {
+    // SOURCE: https://css-tricks.com/snippets/css/hide-scrollbar-in-edge-ie-1011/
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+}
+
+x-bme {
+  @extend a;
+}

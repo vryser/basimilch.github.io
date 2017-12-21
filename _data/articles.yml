@@ -1,0 +1,50 @@
+# Articles mentioning the basimilch project.
+# See example of usage of this data in ../_includes/article-list.html.
+
+- date:   2015-03-12
+  origin: WOZ
+  author: Bettina Dyttrich
+  title:  Nicht mehr so radikal
+  url:    http://www.woz.ch/1511/kost-und-logis/nicht-mehr-so-radikal
+  pdf:    20150312_woz_nicht-mehr-so-radikal.pdf
+
+- date:   2015-07-01
+  origin: Tagesanzeiger
+  author: Helene Arnet
+  title:  Kleine Biobauern geben Grosskonzern Emmi den Laufpass
+  url:    http://www.tagesanzeiger.ch/zuerich/region/Kleine-Biobauern-geben-Grosskonzern-Emmi-den-Laufpass/story/23702880
+  pdf:    20150701_tagesanzeiger_kleine-biobauern-geben-grosskonzern-emmi-den-laufpass.pdf
+
+- date:   2015-08-12
+  origin: Limmattaler Zeitung
+  author: Sophie Rüesch
+  title:  Eine Bio-Kooperative bringt Demokratie in die Milchproduktion
+  url:    http://www.limmattalerzeitung.ch/limmattal/region-limmattal/eine-bio-kooperative-bringt-demokratie-in-die-milchproduktion-129433449
+  pdf:    20150812_limmattalerzeitung_eine-bio-kooperative-bringt-demokratie-in-die-milchproduktion.pdf
+
+- date:   2015-08-28
+  origin: P.S. Zeitung
+  author: Nicole Soland
+  title:  Aus der Region statt aus dem Regal
+  url:    http://www.pszeitung.ch/aus-der-region-statt-aus-dem-regal/
+  pdf:    20150828_pszeitung_aus-der-region-statt-aus-dem-regal.pdf
+
+- date:   2015-11-16
+  origin: Bioaktuell 9 | 2015
+  title:  "Vertragslandwirtschaft: Nicht einfach eine neue Vermarktungsmethode"
+  url:    http://www.bioaktuell.ch/de/zeitschrift-bioaktuell/archiv-ba/archiv-2015.html
+  pdf:    20151116_bioaktuell_vertragslandwirtschaft.pdf
+
+- date:   2016-01-08
+  origin: BauernZeitung
+  author: Nadine Baumgartner
+  title:  "Die kleine Alp in der Stadt"
+  url:    http://www.bauernzeitung.ch/news-archiv/2015/die-kleine-alp-in-der-stadt/
+  pdf:    20160108_bauernzeitung_die-kleine-alp-in-der-stadt.pdf
+
+- date:   2016-06-18
+  origin: Limmattaler Zeitung
+  author: Sophie Rüesch
+  title:  "Dietiker Milchgenossenschaft auf Erfolgskurs: «Basimilch» will Abozahlen verdoppeln"
+  url:    http://www.limmattalerzeitung.ch/limmattal/region-limmattal/dietiker-milchgenossenschaft-auf-erfolgskurs-basimilch-will-abozahlen-verdoppeln-130360219
+  pdf:    20160618_limmattalerzeitung_dietiker-milchgenossenschaft-auf-erfolgskurs-basimilch-will-abozahlen-verdoppeln.pdf

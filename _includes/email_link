@@ -1,0 +1,3 @@
+<x-bme {% if include.username %}username='{{ include.username }}'{% endif %}
+    {% if include.subject %}subject='{{ include.subject }}'{% else %}subject='Frage zu {% if page.title %}"{{ page.title }}"{% else %}{{site.title}}{% endif %}'{% endif %}
+    {% if include.body %}body='{{ include.body }}'></x-bme>{% else %}body='Hoi basimilchler_innen,\n\nIch war gerade auf {{site.url}}{{page.url}} und habe folgende Frage:\n\n\n'></x-bme>{% endif %}

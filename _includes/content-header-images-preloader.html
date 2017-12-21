@@ -1,0 +1,10 @@
+{% if page.url == '/' %}
+  <!-- Preload header images on root page -->
+  <div class="image-preloading-container" style="display:none;">
+    {% for f in site.static_files  %}
+      {% if f.path contains "/images/pages/" %}
+        <img class="image-preloading" src="{{f.path}}" alt="preloading">
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}

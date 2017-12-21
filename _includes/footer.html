@@ -1,0 +1,21 @@
+<footer>
+  <hr class="flat">
+  <hr class="with-shadow with-down-arrow">
+  <p>
+    <small>
+      {{ site.info.name }}<br>
+      <a href="{{ site.info.address.url }}" target="_blank">
+        {{ site.info.address.street }},
+        {{ site.info.address.plz }} {{ site.info.address.city }}
+      </a>
+      <br>
+      {% include email_link %}
+      <br>
+      {% include clean_link url=site.info.social.facebook.url %}
+      <br>
+      {% include clean_link url=site.info.platform.url %}
+      <br>
+      <a href="{{ site.baseurl }}{% link pages/070-kontakt.md %}">{{ site.info.iban }}</a>
+    </small>
+  </p>
+</footer>

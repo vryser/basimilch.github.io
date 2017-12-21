@@ -1,0 +1,76 @@
+{% capture navmenu %}
+  {% assign sectionGroups = "main,secondary" | split: "," %}
+  <nav>
+    {% for sectionGroup in sectionGroups %}
+      <ul class="sections-menu-group">
+        {% for section in site.html_pages %}
+          {% assign urlSegments = section.permalink | split: "/" %}
+          {% assign urlSegmentsCount = urlSegments | size %}
+          {% if section.draft or section.hidden or section.section-group != sectionGroup or urlSegmentsCount != 2 %}
+            {% continue %}
+          {% endif %}
+          {% if  section.section-group != sectionGroup %}
+            {% continue %}
+          {% endif %}
+          {% if page.url == section.url %}
+            {% assign activesection = true %}
+          {% else %}
+            {% assign activesection = false %}
+            {% if page.url contains section.url %}
+              {% assign containsactivesubsection = true %}
+            {% else %}
+              {% assign containsactivesubsection = false %}
+            {% endif %}
+          {% endif %}
+          <li class="section-menu-item {% unless activesection %}in{% endunless %}active{% if containsactivesubsection %} contains-active-subsection{% endif %} {{ section.permalink | remove:'/' }}">
+            <a class="section-menu-link{% if activesection %} active{% endif %}" href="{{ section.permalink | prepend: site.baseurl }}">{{ section.title }}</a>
+            <ul class="subsections-menu-group">
+              {% for subsection in site.html_pages %}
+                {% assign urlSubsectionSegments = subsection.permalink | split: "/" %}
+                {% assign urlSubsectionSegmentsCount = urlSubsectionSegments | size %}
+                {% if subsection.draft or section.hidden or urlSubsectionSegmentsCount != 3 %}
+                  {% continue %}
+                {% endif %}
+                {% unless subsection.permalink contains section.permalink %}
+                  {% continue %}
+                {% endunless %}
+                {% if page.url == subsection.url %}
+                  {% assign activesection = true %}
+                {% else %}
+                  {% assign activesection = false %}
+                {% endif %}
+                <li class="subsection-menu-item">
+                  <a class="subsection-menu-link {% if activesection %}active{% endif %}" href="{{ subsection.permalink | prepend: site.baseurl }}">{{ subsection.title }}</a>
+                </li>
+              {% endfor %}
+            </ul> <!-- .subsections-menu-group -->
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  </nav>
+{% endcapture %}
+
+<header class="hidden-print hidden-xs hidden-sm">
+  <a class="home-link {% if page.url == '/' %}active{% endif %}" href="/">
+    {% include /svg/basimilch_logo.svg %}
+  </a>
+  <div id="right-hand-nav-menu">
+    {{navmenu}}
+    {% include search_form.html %}
+  </div>
+</header>
+
+<header class="hidden-print visible-xs visible-sm">
+  <a class="home-link {% if page.url == '/' %}active{% endif %}" href="/">
+    {% include /svg/basimilch_logo.svg %}
+  </a>
+  <button type="button" class="navbar-toggle">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <div id="floating-nav-menu">
+    {{ navmenu }}
+  </div>
+</header>

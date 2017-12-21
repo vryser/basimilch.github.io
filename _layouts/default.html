@@ -1,0 +1,20 @@
+---
+layout: body_wrapper
+---
+
+<div class="banner-label"><a href="/genossenschaft/#abo-bestellen">Hier anmelden!</a></div>
+<div class="wrapper">
+  {% include header.html %}
+  {% include debug_trace.html %}
+  {% include next_event_alert.html %}
+  {% include content_header.html %}
+  <section>
+    <div class="page-content">
+      <div class="wrap">
+        {{ content }}
+      </div>
+    </div>
+  </section>
+  {% include content_footer.html %}
+  {% include footer.html %}
+</div>

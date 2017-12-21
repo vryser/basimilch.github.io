@@ -1,0 +1,14 @@
+{% assign events = site.data.events | sort: 'start' %}
+{% for event in events %}
+  {% assign event_time = event.end | default: event.start %}
+  {% if site.time >= event_time %}{% continue %}{% endif %}
+  <section class="next-event-alert" {% include event_dates_attrs event=event %} >
+    <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+    <b>{% if event.title_short %}{{event.title_short}}{% else %}{{event.title}}{% endif %}</b>
+    {% include short_date_german date=event.start %},
+    {% include event_hours event=event only_start=true %},
+    {{event.place}}.
+    <em><a href="/veranstaltungen/#{% include event_id event=event %}">Mehr Info...</a></em>
+  </section>
+  {% break %}
+{% endfor %}

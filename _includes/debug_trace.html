@@ -1,0 +1,26 @@
+{% if site.debugmode %}
+  <section>
+    <!-- Breadcrumbs code from: http://stackoverflow.com/a/14512451 -->
+    <ul class="breadcrumb">
+        <li><a href="/">home</a> </li>
+        {% assign breadcrumbs = page.url | split: '/' %}
+        {% for crumb in breadcrumbs offset:1 %}
+            {% unless crumb == 'index.html' %}
+                <li> {{ crumb | remove: '.html' }} </li>
+            {% endunless %}
+        {% endfor %}
+    </ul>
+    <div>
+      <strong>debugmode:</strong> {{ site.debugmode }}
+      <br>
+      <strong>page.url:</strong> {{ page.url }}
+      <br>
+      <strong>breadcrumbs:</strong> {{ breadcrumbs }}
+      <br>
+      <strong>permalink:</strong> {{ page.permalink }}
+      <br>
+      <strong>file path:</strong> {{ page.path }}
+      <br>
+    </div>
+  </section>
+{% endif %}

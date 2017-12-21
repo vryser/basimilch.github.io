@@ -1,0 +1,82 @@
+{% assign events = site.data.events | sort: 'start' %}
+{% assign events_found = false %}
+{% if include.display == 'past' %}
+  {% assign events = events | reverse %}
+{% endif %}
+{% for event in events %}
+  {% assign start_day = event.start | date: "%d" %}
+  {% assign open_end_event = true %}
+  {% assign multi_day_event = false %}
+  {% if event.end %}
+    {% assign open_end_event = false %}
+    {% assign end_day = event.end | date: "%d" %}
+    {% if start_day != end_day %}
+      {% assign multi_day_event = true %}
+    {% endif %}
+  {% endif %}
+  {% if include.display == 'upcoming' %}
+    {% assign event_class = "event-upcoming" %}
+    {% if site.time >= event.start %}{% continue %}{% endif %}
+  {% elsif include.display == 'past' %}
+    {% assign event_class = "event-past" %}
+    {% if site.time < event.start %}{% continue %}{% endif %}
+  {% endif %}
+  {% assign events_found = true %}
+  <div id="{% include event_id event=event %}" class="event-item {{event_class}}{% if event.type == "extern" %} event-extern{% endif %}" {% include event_dates_attrs event=event %} >
+    {% if event.image %}
+      <a href="{{ event.url | default: event.place_url }}">
+        <img class="event-image" src="/images/{{event.image}}" alt="Image for {{event.title | xml_escape}}">
+      </a>
+    {% endif %}
+    <div class="event-title">{{event.title}}</div>
+    <a href="{{ event.place_url | default: event.url }}">{{event.place}}</a><br>
+    <div class="event-address">
+      <span class="glyphicon glyphicon-map-marker"></span>
+      {{event.address}}
+      {% unless event.address_2 %}
+        (<a href="{{event.map_url}}">Karte</a>)
+      {% endunless %}
+    </div>
+    {% if event.address_2 %}
+      <div class="event-address-2">
+        {{event.address_2}} (<a href="{{event.map_url}}">Karte</a>)
+      </div>
+    {% endif %}
+    <div class="event-date">
+      <span class="glyphicon glyphicon-calendar"></span>
+      {% include long_date_german date=event.start %}
+    </div>
+    {% if multi_day_event %}
+      <div class="event-address-2">
+        {% include long_date_german date=event.end %}
+      </div>
+    {% endif %}
+    <div class="event-time">
+      <span class="glyphicon glyphicon-time"></span>
+      {% if multi_day_event %}
+        {{event.day_hours}}
+      {% else %}
+        {% include event_hours event=event open_end_event=open_end_event %}
+      {% endif %}
+    </div>
+    {% if event.url %}
+      <div class="event-link">
+        <span class="glyphicon glyphicon-link"></span>
+        <a href="{{event.url}}" target="_blank">{{event.url}}</a><br>
+      </div>
+    {% endif %}
+    {% if event.info %}
+      <div class="event-info">
+        <span class="glyphicon glyphicon-info-sign"></span>
+        <div class="event-info-text">{{event.info | markdownify}}</div>
+      </div>
+    {% endif %}
+  </div>
+{% endfor %}
+{% unless events_found %}
+  {% if include.display == 'upcoming' %}
+  <p>Im Moment sind keine weitere Veranstaltungen geplannt.</p>
+  {% elsif include.display == 'past' %}
+  <p>Keine vergangene Veranstaltungen.</p>
+  {% endif %}
+{% endunless %}

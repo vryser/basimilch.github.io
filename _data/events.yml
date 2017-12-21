@@ -1,0 +1,474 @@
+# Events related to the basimilch project.
+# See example of usage of this data in ../_includes/event-list.html.
+
+- title:      ortoloco 5. Jubiläumsfestival
+  start:      2015-09-05 14:00:00 +0200
+  end:        2015-09-05 19:00:00 +0200
+  image:      logos/ortoloco_avatar.png
+  place:      Biohof Fondli
+  address:    Spreitenbacherstrasse 35, 8953 Dietikon
+  map_url:    https://www.google.ch/maps/place/Spreitenbacherstrasse+35+8953+Dietikon+Switzerland
+  url:        http://ortoloco.ch
+
+- title:      Infoanlass und Degustation
+  start:      2015-09-09 16:00:00 +0200
+  end:        2015-09-09 20:00:00 +0200
+  place:      Foodcoop TOR14
+  image:      logos/tor14_logo.png
+  address:    Bäckesstrasse 54, Zürich
+  map_url:    https://www.google.ch/maps/place/Bäckerstrasse+54+8004+Zürich+Switzerland
+  url:        http://www.tor14.ch
+
+- title:      Infoanlass und Degustation
+  start:      2015-09-19 14:00:00 +0200
+  end:        2015-09-19 16:00:00 +0200
+  place:      Biohof Im Basi
+  image:      logos/basimilch_avatar.png
+  place_url:  /kontakt/
+  address:    Alte Kindhauserstrasse 3, Dietikon
+  map_url:    https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+
+- title:      Infoveranstaltung bei meh-als-gmües
+  title_short: Infoveranstaltung # title_short used for the 'next event' alert
+  start:      2015-09-25 19:00:00 +0200
+  end:        2015-09-25 20:00:00 +0200
+  place:      mehr-als-wohnen
+  image:      events/mehalsgmues_poster.jpg # http://www.mehalsgmues.ch/Leporello1.jpg
+  place_url:  http://mehralswohnen.ch
+  address:    Hunzikerareal
+  address_2:  Hagenholzstrasse 104b, 8050 Zürich
+  map_url:    https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland
+  url:        http://www.mehalsgmues.ch
+  info: >
+    Fabian erklärt wieso
+    [CSA](https://en.wikipedia.org/wiki/Community-supported_agriculture)
+    Projekte (auf Deutsch
+    [regionale Vertragslandwirtschaft](https://de.wikipedia.org/wiki/Solidarische_Landwirtschaft))
+    so wichtig sind, und stellt als Beispiel unsere Genossenschaft vor.
+
+- title:      Stand bei "Zürich tischt auf"
+  start:      2015-09-26 12:00:00 +0200
+  end:        2015-09-26 17:00:00 +0200
+  place:      foodwaste.ch
+  image:      events/zuritischtauf_poster.png # http://foodwaste.ch/wp-content/uploads/2015/08/Bildschirmfoto-2015-09-01-um-00.09.52.png
+  place_url:  http://foodwaste.ch
+  address:    Helvetiaplatz, 8004 Zürich
+  map_url:    https://www.google.ch/maps/place/Helvetiaplatz+8004+Zürich+Switzerland
+  url:        http://foodwaste.ch/unsere-projekte/kommend/zuerich-tischt-auf/
+  info: >
+    Mit unseren Gemüsenachbarn von [ortoloco](/freunde/#ortoloco)
+    zeigen wir euch, wie fein, dass man in Zürich regional essen kann.
+    Und wieso eigentlich dies auch viel mehr
+    [Sinn](https://de.wikipedia.org/wiki/Solidarische_Landwirtschaft)
+    macht.
+
+- title:      Depotantrag und Infoveranstaltung
+  start:      2015-09-30 17:30:00 +0200
+  end:        2015-09-30 18:30:00 +0200
+  place:      Brache Guggach
+  image:      logos/brache_guggach_logo.png # http://www.gz-zh.ch/typo3temp/pics/freiraum_logo_web_03_9172212d5c.jpg
+  address:    Haltestelle Radiostudio
+  address_2:  Wehntalerstrasse 109, 8057 Zürich
+  map_url:    https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland
+  url:        http://www.gz-zh.ch/gz-buchegg/brache/
+  info: >
+    Wir diskutieren über die Möglichkeit, dass dort ein
+    basimilch-Depot entsteht. Natürlich könnt ihr die Gelegenheit
+    nutzen, eure Fragen über das Projekt dann zu stellen!
+
+- title:      Bettina Dyttrich Lesung
+  type:       extern
+  start:      2015-10-24 15:00:00 +0200
+  end:        2015-10-24 16:30:00 +0200
+  image:      logos/fondlihof_logo.jpg # From http://www.biohof-fondli.ch/Logo_orange_kl.jpg
+  place:      Kulturstall Biohof Im Fondli
+  place_url:  http://www.biohof-fondli.ch/Fondli-Home.html
+  address:    Spreitenbacherstrasse 35, 8953 Dietikon
+  map_url:    https://www.google.ch/maps/place/Spreitenbacherstrasse+35+8953+Dietikon+Switzerland
+  url:        http://www.rotpunktverlag.ch/cgi-bin/germinal_shop.exe/VOLL?prolitnummer=5000667&titel_nummer=5000667&titel_id=5000667&caller=rotpunkt
+  info: >
+    Die Autorin und WOZ-Redaktorin Bettina Dyttrich liest im Rahmen
+    des Zürich liest-Festivals auf dem Biohof Im Fondli aus ihrem neu
+    erschienenen Buch "Gemeinsam auf dem Acker. Solidarische
+    Landwirtschaft in der Schweiz". Eine Führung durch die
+    Gartenkooperative ortoloco zeigt ausserdem, wie eine solche
+    Zusammenarbeit konkret funktioniert. Eintritt 10.- (inkl. Apéro).
+
+- title:      2-Tage Stand am Slow Food Market
+  start:      2015-11-14 10:00:00 +0100
+  end:        2015-11-15 19:00:00 +0100
+  day_hours:  10:00 - 19:00
+  place:      Slow Food Market
+  image:      logos/slowfoodmarket_logo.png # http://www.slowfoodmarket.ch/uploads/tx_smedialmseventcalendar/SLOW2011_4c_01.gif
+  address:    Messe Zürich, Halle 9
+  address_2:  Thurgauerstrasse 7, 8050 Zürich
+  map_url:    https://www.google.ch/maps/place/Thurgauerstrasse+7+8050+Zürich+Switzerland
+  url:        http://www.slowfoodmarket.ch
+  info: >
+    Dieses Jahr haben wir die Ehre, uns und unsere Genossenschaft an
+    dieser Referenzmesse vorzustellen. Samstag und Sonntag findet ihr
+    uns dort zusammen mit der
+    [Kleinbauern-Vereinigung](/freunde/#kleinbauern-vereinigung).
+
+- title:      Infoanlass und Degustation
+  start:      2015-11-28 13:00:00 +0100
+  end:        2015-11-28 15:00:00 +0100
+  place:      Biohof Im Basi
+  image:      logos/basimilch_avatar.png
+  place_url:  /kontakt/
+  address:    Alte Kindhauserstrasse 3, Dietikon
+  map_url:    https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+
+- title:      Erste ordentliche Genossenschaftsversammlung
+  title_short: Erste ordentliche GV
+  start:      2015-12-13 13:00:00 +0100
+  end:        2015-12-13 16:00:00 +0100
+  place:      Biohof Im Basi
+  image:      logos/basimilch_avatar.png
+  place_url:  /kontakt/
+  address:    Alte Kindhauserstrasse 3, Dietikon
+  map_url:    https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+  info: >
+    Details und offizielle Einladung werden wir Anfang Dezember per
+    E-Mail schicken. Aber das Datum könnt ihr euch schon merken! :)
+    Und weil GVs öffentlich sind, sind an dieser Veranstaltung auch
+    interessierte gerne wilkommen!
+
+- title:        Standaktion in der Baugenossenschaft Im Gut
+  title_short:  Standaktion im Gut
+  start:        2016-04-16 11:00:00 +0200
+  end:          2016-04-16 13:00:00 +0200
+  image:        logos/baugenossenschaft_im_gut_logo.png
+  place:        Baugenossenschaft Im Gut
+  place_url:    http://www.baugig.ch
+  address:      Spielplatz neben Schulhaus im Gut
+  address_2:    Gutstrasse, 8055 Zürich
+  map_url:      https://www.google.com/maps/d/viewer?mid=zdeOc1qgK1qY.kVNRrBAWBohI
+  info: >
+    Ab Anfang 2017 gibt es neue Abos von basimilch. Bist du interessiert? Wir
+    veranstalten eine Standaktion beim Spielplatz neben dem Schulhaus im Gut.
+    Gerne erklären wir dir, wie basimilch funktioniert und warum ein Abo von
+    basimilch eine sehr tolle Sache ist. Kommt zahlreich, eine Anmeldung ist
+    nicht nötig.
+
+- title:        Infoanlass Gemeinschaftsraum Heiligfeld
+  title_short:  Infoanlass im Heiligfeld
+  start:        2016-04-20 20:00:00 +0200
+  end:          2016-04-20 21:30:00 +0200
+  image:        logos/verein_brahmsstrasse_logo.png
+  place:        Gemeinschaftsraum Heiligfeld
+  place_url:    http://www.vereinbrahmsstrasse.ch/IndexNeu/Seiten/VereinInfo/VereinGemraum.html
+  address:      Brahmsstrasse 88, 8003 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Brahmsstrasse+88+8003+Zürich+Switzerland
+  info: >
+    Ab Anfang 2017 gibt es neue Abos von basimilch. Bist du interessiert? Am
+    Infoanlass beantworten wir dir gerne deine Fragen über das Projekt und
+    erklären dir, warum ein Abo von basimilch eine sehr tolle Sache ist. Kommt
+    zahlreich, eine Anmeldung ist nicht nötig.
+
+- title:        Standaktion Gemeinschaftsraum GBL im Areal Stooss
+  title_short:  Standaktion Gemeinschaftsraum GBL
+  # type:       extern
+  start:        2016-05-28 11:00:00 +0200
+  end:          2016-05-28 13:00:00 +0200
+  image:        logos/gemeinnuetzige_baugenossenschaft_limmattal.png
+  place:        Areal Stooss - Letzigraben - Mühlezelgstrasse
+  place_url:    http://www.gbl-online.ch/liegenschaften/liegenschaften_einzeln/?1=1&liegenschaften_id=175659
+  address:      Letzigraben 144, 8047 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Letzigraben+144+8047+Zürich+Switzerland
+  info: >
+    Am Hofflohmarkt im Areal Stooss dürfen wir basimilch mit einem Infostand
+    vertreten. Ab Anfang 2017 gibt es neue Abos. Bist du interessiert? Am Stand
+    beantworten wir gerne deine Fragen rund ums basimilch-Abo. Wir freuen uns
+    auf dich!
+
+- title:        Eröffnungsapéro WerkstattGemüselagerMilchdepot
+  title_short:  Anlass mehr-als-wohnen
+  # type:       extern
+  start:        2016-04-22 17:00:00 +0200
+  end:          2016-04-22 20:00:00 +0200
+  # url:
+  image:        logos/mehr-als-wohnen_logo.png # http://www.mehralswohnen.ch/fileadmin/images/mehr-als-wohnen_logo_hellgruen.png
+  place:        mehr-als-wohnen
+  place_url:    http://mehralswohnen.ch
+  address:      Hunzikerareal
+  address_2:    Hagenholzstrasse 104b, 8050 Zürich
+  map_url:      https://www.google.ch/maps/place/Hagenholzstrasse+104b+8050+Zürich+Switzerland
+  # info: >
+  #   Diese Veranstaltung veröffentlichen...
+
+- title:        Standaktion Gemeinschaftszentrum Buchegg
+  title_short:  GZ Buchegg
+  # type:       extern
+  start:        2016-06-05 11:00:00 +0200
+  end:          2016-06-05 13:00:00 +0200
+  # day_hours:    10h - 18h
+  # url:
+  image:        logos/zgz_buchegg_logo.png
+  place:        Gemeinschaftszentrum Buchegg
+  place_url:    http://www.gz-zh.ch/gz-buchegg/
+  address:      Bucheggstrasse 93, 8057 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Bucheggstrasse+93+8057+Zürich+Switzerland
+  info: >
+    Am Familiensonntag im GZ Buchegg dürfen wir basimilch mit einem Infostand
+    vertreten. Ab Anfang 2017 gibt es neue Abos. Bist du interessiert? Am Stand
+    beantworten wir gerne deine Fragen rund ums basimilch-Abo. Wir freuen uns
+    auf dich!
+
+- title:        Sommerfest basimilch
+  # title_short:
+  # type:       extern
+  start:        2016-06-18 14:00:00 +0200
+  # end:          2016-06-19 21:00:00 +0200
+  # day_hours:    10h - 18h
+  # url:
+  image:        logos/basimilch_avatar.png
+  place:        Biohof Im Basi
+  place_url:    /kontakt/
+  address:      Alte Kindhauserstrasse 3, Dietikon
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+  info: >
+    Seit bald einem halben Jahr läuft basimilch erfolgreich dank dem engagierten
+    Einsatz der ganzen Genossenschaft. Das soll man feiern! Wir laden euch alle
+    –Genossenschafter_innen, basimilch-Freunde und Interessierte– zum Sommerfest
+    auf den Hof Im Basi ein. Wir freuen uns darauf, bei feinem Essen, Trinken
+    und Unterhaltung einen schönen Frühsommerabend dort, wo unsere Milch mit
+    Liebe produziert wird, miteinander gemütlich zu geniessen.
+
+- title:        "Eröffnungsapéro Depot: Zirkus Chnopf"
+  title_short:  Depot-Eröffnungsapéro
+  # type:       extern
+  start:        2016-07-02 14:00:00 +0200
+  end:          2016-07-02 16:00:00 +0200
+  # day_hours:    14h - 16h
+  # url:
+  image:        logos/zirkus_chnopf_logo.png
+  place:        Zirkus Chnopf auf dem Kochareal
+  place_url:    http://www.chnopf.ch/
+  address:      Flurstrasse 85, 8047 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Flurstrasse+85+8047+Zürich+Switzerland
+  info: >
+    Am 2. Juli eröffnen wir das neue Depot: Zirkus Chnopf auf dem Kochareal.
+    Wir laden euch alle – Genossenschafter_innen, basimilch-Freunde und
+    Interessierte - zum Eröffnungsapéro ein. Herzlichen Dank - Zirkus Chnopf -
+    dass ihr uns den Platz zur Verfügung stellt.
+
+- title:        Stand an der Stadionbrachechilbi
+  title_short:  Brachechilbi
+  # type:         extern
+  start:        2016-08-28 10:00:00 +0200
+  end:          2016-08-28 22:00:00 +0200
+  # day_hours:    14h - 16h
+  url:          https://www.facebook.com/events/1368285266522137/
+  image:        logos/stadionbrache_chilbi.png
+  place:        Stadionbrache Hardturm
+  place_url:    http://www.stadionbrache.ch
+  address:      Hardturmstrasse 269, 8005 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Stadionbrache+Hardturm+Zürich+Hardturmstrasse+Zürich+Switzerland
+  info: >
+    Kommt alle an das grosse Brachen-Sommerfest! Karrettenrundfahrten,
+    Versteigerungen, Schneckenrennen, Pet-Raketen, Wellnessoase... Buschbühne,
+    Kinderchor Schule am Wasser, Gitarrensolo, Geschichten, Spiele, Bands,
+    Brachenorchester, livingroom, Akkordeon, Slam, Lagerfeuer, Feuershow,
+    Tanzbein... Stadiongrill, Skaterbar, Pizzaofen , Pyrolyse-Crêpes,
+    Glacéstand... Das und vieles mehr gibts für die Tageswährung "Brachenkies"
+    zur hören, staunen, essen und spielen. Der ganze Erlös der Brachechilbi
+    kommt vollumfänglich der Stadionbrache zugute!
+
+- title:        Infoapero Depot Wipkingen
+  title_short:  Infoapero Wipkingen
+  # type:         extern
+  start:        2016-08-20 14:00:00 +0200
+  end:          2016-08-20 16:00:00 +0200
+  # day_hours:    14h - 16h
+  # url:          https://www.url.ch
+  image:        logos/basimilch_avatar.png
+  place:        Nähe Depot Wipkingen
+  place_url:    https://www.google.ch/maps/place/47°23'41.4%22N+8°31'24.9%22E/@47.394833,8.5230485,220m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d47.394833!4d8.523597
+  address:      auf dem Platz bei der Kreuzung Trotten- und Kleinertstrasse
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/47°23'41.4%22N+8°31'24.9%22E/@47.394833,8.5230485,220m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d47.394833!4d8.523597
+  info: >
+    Im basimilch Depot Wipkingen gibt es wieder Platz! Infoapero für alle
+    Personen, die in und um Wipkingen wohnen und schon bei basimilch dabei sind
+    oder sich für ein Milchprodukteabo interessieren!
+
+- title:        Infoapero Pflanzplatz Dunkelhölzli
+  # title_short:
+  # type:         extern
+  start:        2016-09-21 18:00:00 +0200
+  end:          2016-09-21 20:00:00 +0200
+  # day_hours:    14h - 16h
+  # url:          https://www.url.ch
+  image:      logos/dunkelhoelzli_logo.png
+  place:      Pflanzplatz Dunkelhölzli
+  place_url:  https://www.dunkelhoelzli.ch
+  address:    Dunkelhölzlistrasse 19, Zürich
+  address_2:  Endstation Dunkelhölzli VBZ-Bus Nr. 67 / 78 / 35
+  map_url:    https://www.google.ch/maps/place/Dunkelhoelzlistrasse+19+Zürich+Switzerland
+  info: >
+    Das Basimilchabo - die ideale Ergänzung zum Gemüseabo! Eine Infoveranstaltung
+    speziell für alle mit einem Dunkelhölzli Gemüseabo, und alle anderen, die
+    unser Infoapero auf dem Pflanzplatz im Dunkelhölzli besuchen wollen.
+
+- title:        Infoanlass und Degustation
+  # title_short:
+  # type:         extern
+  start:        2016-11-23 16:00:00 +0100
+  end:          2016-11-23 20:00:00 +0100
+  # day_hours:    14h - 16h
+  # url:          https://www.url.ch
+  image:      logos/tor14_logo.png
+  place:      Foodcoop TOR14
+  place_url:  http://tor14.ch
+  address:    Bäckesstrasse 52, Zürich
+  # address_2:
+  map_url:    https://www.google.ch/maps/place/Bäckerstrasse+52+8004+Zürich+Switzerland
+  # info: >
+  #   more info
+
+- title:        Infoanlass und Degustation
+  # title_short:
+  # type:         extern
+  start:        2016-11-26 15:00:00 +0100
+  end:          2016-11-26 18:00:00 +0100
+  # day_hours:    14h - 16h
+  # url:          https://www.url.ch
+  image:      logos/tor14_logo.png
+  place:      Foodcoop TOR14
+  place_url:  http://tor14.ch
+  address:    Bäckesstrasse 52, Zürich
+  # address_2:
+  map_url:    https://www.google.ch/maps/place/Bäckerstrasse+52+8004+Zürich+Switzerland
+  # info: >
+  #   more info
+
+- title:        Apéro Depoteröffnung Kraftwerk
+  title_short:  Depoteröffnung Kraftwerk
+  # type:         extern
+  start:        2017-02-10 17:00:00 +0100
+  end:          2017-02-10 19:00:00 +0100
+  # day_hours:    14h - 16h
+  # url:          https://www.url.ch
+  image:      logos/kraftwerk1_logo.png
+  place:      Pantoffelbar des Kraftwerk 1
+  place_url:  http://www.kraftwerk1.ch/hardturm/siedlung.html
+  address:    Hardturmstrasse 269, 8005 Zürich
+  # address_2:
+  map_url:    https://www.google.ch/maps/place/Hardturmstrasse+269+8005+Zürich+Switzerland
+  # info: >
+  #   more info
+
+- title:        Apéro im Depot der Baugenossenschaft Im Gut
+  title_short:  Apéro Im Gut
+  # type:         extern
+  start:        2017-04-01 15:00:00 +0200
+  end:          2017-04-01 17:00:00 +0200
+  # day_hours:    15h - 17h
+  # url:          https://www.url.ch
+  image:        logos/baugenossenschaft_im_gut_logo.png
+  place:        Ecke Gutstrasse / Schaufelbergerstrasse
+  place_url:    http://www.baugig.ch
+  address:      Gutstrasse 135, 8055 Zürich
+  # address_2:
+  map_url:      https://goo.gl/maps/gAYSL4gkLGU2
+  info: >
+    Käse, Quark, Joghurt feinschmecken, Infos und
+    Anmeldung.
+
+- title:        Apéro im Depot Heizenholz
+  title_short:  Apéro Heizenholz
+  # type:         extern
+  start:        2017-04-08 14:30:00 +0200
+  end:          2017-04-08 16:30:00 +0200
+  # day_hours:    14.30 - 16.30
+  # url:          https://www.url.ch
+  image:        logos/kraftwerk1_logo.png
+  place:        Kraftwerk 1 Heizenholz, beim Depot
+  place_url:    http://www.kraftwerk1.ch/heizenholz/siedlung.html
+  address:      Regensdorferstrasse 194, 8049 Zürich
+  # address_2:
+  map_url:      https://goo.gl/maps/FnhKk6spPrr
+  info: >
+    Käse, Quark, Joghurt feinschmecken, Infos und
+    Anmeldung.
+
+- title:        Zweite ordentliche Genossenschaftsversammlung
+  title_short:  Zweite ordentliche GV
+  # type:         extern
+  start:        2017-05-07 13:00:00 +0200
+  end:          2017-05-07 16:00:00 +0200
+  # day_hours:    14.30 - 16.30
+  # url:          https://www.url.ch
+  image:        logos/basimilch_avatar.png
+  place:        Biohof Im Basi
+  place_url:    /kontakt/
+  address:      Alte Kindhauserstrasse 3, Dietikon
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland
+  info: >
+    Doppelter Anlass auf dem Hof im Basi: Dankeschön- und Käse-Abhol-Brunch von
+    10-13 Uhr und basimilch GV von 14-17 Uhr. Ein feiner Brunch und live
+    Musik... Details und offizielle Einladung werden wir in Kürze per E-Mail
+    verschicken. GVs sind öffentlich und alle Interessierten sind herzlich
+    wilkommen!
+
+- title:        Basimilch am 1. Mai Fest in Zürich
+  title_short:  1. Mai Fest
+  # type:         extern
+  start:        2017-04-29 12:00:00 +0200
+  end:          2017-05-01 22:00:00 +0200
+  day_hours:    12:00 - 22:00
+  url:          https://www.1mai.ch/fest/
+  image:        logos/erster_mai_surich_fest_logo.png
+  place:        Kasernenareal
+  place_url:    http://www.kasernenareal-zuerich.ch
+  address:      Militärstrasse 5-25, 8004 Zürich
+  # address_2:
+  map_url:      https://www.google.ch/maps/place/Militärstrasse+5-25+8004+Zürich+Switzerland
+  info: >
+    basimilch ist präsent am Stand zu Solidarischer Landwirtschaft.
+
+- title:        Standaktion an der Musikwelle Guggach
+  # title_short:
+  # type:         extern
+  start:        2017-09-09 13:00:00 +0200
+  end:          2017-09-09 17:00:00 +0200
+  # day_hours:    12:00 - 22:00
+  url:          https://www.bracheguggach.ch/events/musikwelle-guggach-17-1/
+  image:        events/20170909_musikwelle_guggach_2017.jpg
+  place:        Brache Guggach
+  place_url:    http://www.gz-zh.ch/gz-buchegg/brache/
+  address:      Haltestelle Radiostudio
+  address_2:    Wehntalerstrasse 109, 8057 Zürich
+  map_url:      https://www.google.ch/maps/place/Wehntalerstrasse+109+8057+Zürich+Switzerland
+  info: >
+    Am Samstagnachmittag haben wir einen Infostand an der Musikwelle auf der
+    Brache Guggach. Ihr könnt die Gelegenheit nutzen, um uns persönlich
+    kennenzulernen und eure Fragen zu unserem Projekt zu stellen!
+
+- title:        Standaktion an der Ernährungswende Zürich
+  title_short:  Standaktion Ernährungswende Zürich
+  # type:         extern
+  start:        2017-09-16 15:00:00 +0200
+  end:          2017-09-16 22:00:00 +0200
+  # day_hours:    12:00 - 22:00
+  url:          https://www.foodzurich.com/de/events/2284/ernährungswende-zürich?date=2017-09-16
+  image:        logos/food_zurich.png
+  place:        Food Zürich Festival
+  place_url:    https://www.foodzurich.com/de/
+  address:      Zürcher Engrosmarkt
+  address_2:    Aargauerstrasse 1, 8048 Zürich
+  map_url:      https://www.google.ch/maps/place/Aargauerstrasse+1+8048+Zürich+Switzerland
+  info: >
+    Wir werden mit einem Stand zusammen mit anderen Projekten der Solidarischen
+    Landwirtschaft (wie zum Beispiel unsere Freunde von
+    <a href="/freunde/#ortoloco">ortoloco</a>) an der Ernährungswende Zürich
+    anwesend sein, die Teil des Food Zürich Festivals
+    ist.

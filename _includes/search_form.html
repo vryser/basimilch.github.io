@@ -1,0 +1,17 @@
+<!-- Search Google -->
+<!-- SOURCE: http://books.gigatux.nl/mirror/googlehacks/0596008570/googlehks2-CHP-1-SECT-30.html -->
+<form id="search_form" method="get" action="https://www.google.com/search" target="_blank" class="form-horizontal">
+    <div class="form-group">
+      <div class="col-xs-12 col-xs-offset-0">
+        <input type="text" class="form-control" name="q" size="31" maxlength="255" value=""
+            placeholder="Suche {% include trim_url url=site.url %}">
+      </div>
+    </div>
+    <input type="hidden" name="as_sitesearch" value="{{site.url}}">
+</form>
+
+<!--
+    Consider implementing it as Google suggests:
+      https://cse.google.com/cse/tools/create_onthefly
+      https://developers.google.com/custom-search/docs/tutorial/implementingsearchbox
+-->
