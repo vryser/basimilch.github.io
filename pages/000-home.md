@@ -7,9 +7,10 @@ permalink: /
   <div style="font-weight:bold;">
     Freie ortoloco Gemüseabos für's 2018
   </div>
-  Die grossartige Gartenkooperative ortoloco hat noch wenige Abos für 2018 zu vergeben! Wer im Raum Zürich/Dietikon wohnt und Lust hat auf Gemüse aus solidarischer Landwirtschaft kann sich jetzt anmelden. Mehr Infos:
-  <a href=" http://www.ortoloco.ch">
-  </a>
+  Die grossartige Gartenkooperative ortoloco hat noch wenige Abos für 2018 zu
+  vergeben! Wer im Raum Zürich/Dietikon wohnt und Lust hat auf Gemüse aus
+  solidarischer Landwirtschaft kann sich jetzt anmelden. Mehr Infos:
+  <a href="http://www.ortoloco.ch/">ortoloco.ch</a>
 </div>
 
 
