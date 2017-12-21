@@ -5,12 +5,10 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
-    Basimilch Abos fürs 2018 – Stichtag für Neuanmeldungen ist der 15. Dezember 2017!
+    Freie ortoloco Gemüseabos für's 2018
   </div>
-  Willst Du im 2018 feine naturbelassene Milchprodukte wöchentlich im Depot in
-  Deiner Nähe abholen? Neuanmeldungen sind bis zum 15. Dezember möglich.
-  <a href="/genossenschaft/#abo-bestellen">
-    Schreibe Dich jetzt auf der Warteliste ein!
+  Die grossartige Gartenkooperative ortoloco hat noch wenige Abos für 2018 zu vergeben! Wer im Raum Zürich/Dietikon wohnt und Lust hat auf Gemüse aus solidarischer Landwirtschaft kann sich jetzt anmelden. Mehr Infos:
+  <a href=" http://www.ortoloco.ch">
   </a>
 </div>
 
